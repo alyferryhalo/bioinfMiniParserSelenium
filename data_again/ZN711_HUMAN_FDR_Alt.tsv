@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	ZN711_HUMAN_FDR_Ref	ZN711_HUMAN_FDR_Alt	ZN711_HUMAN_Effect_Size_Ref	ZN711_HUMAN_Effect_Size_Alt
+chr17	63774326	T	G	ZN711_HUMAN,JUN_HUMAN,MNT_HUMAN,ELF1_HUMAN,NRF1_HUMAN	MCF7 (Invasive ductal breast carcinoma)	0.0	1.4211662077202316	-0.737	1.003

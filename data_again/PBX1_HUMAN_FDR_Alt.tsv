@@ -1,0 +1,463 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	PBX1_HUMAN_FDR_Ref	PBX1_HUMAN_FDR_Alt	PBX1_HUMAN_Effect_Size_Ref	PBX1_HUMAN_Effect_Size_Alt
+chr1	1438102	G	C	FOXK2_HUMAN,PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	1.335363701928768	0.0	0.981	-0.99
+chr1	2077249	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.6480304480455135	0.0	1.535	-2.14
+chr1	2450129	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.583796014086042	-1.3219999999999998	1.176
+chr1	8117504	C	T	PBX1_HUMAN	HEK293 (embryonic kidney),ICN12 (primary pre-B acute lymphomablastic leukemia)	1.8042455726054363	0.0	1.3630000000000002	-1.125
+chr1	8117505	G	A	PBX1_HUMAN	HEK293 (embryonic kidney),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.854576955710074	-1.177	1.3519999999999999
+chr1	14243013	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	6.604180471929722	0.0	1.9869999999999999	
+chr1	17182071	A	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	4.157367500387335	0.0	1.663	-1.867
+chr1	20333191	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.8203596656753964	-2.07	1.5830000000000002
+chr1	22161007	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.5516969778204568	0.0	1.236	
+chr1	22634332	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.588522748023641	-1.649	1.4809999999999999
+chr1	22634368	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.158011137528436	-1.953	1.6569999999999998
+chr1	22634422	A	G	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.5865710186371325	-2.015	1.528
+chr1	22634453	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.0947406865449545	-1.3869999999999998	1.391
+chr1	22635465	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.44749149502141		1.162
+chr1	38498862	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.6917119027781233	-1.459	1.291
+chr1	42993965	A	G	ESR1_HUMAN,PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.434166815675166	0.0	0.8170000000000001	-0.501
+chr1	67897897	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.424919022302174	-1.391	1.2429999999999999
+chr1	71706219	T	C	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	3.1659056667401493	0.0	0.6859999999999999	
+chr1	76219366	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	3.907231047212038	0.0	1.344	-1.564
+chr1	111406441	C	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.908249191121306	0.0	1.275	-1.196
+chr1	114341557	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.9333285859716995	-1.594	1.464
+chr1	153122891	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	3.859132704856036	0.0	1.819	
+chr1	157968623	C	T	JUN_HUMAN,PBX1_HUMAN	coronary artery smooth muscle,ICN12 (primary pre-B acute lymphomablastic leukemia)	1.9449352495213104	0.0	1.15	-0.068
+chr1	166924949	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.4021553718383357	-1.024	1.396
+chr1	178485633	G	A	IKZF1_HUMAN,PBX1_HUMAN,TFE2_HUMAN	HepG2 (hepatoblastoma),ICN12 (primary pre-B acute lymphomablastic leukemia)	1.6615110770350299	0.0	1.248	-1.058
+chr1	182615194	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.5426386170045303	0.0	1.278	
+chr1	183071006	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3092803203348702	-1.9040000000000001	1.445
+chr1	183593698	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.3328238947976312	0.0	1.44	-2.015
+chr1	200154302	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.4021553718383357	-1.197	1.244
+chr1	202247977	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	4.527064839534023		1.994
+chr1	202629600	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.6552780784019707	0.0	1.315	
+chr1	202980334	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.041203845231246		1.6440000000000001
+chr1	204264326	A	G	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	3.2207753468981046	0.0	1.7109999999999999	-2.6860000000000004
+chr1	204480824	T	C	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	4.280229440178177		1.994
+chr1	205350230	A	G	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.4383125553427076	-1.91	1.5
+chr1	206541857	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.908249191121306	0.0	1.4780000000000002	
+chr1	206656883	T	C	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	5.781494583975787	0.0	2.134	
+chr1	212542996	G	T	SPI1_HUMAN,PBX1_HUMAN	monocyte-derived macrophages,ICN12 (primary pre-B acute lymphomablastic leukemia)	1.894212451640877	0.0	0.7	0.233
+chr1	212701715	T	C	MEF2B_HUMAN,COE1_HUMAN,PBX1_HUMAN,TFE2_HUMAN	GM12878 (female B-cells),Mutu-1 (Epstein-Barr virus-related Burkitt lymphoma),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.906834391779547	-1.2690000000000001	1.135
+chr1	221948533	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.4374331354644985	0.0	1.4080000000000001	-1.048
+chr1	228781304	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.0525520978297966		1.7169999999999999
+chr1	230158111	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.4186894090095288	-1.026	1.431
+chr1	231195790	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.095958079365207		1.66
+chr1	234170873	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.4436986298835341		1.492
+chr1	234955362	T	C	BCL6_HUMAN,PBX1_HUMAN,TFE2_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	3.9175573389362937	0.0	1.956	
+chr1	246106644	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	4.36143124428		1.892
+chr10	1150796	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	4.607310252629493	-2.296	1.889
+chr10	1463296	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.5553531789595336	0.0	1.492	
+chr10	2986691	T	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.5426386170045303	0.0	1.294	-1.5290000000000001
+chr10	3064789	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.321108650774321	0.0	1.078	-1.285
+chr10	14655138	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.5857588493754042	-1.163	1.0070000000000001
+chr10	23928267	G	A	BCL6_HUMAN,PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.9004651378997934	0.0	1.54	-1.744
+chr10	29659393	G	A	STAT1_HUMAN,PBX1_HUMAN	CD14+ monocytes,ICN12 (primary pre-B acute lymphomablastic leukemia)	1.927747247572159	0.0	1.3659999999999999	
+chr10	31090917	T	A	BCL6_HUMAN,MYB_HUMAN,IKZF1_HUMAN,IKZF2_HUMAN,SKIL_HUMAN,MEF2B_HUMAN,ENL_HUMAN,PBX1_HUMAN	GM12878 (female B-cells),Jurkat (T-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.5285014552819087	-1.358	1.355
+chr10	45421669	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.6049860562912723	-1.504	1.355
+chr10	48652085	G	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.322274320538389	-0.903	1.208
+chr10	48652108	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.733087815367048	-1.629	1.3330000000000002
+chr10	61961417	C	T	MYB_HUMAN,IKZF1_HUMAN,PBX1_HUMAN,TFE2_HUMAN	GM12878 (female B-cells),Jurkat (T-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.754045757300811	-0.599	0.847
+chr10	74058317	T	A	ESR1_HUMAN,GATA3_HUMAN,FOXA1_HUMAN,ZEB2_HUMAN,PBX1_HUMAN	VCaP (prostate carcinoma),T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),K562 (myelogenous leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	4.497187300705156	0.049	1.045
+chr10	78992576	G	A	MYB_HUMAN,PBX1_HUMAN,TFE2_HUMAN	Jurkat (T-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	1.593392257941143	0.03963261005510473	0.7959999999999999	-0.065
+chr10	103757825	T	C	GATA2_HUMAN,RUNX1_HUMAN,PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia),SKH1 (chronic myelogenous leukemia, BCR-ABL1 positive)	0.0	1.8384182674815306	-1.881	1.474
+chr10	103757894	A	G	GATA2_HUMAN,RUNX1_HUMAN,ZFX_HUMAN,STAT1_HUMAN,TF65_HUMAN,PBX1_HUMAN	LNCaP C4-2B (prostate carcinoma),CD14+ monocytes,monocyte-derived macrophages,ICN12 (primary pre-B acute lymphomablastic leukemia),SKH1 (chronic myelogenous leukemia, BCR-ABL1 positive)	0.0	1.5323268706826012	-1.195	1.089
+chr10	110153764	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.0599197754123617	0.0	1.42	-1.258
+chr10	116209259	A	G	MYB_HUMAN,PBX1_HUMAN	Jurkat (T-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3362184549955316	0.47600000000000003	1.4969999999999999
+chr10	116265803	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.8762308863335446	0.0	1.281	-1.141
+chr10	123506167	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.171822957394398	-1.229	1.339
+chr10	123506519	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.24109448240279		1.538
+chr10	124605911	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.338201600904876	-1.273	1.135
+chr10	127790497	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.495675745250705	-0.821	1.079
+chr10	130821411	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	4.670573923038654	-1.83	1.681
+chr10	130885551	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.908249191121306	0.0	1.395	-1.764
+chr10	131250330	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.6296839999241979	-1.401	1.251
+chr10	131454183	T	A	CTCF_HUMAN,PBX1_HUMAN,TFE2_HUMAN	VCaP (prostate carcinoma),ICN12 (primary pre-B acute lymphomablastic leukemia),IPSC-derived bipolar neuron,bipolar neuron,NB69 (neuroblastoma)	6.60948232055897	0.0	0.861	0.271
+chr10	132099650	T	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.358451849057589	0.0	1.23	-1.012
+chr11	60377968	G	C	FOXK2_HUMAN,STAT1_HUMAN,TF65_HUMAN,PBX1_HUMAN	CD14+ monocytes,GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.071110592503355	-1.147	1.3719999999999999
+chr11	62019441	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	4.120975759067002	0.0	1.7930000000000001	-2.398
+chr11	64391234	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.7395429090266574	-1.126	1.319
+chr11	65791795	A	G	FOXK2_HUMAN,ZFHX2_HUMAN,PBX1_HUMAN,TFE2_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),Kasumi-1 (childhood acute myeloid leukemia with maturation),LHSAR (prostate epithelial cells),PC3 (prostate carcinoma),ICN12 (primary pre-B acute lymphomablastic leukemia)	3.947429932635887	0.0	1.673	
+chr11	67277110	C	G	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.3193879338772714	-1.47	1.324
+chr11	70617550	C	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.5950057548861412	-1.237	1.242
+chr11	72380184	T	C	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	6.358756433156241	0.0	2.044	
+chr11	117815109	G	A	FOXK2_HUMAN,PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	3.7083525774139634	0.0	1.6480000000000001	-1.68
+chr11	117828662	C	T	MYB_HUMAN,PBX1_HUMAN,TFE2_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia),Loucy (adult T acute lymphoblastic leukemia)	3.778132431728603	0.0	1.651	-1.946
+chr11	117828871	T	G	IKZF2_HUMAN,PBX1_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.9204715243940909	-0.503	0.823
+chr11	117929089	C	T	GATA3_HUMAN,PBX1_HUMAN	MCF7 (Invasive ductal breast carcinoma),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.341585551519216	-1.099	1.4140000000000001
+chr11	122805069	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.820418442089237	-1.749	1.6019999999999999
+chr12	6204879	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.0425134461027916	-1.492	1.525
+chr12	55733293	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.359470687526401	0.0	1.1320000000000001	-0.987
+chr12	67112730	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.598978648498852	-1.242	1.4409999999999998
+chr12	75565078	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	3.657708283816347	0.0	1.445	-1.6130000000000002
+chr12	76704105	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.6598478596741146		1.399
+chr12	79960428	T	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	4.607310252629493	-1.355	1.209
+chr12	81810487	C	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.0372851211687406	0.0	1.311	-1.237
+chr12	92030821	T	C	GATA1_HUMAN,PBX1_HUMAN	CD34+ hematopoietic stem cells-derived proerythroblasts,ICN12 (primary pre-B acute lymphomablastic leukemia)	3.1042441742758387	0.0	1.2590000000000001	-1.158
+chr12	96133982	T	C	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	4.787685436034287	0.0	1.6580000000000001	-1.8230000000000002
+chr12	99454402	T	G	PKNX1_HUMAN,PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	6.510639061891717	0.0	2.026	-2.485
+chr12	107334899	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.8855572853462994	-1.3519999999999999	1.224
+chr12	124868986	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.3023646569560565	-1.2570000000000001	1.3719999999999999
+chr12	124952748	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.6211634208972703	0.0	0.7829999999999999	-0.981
+chr12	124952755	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.9300281671919373	-1.237	1.092
+chr12	128747583	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.8058966306890922	0.0	1.271	-1.051
+chr12	128747597	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.8270383091363813	-1.386	1.494
+chr12	130589886	A	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	3.263778407246134	0.0	1.3969999999999998	-1.565
+chr12	130589945	A	G	MYB_HUMAN,PBX1_HUMAN	Jurkat (T-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	2.487779164253856	0.03961642404673547	0.872	-0.006
+chr13	22321219	C	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	9.634495659063768	0.0	2.19	
+chr13	27005605	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.2649861594977274	-1.7209999999999999	1.463
+chr13	36778273	G	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.908249191121306	0.0	1.395	-1.764
+chr13	63237358	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.908249191121306	0.0	1.395	-1.764
+chr13	102658868	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.812797224793457	-2.0540000000000003	1.758
+chr13	106535786	T	G	CTCF_HUMAN,PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia),foreskin keratinocyte	2.374623234783542	0.0	0.5529999999999999	0.508
+chr13	109166912	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	4.219762239682748	-1.6640000000000001	1.514
+chr13	110525717	G	A	HTF4_HUMAN,SNAI2_HUMAN,PBX1_HUMAN	keratinocytes,GM12878 (female B-cells),Ishikawa (endometrial adenocarcinoma),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.8613863255078233	0.006	1.08
+chr13	113446353	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3484613360477011	-1.2990000000000002	1.1520000000000001
+chr14	20498877	A	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.7531911977274404	-1.5719999999999998	1.422
+chr14	22545118	C	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	6.604180471929722	0.0	2.073	
+chr14	22545162	C	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	7.448107430728279		1.965
+chr14	35439450	G	A	IKZF1_HUMAN,PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.4742591498447695	-0.191	1.324
+chr14	61762219	T	G	PKNX1_HUMAN,IKZF1_HUMAN,FOXK2_HUMAN,PBX1_HUMAN	GM12878 (female B-cells),Jurkat (T-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	6.820308431210821	0.0	0.433	
+chr14	68564555	A	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.8919446361141292		1.195
+chr14	74620733	C	G	GATA3_HUMAN,TBX21_HUMAN,PBX1_HUMAN	H9 (embryonic stem cells),ICN12 (primary pre-B acute lymphomablastic leukemia),Th1-cells	1.319504374536801	0.0	1.172	-1.0290000000000001
+chr14	76976812	A	C	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.495675745250705	-0.917	1.16
+chr14	80978623	G	A	MYB_HUMAN,PBX1_HUMAN,TFE2_HUMAN	Jurkat (T-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.4156887397678966	-0.175	0.754
+chr14	80978764	A	G	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	4.244653570572641	0.0	1.6540000000000001	-1.828
+chr14	80978777	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	4.0790225131746976	0.0	1.578	-1.743
+chr14	89435618	T	A	BCL6_HUMAN,PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.5871524551398672	-1.919	1.7009999999999998
+chr14	92540201	G	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	3.0366689507514115	0.0	1.524	-1.393
+chr14	92540223	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	3.0334057993263768	0.0	1.5030000000000001	-1.5319999999999998
+chr14	95427389	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.359470687526401	0.0	1.1420000000000001	-0.9440000000000001
+chr14	102768376	T	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.0519793340815053		1.239
+chr14	104263263	G	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.0525520978297966	-1.578	1.52
+chr14	104263279	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.406830906349798		1.569
+chr14	104263314	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.928176466195053	-1.544	1.4880000000000002
+chr14	105470935	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.4935196954545495	-1.2690000000000001	1.139
+chr14	106585898	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3592098164310904	-1.093	1.05
+chr14	106627121	T	A	CTCF_HUMAN,PBX1_HUMAN	22RV1 (prostate carcinoma),LNCaP (prostate carcinoma),ICN12 (primary pre-B acute lymphomablastic leukemia),upper lobe of left lung	13.547283254832584	0.0	0.953	-0.433
+chr15	22950492	A	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.5120726885156692	-1.534	1.276
+chr15	26518178	T	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	6.718043575956305	0.0	2.113	
+chr15	26518230	C	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	5.544352632232491	0.0	1.979	-2.485
+chr15	33280814	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	5.587010630672507	0.0	1.952	
+chr15	42387591	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.5516969778204568	0.0	1.2990000000000002	-1.072
+chr15	45869283	A	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.5212776865941406	-1.504	1.2770000000000001
+chr15	55553242	T	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.719536020824905	0.0	1.15	-1.3780000000000001
+chr15	73856936	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.3202070373450974	0.0	1.19	-1.3940000000000001
+chr15	73856968	G	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.9667500347009756	-1.26	1.374
+chr15	77990775	G	A	PBX1_HUMAN,TFE2_HUMAN	K562 (myelogenous leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia)	5.10960253215155	0.0	1.643	
+chr15	77990778	A	C	ARI1B_HUMAN,PBX1_HUMAN,TFE2_HUMAN	K562 (myelogenous leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia)	1.3374560450950468	0.0	1.35	
+chr15	78760413	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.6442072643839811	0.0	1.15	-1.357
+chr15	78761787	C	T	GABPA_HUMAN,TBX21_HUMAN,PBX1_HUMAN	HEK293 (embryonic kidney),Jurkat (T-cells),ICN12 (primary pre-B acute lymphomablastic leukemia),Th1-cells	1.544988216688716	0.0	1.173	-1.015
+chr15	91517242	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.111324143474277		1.626
+chr15	101406752	T	C	IKZF1_HUMAN,PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.0309197601574853		1.2819999999999998
+chr16	4802891	G	C	PBX1_HUMAN	MCF7 (Invasive ductal breast carcinoma),ICN12 (primary pre-B acute lymphomablastic leukemia),foreskin keratinocyte	0.0	1.4021553718383357	-0.981	1.229
+chr16	11225188	G	A	PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.8348337937149855		1.29
+chr16	11310036	C	T	FOXK2_HUMAN,MEF2B_HUMAN,PBX1_HUMAN	GM12878 (female B-cells),HEK293 (embryonic kidney),ICN12 (primary pre-B acute lymphomablastic leukemia)	3.818651035176469	0.0	1.287	-1.515
+chr16	12120314	G	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.9462231489722883	-1.645	1.3869999999999998
+chr16	29025594	G	A	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	5.2389958191255115	0.0	1.94	-2.546
+chr16	46389974	C	G	EP300_HUMAN,EZH2_HUMAN,TAF7_HUMAN,ESR1_HUMAN,ANDR_HUMAN,FOXA1_HUMAN,KDM1A_HUMAN,ZBT8A_HUMAN,MAFK_HUMAN,ZSCA4_HUMAN,PRDM9_HUMAN,SNAI2_HUMAN,PBX1_HUMAN,KDM5B_HUMAN	22RV1 (prostate carcinoma),HEK293T (embryonic kidney),LNCaP C4-2 (prostate carcinoma),keratinocytes,A673 (Ewing sarcoma),H1 (embryonic stem cells),HCT-116 (colon carcinoma),SK-N-SH (neuroblastoma),OCI-LY7 (diffuse large B-cell lymphoma),ICN12 (primary pre-B acute lymphomablastic leukemia),bipolar neuron,ovary,gastroesophageal sphincter,KMS-11	8.952409341965096	0.0	0.8059999999999999	0.107
+chr16	51563126	A	G	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.797904117007766	-1.99	1.5819999999999999
+chr16	56945585	T	A	PBX1_HUMAN,TFE2_HUMAN	K562 (myelogenous leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia)	1.456103956328044	0.0	1.227	-1.17
+chr16	68369751	G	C	PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.486843285355142	-1.145	1.099
+chr16	68370042	T	C	PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	4.219762239682748	-1.8969999999999998	1.715
+chr16	68370063	A	G	PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	4.951825860680275	-2.12	1.85
+chr16	68470759	A	G	STAT1_HUMAN,ITF2_HUMAN,SPI1_HUMAN,PBX1_HUMAN,TFE2_HUMAN	CD14+ monocytes,GM12878 (female B-cells),monocyte-derived macrophages,ICN12 (primary pre-B acute lymphomablastic leukemia),GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	0.0	2.021208820297065	0.06	1.5590000000000002
+chr16	69911189	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.345098090085773	-1.409	1.35
+chr16	71383595	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.7762156971360228	-1.173	1.218
+chr16	75485492	G	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.0648529551726926	-1.327	1.273
+chr16	79849875	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.9494171000492062	-1.038	1.275
+chr16	84948368	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.079604159176865		1.505
+chr16	84948392	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.766872693268453		1.63
+chr16	85258870	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.0947406865449545	-1.103	0.9690000000000001
+chr16	85258955	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.049525066787879	-1.2990000000000002	1.165
+chr16	85261783	G	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.1366314829003064	0.0	1.338	-1.0979999999999999
+chr16	85261911	G	A	COE1_HUMAN,PBX1_HUMAN	Mutu-1 (Epstein-Barr virus-related Burkitt lymphoma),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.8040788123869993	-1.464	1.314
+chr16	85551480	C	G	PBX1_HUMAN	K562 (myelogenous leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.7413221103302934		1.148
+chr16	88046191	C	T	BHE40_HUMAN,IKZF1_HUMAN,ARNT_HUMAN,PBX1_HUMAN,TFE2_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	1.693874279332796	0.0	0.337	
+chr16	88478414	C	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.478155073789387	0.0	1.412	-1.193
+chr16	88600145	C	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	9.44855381315977	0.0	2.117	
+chr16	90013126	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	4.579043623158677		1.767
+chr17	872205	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	9.059751919186134	0.0	2.204	
+chr17	8247086	G	C	SP7_HUMAN,SP2_HUMAN,OSR2_HUMAN,Z518A_HUMAN,ZNF34_HUMAN,ZN555_HUMAN,HIC1_HUMAN,SPI1_HUMAN,PBX1_HUMAN	HEK293 (embryonic kidney),monocyte-derived macrophages,ICN12 (primary pre-B acute lymphomablastic leukemia)	1.6926183853932466	0.0	1.48	-1.986
+chr17	8963300	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.5826961845335656	-1.247	1.112
+chr17	13602281	G	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.719536020824905	0.0	1.421	
+chr17	14426089	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.19457984265998	-1.119	0.986
+chr17	14458959	T	G	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.5010343630630703	-0.965	0.815
+chr17	15965757	A	G	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.908249191121306	0.0	1.275	-1.196
+chr17	17784462	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.800300909318499	-1.099	0.9640000000000001
+chr17	39098855	C	G	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.456103956328044	0.0	1.25	-1.103
+chr17	41308842	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.5426386170045303	0.0	1.21	-1.4069999999999998
+chr17	44857004	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.5768744162358233		1.206
+chr17	45380520	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.9016114299945608	-1.33	1.18
+chr17	57925430	C	G	AP2A_HUMAN,PBX1_HUMAN,TFE2_HUMAN	MCF7 (Invasive ductal breast carcinoma),cranial neural crest cells,ICN12 (primary pre-B acute lymphomablastic leukemia)	1.819064680864447	0.0	1.2409999999999999	
+chr17	67700159	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.3605547503718314	0.0	1.235	-1.455
+chr17	68185164	A	C	ZFX_HUMAN,PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3732199988914737	-0.322	0.943
+chr17	80925795	G	A	PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	1.3027357923743659	0.0	0.977	-1.2
+chr17	81081731	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.1918446991008644	0.0	1.456	-1.745
+chr17	82126968	C	T	BC11B_HUMAN,PBX1_HUMAN	thymus-derived CD34- cells	3.812448557067612	0.0	1.4780000000000002	
+chr17	82158927	G	A	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.0548311621774524	-1.671	1.413
+chr17	82158950	T	G	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.2023974695457005	-1.8519999999999999	1.445
+chr18	8796151	A	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.0372851211687406	0.0	1.311	-1.237
+chr18	8949229	G	C	KDM1A_HUMAN,SMCA4_HUMAN,PBX1_HUMAN	K562 (myelogenous leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3391559962758097	-0.632	0.9059999999999999
+chr18	10317024	A	G	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.4194366495151396	-1.4509999999999998	1.328
+chr18	36534217	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.412164119331423	0.0	1.39	-1.156
+chr18	36534286	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.229207601927563	0.0	1.288	-1.4509999999999998
+chr18	42243046	G	T	RXRB_HUMAN,NR2F6_HUMAN,PBX1_HUMAN	HepG2 (hepatoblastoma),ICN12 (primary pre-B acute lymphomablastic leukemia)	1.4254937546580713	0.0	1.225	
+chr18	49621929	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.2166776885906025	-1.163	1.358
+chr18	49622036	G	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3092803203348702	-0.898	1.099
+chr18	57287173	G	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	3.2555446473488185	0.0	1.5230000000000001	
+chr18	79741180	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	3.3879486397431506	0.0	1.391	-1.601
+chr19	1951648	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.068637905289819		0.505
+chr19	3099031	A	G	IKZF2_HUMAN,TBX21_HUMAN,SPI1_HUMAN,PBX1_HUMAN	GM12878 (female B-cells),monocyte-derived macrophages,periferal blood macrophages,ICN12 (primary pre-B acute lymphomablastic leukemia),Th1-cells	0.0	1.7702359321059689	-0.41700000000000004	1.014
+chr19	3118391	C	A	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.2708221273742866	-1.766	1.47
+chr19	3125274	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.6480304480455135	0.0	1.535	-2.14
+chr19	3125300	G	T	FOXK2_HUMAN,ITF2_HUMAN,PBX1_HUMAN,TFE2_HUMAN	CAL-1 (plasmacytoid dendritic neoplasm),GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	2.86698381317066	0.0	1.456	
+chr19	3125410	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.5391817638566805	0.0	1.304	-1.629
+chr19	7718841	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	5.346953394779004	0.0	1.725	
+chr19	7719013	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.4840546934445884	0.0	1.5090000000000001	-2.015
+chr19	7722449	G	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.456103956328044	0.0	1.227	-1.17
+chr19	11035772	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.648890027414901	0.0	1.413	-1.609
+chr19	11035823	T	C	PBX1_HUMAN	GM12878 (female B-cells),K562 (myelogenous leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.4935196954545495		1.472
+chr19	12441249	G	C	BCL6_HUMAN,FOXA2_HUMAN,PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia),tibial nerve	2.1265159582519897	0.0	1.4769999999999999	-1.8459999999999999
+chr19	14639726	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.7103994723620994	-1.64	1.4809999999999999
+chr19	17001908	C	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.5553531789595336	0.0	1.492	
+chr19	34173571	C	T	CTCF_HUMAN,MNT_HUMAN,NR2C1_HUMAN,PBX1_HUMAN	HepG2 (hepatoblastoma),K562 (myelogenous leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	4.455252958957267	-0.275	0.726
+chr19	35124409	C	T	PBX1_HUMAN	MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	2.0114331574561004	0.0	0.59	-1.165
+chr19	40280340	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.7980229818516675		1.436
+chr19	45120525	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3092803203348702		0.9940000000000001
+chr19	48875257	A	G	CEBPB_HUMAN,JUND_HUMAN,ELF1_HUMAN,PBX1_HUMAN	GM12878 (female B-cells),HEK293 (embryonic kidney),HT29 (colon adenocarcinoma),ICN12 (primary pre-B acute lymphomablastic leukemia),macrophages	1.830513917022378	0.0	1.163	-2.59
+chr19	48875260	A	G	ELF1_HUMAN,MTA2_HUMAN,TYY2_HUMAN,ZSC21_HUMAN,SPI1_HUMAN,PBX1_HUMAN	GM12878 (female B-cells),HEK293 (embryonic kidney),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.699724039405848	-1.365	1.2409999999999999
+chr19	51751943	A	G	STAT1_HUMAN,SPI1_HUMAN,PBX1_HUMAN	CD14+ monocytes,monocyte-derived macrophages,monocyte-derived dendritic cells,periferal blood macrophages,ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.9331457078047194		1.903
+chr2	714817	G	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.365073207094475	-1.695	1.556
+chr2	1823224	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3030837883570296	-0.9540000000000001	1.074
+chr2	2614843	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.908249191121306	0.0	1.256	-1.275
+chr2	3100622	C	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3092803203348702	-1.063	0.48700000000000004
+chr2	3113829	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.486843285355142	-1.145	1.099
+chr2	3455971	A	G	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.7744241562103613	-1.335	1.206
+chr2	8154648	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.6790676203086732	0.0	1.197	-0.938
+chr2	10375821	C	T	PBX1_HUMAN	HEK293 (embryonic kidney)	0.0	1.7413221103302934		1.148
+chr2	30964232	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.5715131636324837	0.0	1.214	-1.023
+chr2	31153268	C	A	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.6493976654663696	-1.084	0.95
+chr2	39919685	G	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.6045590800944125	0.0	1.4380000000000002	-1.222
+chr2	45224723	G	A	GCR_HUMAN,MEF2B_HUMAN,PBX1_HUMAN,TFE2_HUMAN	GM12878 (female B-cells),NALM-6 (adult B acute lymphoblastic leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia)	1.5518433948890507	0.0	1.212	-0.956
+chr2	47071670	G	C	RAD21_HUMAN,NFIA_HUMAN,STAT1_HUMAN,SPI1_HUMAN,PBX1_HUMAN	CD14+ monocytes,HepG2 (hepatoblastoma),ICN12 (primary pre-B acute lymphomablastic leukemia),liver	2.463001747622442	0.0	1.217	-0.5479999999999999
+chr2	68735005	G	A	PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	2.920032366776968	0.0	1.062	-1.255
+chr2	84180276	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.049525066787879	-1.615	1.485
+chr2	100144643	C	G	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3223673000008669	-1.025	0.894
+chr2	100144686	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.2710441739205596	-1.232	1.103
+chr2	100144694	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.7949134127894957	-1.128	0.997
+chr2	110904233	G	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	5.7044772524211576	-2.274	1.93
+chr2	111908384	T	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	3.4248223783060565	0.0	1.555	
+chr2	111908519	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	9.267485359397403		1.093
+chr2	127087159	A	C	SKIL_HUMAN,STAT1_HUMAN,TBX21_HUMAN,PBX1_HUMAN	CD14+ monocytes,GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	3.559144691651874	0.0	1.5319999999999998	-1.409
+chr2	127090354	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.3027357923743659	0.0	1.034	
+chr2	127642349	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.5426386170045303	0.0	0.769	-0.9670000000000001
+chr2	128948313	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.359470687526401	0.0	1.114	-1.036
+chr2	169077753	C	A	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	6.5154838799208425	0.0	2.072	
+chr2	200695545	A	C	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	5.451767149357858	0.0	0.996	
+chr2	200695608	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.079604159176865		0.763
+chr2	232362639	T	C	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	3.241217818240132	0.0	1.646	-2.251
+chr2	235051573	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	5.32952721958863	0.0	1.9340000000000002	-2.303
+chr2	235051580	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	4.859966616422461	-2.151	1.893
+chr2	235433176	C	A	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3513387285529062	-1.4469999999999998	1.22
+chr2	238948143	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.6371305270015852	-1.161	1.0090000000000001
+chr20	625496	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.0811300403930266	-1.0959999999999999	1.318
+chr20	1644706	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	4.280229440178177	-1.587	1.463
+chr20	5997033	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.5045343438634802	0.0	0.95	-1.128
+chr20	9581738	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.553638012846219	0.0	1.4040000000000001	-1.4280000000000002
+chr20	16040968	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.5804514047055456	0.0	1.012	-1.204
+chr20	16041125	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	7.213227672250867	0.0	1.412	
+chr20	23776628	A	G	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.733087815367048	-0.98	1.219
+chr20	23910838	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3092803203348702	-0.826	1.079
+chr20	23910860	G	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.7350555675602035	-1.004	1.2309999999999999
+chr20	25043383	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.9656360123720298	-1.067	1.2890000000000001
+chr20	25862708	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.908249191121306	0.0	1.225	
+chr20	33859476	T	C	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.3757409263252915	-1.25	1.121
+chr20	38809097	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3092803203348702	-0.8370000000000001	1.09
+chr20	43549795	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.4788035704604208	-0.8690000000000001	1.12
+chr20	43549916	G	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.079801194883822	-1.2830000000000001	1.161
+chr20	47727674	T	G	CEBPB_HUMAN,STAT1_HUMAN,SPI1_HUMAN,PBX1_HUMAN	MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,monocyte-derived macrophages,periferal blood macrophages,ICN12 (primary pre-B acute lymphomablastic leukemia),macrophages	3.050921930338411	0.0	1.4669999999999999	-2.575
+chr20	55641459	T	C	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	7.68528382089858		1.3330000000000002
+chr20	63010740	G	T	IKZF1_HUMAN,FOXK2_HUMAN,MEF2B_HUMAN,PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	3.7984834987090856	0.0	1.156	-0.711
+chr20	63152140	T	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.471055041706091	0.0	1.172	-1.0290000000000001
+chr20	63949375	A	G	PBX1_HUMAN	LNCaP (prostate carcinoma),LNCaP C4-2B (prostate carcinoma),GM12878 (female B-cells),HepG2 (hepatoblastoma),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.424919022302174	-1.0170000000000001	0.866
+chr21	34615583	C	T	ZN692_HUMAN,PBX1_HUMAN,TFE2_HUMAN	HEK293 (embryonic kidney),K562 (myelogenous leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia)	2.0252388187363612	0.0	2.6430000000000002	
+chr21	42063855	A	G	STAT1_HUMAN,PBX1_HUMAN,TFE2_HUMAN	CD14+ monocytes,ICN12 (primary pre-B acute lymphomablastic leukemia)	1.3029155057786546	0.0	1.123	-0.079
+chr21	42073477	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3112156014688654	-0.9440000000000001	0.8059999999999999
+chr21	44557228	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.6460329906396942	-1.077	1.196
+chr21	44865807	G	A	FOXA1_HUMAN,PBX1_HUMAN,TFE2_HUMAN	VCaP (prostate carcinoma),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.017116311857016	-0.10300000000000001	0.82
+chr22	17228881	T	C	STAT1_HUMAN,PBX1_HUMAN	CD14+ monocytes,ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	5.0194984094772614		1.9580000000000002
+chr22	17763609	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3092803203348702		0.9940000000000001
+chr22	17830849	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	7.936574150859589	0.0	2.131	
+chr22	18107076	G	A	SKIL_HUMAN,MEF2B_HUMAN,PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	1.725040431729174	0.0	1.02	-0.927
+chr22	22358394	A	G	GCR_HUMAN,PBX1_HUMAN,TFE2_HUMAN	NALM-6 (adult B acute lymphoblastic leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia)	3.704422483193318	0.0	1.6740000000000002	-1.704
+chr22	22358462	C	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.419016652869048	0.0	1.155	-0.899
+chr22	22369416	G	A	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.502980205825293	0.0	0.861	-1.053
+chr22	22706705	G	A	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.7098602681551367	-1.359	1.465
+chr22	22747253	C	T	BCL6_HUMAN,PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.9366776166472202	0.0	1.311	-1.237
+chr22	22747378	A	G	PBX1_HUMAN	GM12878 (female B-cells)	0.0	1.3944941620278044	-1.036	1.09
+chr22	22858352	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.3022286045342333	0.0	0.855	-1.041
+chr22	35350064	C	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.7116011204120476		1.249
+chr22	37314798	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.4971301684757488	-1.396	1.2329999999999999
+chr22	42434423	C	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.5553531789595336	0.0	1.492	
+chr22	45033271	T	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.3023646569560565	-1.565	1.406
+chr22	45033512	G	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	4.670573923038654	-1.83	1.681
+chr22	45033513	T	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	4.769139567128973		1.694
+chr22	45235555	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	5.346953394779004	0.0	1.95	
+chr22	46587058	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.6115092968310913	-1.165	1.268
+chr22	46587848	C	T	SNAI2_HUMAN,PBX1_HUMAN,TFE2_HUMAN	keratinocytes,GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.4421519438966857	-0.691	0.97
+chr22	50570783	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.3023646569560565	-1.2570000000000001	1.3719999999999999
+chr3	10376599	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	4.271877393082009	0.0	1.7	
+chr3	10376646	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.439625967820121	0.0	1.085	
+chr3	13016910	G	C	PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.4377874053319237	-1.435	1.306
+chr3	15461353	G	C	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.3202070373450974	0.0	1.125	-0.868
+chr3	16054064	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.4021553718383357	-0.885	1.129
+chr3	22089738	T	C	CTCF_HUMAN,PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.4641103136067808	0.0	0.616	-0.29
+chr3	32367247	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.908249191121306	0.0	1.275	-1.196
+chr3	47851089	G	C	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.7492902369222478	-1.216	1.094
+chr3	52791512	T	C	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	4.020150188547153	0.0	1.598	-1.766
+chr3	52791569	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.648890027414901	0.0	1.266	-1.4380000000000002
+chr3	60977164	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	3.9168672904147126	0.0	1.05	-1.247
+chr3	60977190	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	6.091420114932941	-1.609	1.475
+chr3	104527297	G	A	SPI1_HUMAN,PBX1_HUMAN	HL-60 (acute myeloid leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia)	1.371475029649985	0.0	1.088	0.053
+chr3	104527308	G	C	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	7.57147712053549	0.0	1.847	
+chr3	125141312	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.4935196954545495	-1.7690000000000001	1.511
+chr3	130046641	G	A	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.0244129051087216	0.0	1.307	-1.504
+chr3	183576611	C	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.5207399470490564	0.0	1.163	-1.361
+chr3	194193044	A	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.44749149502141		1.162
+chr3	197495827	T	C	PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.733087815367048	-1.422	1.272
+chr4	3305646	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	8.145495195266657	0.0	1.851	
+chr4	3305911	C	G	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	3.7695449066657436	0.0	1.11	-1.305
+chr4	7125945	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3944941620278044	-1.036	1.09
+chr4	8509820	C	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.8348337937149855	-1.0090000000000001	1.247
+chr4	8509840	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.5758503176950445	-1.499	1.374
+chr4	10954965	G	A	TBX21_HUMAN,SPI1_HUMAN,PBX1_HUMAN	periferal blood macrophages,ICN12 (primary pre-B acute lymphomablastic leukemia),Th1-cells	2.721212539727809	0.0	1.203	-1.089
+chr4	14270077	G	A	TF65_HUMAN,PBX1_HUMAN	monocyte-derived macrophages,ICN12 (primary pre-B acute lymphomablastic leukemia)	1.475576267984105	0.0	1.317	-2.6510000000000002
+chr4	15766312	A	C	SKI_HUMAN,FOXA1_HUMAN,MYB_HUMAN,PBX1_HUMAN	HL-60 (acute myeloid leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.469186396953249		1.754
+chr4	15766409	C	T	SKI_HUMAN,FOXA1_HUMAN,MYB_HUMAN,PBX1_HUMAN	LNCaP (prostate carcinoma),HL-60 (acute myeloid leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3133904279024926	-1.9980000000000002	1.589
+chr4	16205449	T	C	PBX1_HUMAN,TFE2_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.755951929045541	-1.511	1.3880000000000001
+chr4	24869257	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	4.120975759067002	0.0	1.6980000000000002	-1.992
+chr4	24869312	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.5043144407418327	0.0	0.917	-1.103
+chr4	24972795	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.854576955710074	-0.981	0.8370000000000001
+chr4	24972819	T	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.20522524986032	-1.036	0.892
+chr4	38786032	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.1918446991008644	0.0	1.358	-1.138
+chr4	38786062	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	3.5677971500524355	0.0	1.608	-1.8519999999999999
+chr4	38786163	C	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	3.9894283077160737	0.0	1.617	-1.7919999999999998
+chr4	40185976	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3944941620278044	-0.8370000000000001	1.094
+chr4	55159958	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.7535802379821166	-1.4240000000000002	1.464
+chr4	83361675	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.412164119331423	0.0	1.347	
+chr4	104795383	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3944941620278044	-0.873	1.12
+chr4	139419540	A	G	PBX1_HUMAN	HUVEC (umbilical vein endothelial cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	1.4646208238438825	0.0	1.179	-0.985
+chr4	185744225	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.9300281671919373	-1.6469999999999998	1.6880000000000002
+chr5	285994	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.7961226254562024	0.0	1.123	-1.294
+chr5	1336128	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.733087815367048	-0.98	1.219
+chr5	1448131	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3092803203348702		0.9940000000000001
+chr5	1945831	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.961722978325922	0.0	1.505	-1.4380000000000002
+chr5	1948248	A	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.3516496608770576	0.0	1.38	-1.3090000000000002
+chr5	1948310	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.412164119331423	0.0	1.347	
+chr5	3210938	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.9688906802968191	0.0	1.2919999999999998	-1.0390000000000001
+chr5	4375909	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.8993523882773002	-1.069	0.9359999999999999
+chr5	8338029	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.5038107207761375	-1.003	1.168
+chr5	9959018	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.2968740535840886	0.0	0.9209999999999999	-1.112
+chr5	9959024	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.7855732555954265	0.0	1.04	-1.232
+chr5	14554498	G	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.6296839999241979	-1.19	1.145
+chr5	55920161	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.6296839999241979	-1.19	1.145
+chr5	80070257	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.5516969778204568	0.0	0.912	-1.099
+chr5	80668775	T	C	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.0947406865449545	-1.103	0.9690000000000001
+chr5	80668981	G	A	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.648765365636982	-1.814	1.632
+chr5	80668989	A	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.291218565316582	-1.548	1.5819999999999999
+chr5	80668997	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	4.105497792102339		1.6869999999999998
+chr5	95869639	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	3.9168672904147126	0.0	1.646	-1.8559999999999999
+chr5	98773712	T	G	PBX1_HUMAN	HepG2 (hepatoblastoma),ICN12 (primary pre-B acute lymphomablastic leukemia)	1.908249191121306	0.0	1.256	-1.275
+chr5	128491469	A	G	BHE40_HUMAN,PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.7087633781378988	0.0	1.18	
+chr5	133890958	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.4021553718383357	-0.9590000000000001	1.13
+chr5	134124587	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.1366314829003064	0.0	1.338	-1.0979999999999999
+chr5	139743755	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.751844346711617	-1.135	1.005
+chr5	142190009	T	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.1288017618195023	-1.173	1.338
+chr5	150066032	A	G	STAT1_HUMAN,PBX1_HUMAN,TFE2_HUMAN	CD14+ monocytes,ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.7173999174569525	-1.056	1.209
+chr5	154506520	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.5391817638566805	0.0	1.197	-0.955
+chr5	160265617	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.0648529551726926	-1.327	1.273
+chr5	160265690	C	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	4.031675575889509	-1.919	1.7009999999999998
+chr5	178442547	T	C	PBX1_HUMAN	K562 (myelogenous leukemia)	0.0	2.0947406865449545	-1.103	0.9690000000000001
+chr5	179142940	T	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3592098164310904	-1.093	1.05
+chr6	257186	C	T	CEBPB_HUMAN,IKZF1_HUMAN,IKZF2_HUMAN,MEF2B_HUMAN,PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	2.2657300240168006	0.0	0.8370000000000001	-0.40700000000000003
+chr6	514721	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	3.853013646423355	0.0	1.567	-1.764
+chr6	514763	G	A	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.6302709235175348	0.0	1.4780000000000002	-1.686
+chr6	10855360	G	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.8015209152604934	0.0	1.13	-1.345
+chr6	10855505	G	A	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.766872693268453	-1.614	1.464
+chr6	14227249	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.3402456053568446		1.115
+chr6	14290608	A	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.6926479207891236	-2.155	1.7469999999999999
+chr6	14598589	T	C	ANDR_HUMAN,FOXA1_HUMAN,PBX1_HUMAN	LNCaP (prostate carcinoma),ICN12 (primary pre-B acute lymphomablastic leukemia)	3.072197596598837	0.0	0.8690000000000001	0.22899999999999998
+chr6	24547378	G	A	ANDR_HUMAN,PBX1_HUMAN	HEK293 (embryonic kidney),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.400743901567484		1.8119999999999998
+chr6	24547422	T	C	ANDR_HUMAN,PBX1_HUMAN	HEK293 (embryonic kidney),ICN12 (primary pre-B acute lymphomablastic leukemia),foreskin keratinocyte	1.8058012280828162	0.953214933805471	1.2009999999999998	0.8109999999999999
+chr6	30206355	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.495675745250705	-1.2930000000000001	1.1440000000000001
+chr6	32797788	G	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.4896449689779925	-1.121	1.2309999999999999
+chr6	43308650	G	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	9.80241119694837	0.0	2.24	
+chr6	43308652	G	A	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	9.267485359397403		2.189
+chr6	43725357	G	T	RUNX1_HUMAN,CREB1_HUMAN,MNT_HUMAN,FOXK2_HUMAN,THA11_HUMAN,NFIL3_HUMAN,NRF1_HUMAN,NFIB_HUMAN,PBX1_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HepG2 (hepatoblastoma),ICN12 (primary pre-B acute lymphomablastic leukemia),SKH1 (chronic myelogenous leukemia, BCR-ABL1 positive)	0.0	1.9330389601945988	0.006	0.8640000000000001
+chr6	44177444	C	T	PKNX1_HUMAN,PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	5.025546562447188		0.845
+chr6	71324632	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.768735610683614	-1.242	1.19
+chr6	87933354	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.32410506348774	-1.324	1.3659999999999999
+chr6	92688608	C	G	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.0661707750072953	0.0	1.001	-1.187
+chr6	134117765	T	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.3022286045342333	0.0	1.095	-0.833
+chr6	159467766	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	5.7598652561998325	0.0	1.91	-2.274
+chr6	163667831	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.9667500347009756	-1.261	1.139
+chr6	167706443	G	A	HDAC2_HUMAN,KDM1A_HUMAN,CTBP1_HUMAN,MYB_HUMAN,RING2_HUMAN,ERR1_HUMAN,ENL_HUMAN,SOX6_HUMAN,ARI1B_HUMAN,HDAC1_HUMAN,PBX1_HUMAN	Jurkat (T-cells),K562 (myelogenous leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia)	1.8590686263116574	0.0	1.347	
+chr7	1004183	G	A	IKZF1_HUMAN,IKZF2_HUMAN,ZN687_HUMAN,MTA2_HUMAN,PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.4612814409453834		1.107
+chr7	1756065	A	G	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	4.541861442432434	-1.8969999999999998	1.7409999999999999
+chr7	1924721	A	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.435032249737064	-0.76	1.021
+chr7	2020126	G	A	PKNX1_HUMAN,PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	4.773830663350869	0.0	2.471	
+chr7	2137555	G	A	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.782306099309998	-1.517	1.455
+chr7	2137742	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.0947406865449545	-1.386	1.263
+chr7	2734749	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.5873538930171298	-0.929	1.177
+chr7	2734974	C	T	STAT1_HUMAN,PBX1_HUMAN,TFE2_HUMAN	CD14+ monocytes,ICN12 (primary pre-B acute lymphomablastic leukemia)	1.3807792945085318	0.0	1.165	
+chr7	6256838	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.8892141400144595	0.0	0.938	-1.124
+chr7	22488772	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.908249191121306	0.0	1.256	-1.275
+chr7	23595366	G	A	NBN_HUMAN,TRI22_HUMAN,ZN592_HUMAN,HTF4_HUMAN,MTA2_HUMAN,NFAC3_HUMAN,ARNT_HUMAN,SKIL_HUMAN,BMI1_HUMAN,MEF2B_HUMAN,TBX21_HUMAN,ENL_HUMAN,PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.314007740978329	-1.247	1.112
+chr7	24299389	G	C	FLI1_HUMAN,PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia),A-673 clone Asp114 (Ewing sarcoma)	0.0	1.4253124283772032		1.239
+chr7	25614022	A	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.359470687526401	0.0	1.114	-1.036
+chr7	36116184	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.229207601927563	0.0	1.308	
+chr7	36639929	A	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.648890027414901	0.0	1.266	-1.4380000000000002
+chr7	36639938	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	3.496921394856522	0.0	1.253	-1.433
+chr7	47647118	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.4798076582469324	0.0	1.157	-1.079
+chr7	105972412	G	C	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.049525066787879	-1.379	1.536
+chr7	129773348	G	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	4.466173195862813	0.0	1.349	-1.527
+chr7	143412115	T	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.6352578537529436	-1.0390000000000001	1.204
+chr7	149103999	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.4021553718383357	-1.047	0.915
+chr7	150408960	A	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.681698229717783	-1.52	1.395
+chr7	155364297	G	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.049525066787879	-1.354	1.224
+chr7	157520518	A	G	IKZF1_HUMAN,PBX1_HUMAN,TFE2_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.1454627020017147		1.538
+chr7	158549738	G	A	PBX1_HUMAN	K562 (myelogenous leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.049525066787879	-1.379	1.536
+chr8	9088653	G	A	JUN_HUMAN,PBX1_HUMAN	coronary artery smooth muscle,ICN12 (primary pre-B acute lymphomablastic leukemia)	1.6600595427543436	0.0	1.0659999999999998	-0.201
+chr8	11452503	A	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.8671683065931406	-1.094	0.9590000000000001
+chr8	11509161	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.756910152091926	-1.073	1.239
+chr8	22705241	G	C	STAT1_HUMAN,PBX1_HUMAN	CD14+ monocytes	0.4459535814334643	4.26646064144343	0.461	1.5090000000000001
+chr8	28093508	G	A	MNT_HUMAN,NFRKB_HUMAN,PBX1_HUMAN	A549 (lung carcinoma),HEK293 (embryonic kidney),K562 (myelogenous leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia)	1.5851087927557888	0.0	1.178	0.638
+chr8	30496859	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.4021553718383357	-0.997	1.1159999999999999
+chr8	42292844	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.8020056886009959	0.0	1.2209999999999999	-1.386
+chr8	53590303	A	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.3467391463050373	0.0	1.1420000000000001	-0.917
+chr8	55495851	T	C	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.486843285355142	-1.145	1.099
+chr8	60798426	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.499636083879253		1.3619999999999999
+chr8	61748634	A	G	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	4.120975759067002	0.0	1.6980000000000002	-1.992
+chr8	67527927	T	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.771866415460182	-1.587	1.4480000000000002
+chr8	102238702	C	T	STAT1_HUMAN,NRF1_HUMAN,PBX1_HUMAN,TFE2_HUMAN	CD14+ monocytes,HepG2 (hepatoblastoma),ICN12 (primary pre-B acute lymphomablastic leukemia)	1.927747247572159	0.0	1.0759999999999998	
+chr8	124637659	C	T	TAL1_HUMAN,PBX1_HUMAN,TFE2_HUMAN	MOLT3 (adult T acute lymphoblastic leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia),SKH1 (chronic myelogenous leukemia, BCR-ABL1 positive)	0.0	7.200022873472952		2.15
+chr8	133531951	C	T	PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.345098090085773		1.3219999999999998
+chr8	135923282	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	4.721090493287719	0.0	1.774	-2.234
+chr8	135923283	A	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	4.538193882225851	0.0	1.75	-1.785
+chr8	138835740	C	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.4021553718383357	-0.885	1.129
+chr8	139020942	A	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.2023974695457005	-1.4080000000000001	1.285
+chr8	139021189	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.212462643506086	-1.135	0.987
+chr8	140646056	G	A	PBX1_HUMAN,TFE2_HUMAN	Kasumi-1 (acute myeloblastic leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.2406163181216683	-1.052	0.907
+chr8	141538369	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	4.203626031254256	-1.456	1.3219999999999998
+chr9	80663007	C	G	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.439625967820121	0.0	1.085	
+chr9	84709707	G	A	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.7413221103302934		1.148
+chr9	104968560	T	G	PKNX1_HUMAN,BHE40_HUMAN,GABP1_HUMAN,PBX1_HUMAN	GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	4.019668098628732	-1.291	1.146
+chr9	107547509	A	G	BCL6_HUMAN,PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.9423414216851782	0.0	0.8340000000000001	-1.033
+chr9	126481104	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.6598478596741146		1.399
+chr9	127866339	C	T	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	1.359470687526401	0.0	1.114	-1.036
+chr9	133703744	T	C	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.9462231489722883	-1.686	1.39
+chr9	133703755	T	C	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.854576955710074	-1.177	1.3519999999999999
+chr9	134475036	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	2.4654808637946903	0.0	0.7340000000000001	
+chr9	136757433	A	G	PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	3.418950143147217	0.0	1.328	-1.5419999999999998
+chr9	136757507	T	C	KMT2A_HUMAN,PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia),fetal bone marrow-derived mononuclear cells	0.0	1.7153222361005918		1.367
+chrX	40473724	C	T	PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia)	3.9894283077160737	0.0	1.77	-2.375

@@ -1,0 +1,5 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	E2F4_HUMAN_FDR_Ref	E2F4_HUMAN_FDR_Alt	E2F4_HUMAN_Effect_Size_Ref	E2F4_HUMAN_Effect_Size_Alt
+chr1	241848232	A	G	GABPA_HUMAN,E2F4_HUMAN,E2F1_HUMAN,HIC1_HUMAN	HEK293T (embryonic kidney),LNCaP (prostate carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),K562 (myelogenous leukemia)	1.4007433122183715	0.0	0.461	0.38
+chr10	27155374	G	A	E2F4_HUMAN,MNT_HUMAN,E2F1_HUMAN,STAT1_HUMAN,E2F7_HUMAN,E2F8_HUMAN,HDAC1_HUMAN	CD14+ monocytes,GM12878 (female B-cells),HCT-116 (colon carcinoma),retinal pigment epithelial cells,K562 (myelogenous leukemia),HAEC (human aortic endothelial cells),foreskin keratinocyte	1.7605461578345494	0.008360272210200727	1.286	-1.145
+chr19	4910009	A	C	E2F4_HUMAN,SP2_HUMAN	HEK293 (embryonic kidney)	1.3761653490483665	0.008360272210200727	0.9229999999999999	-0.836
+chr19	53521066	G	T	ESR1_HUMAN,E2F4_HUMAN	breast tumor tissue	1.8143440032107128	0.0	0.955	

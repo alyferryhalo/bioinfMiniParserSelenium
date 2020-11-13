@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	NR5A2_HUMAN_FDR_Ref	NR5A2_HUMAN_FDR_Alt	NR5A2_HUMAN_Effect_Size_Ref	NR5A2_HUMAN_Effect_Size_Alt
+chr1	201154617	C	G	CREB1_HUMAN,SRF_HUMAN,NRF1_HUMAN,NR5A2_HUMAN	MCF7 (Invasive ductal breast carcinoma),HCC1954 (ductal breast carcinoma),HEK293 (embryonic kidney),HUES64 (embryonic stem cells)	0.0	3.0724274170799566	0.452	1.079

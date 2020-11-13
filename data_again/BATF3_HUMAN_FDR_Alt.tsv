@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	BATF3_HUMAN_FDR_Ref	BATF3_HUMAN_FDR_Alt	BATF3_HUMAN_Effect_Size_Ref	BATF3_HUMAN_Effect_Size_Alt
+chr18	80202400	G	C	NFAC3_HUMAN,BATF3_HUMAN	GM12878 (female B-cells)	2.6894542076548	0.0	1.05	-1.247

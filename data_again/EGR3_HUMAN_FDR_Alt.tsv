@@ -1,0 +1,6 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	EGR3_HUMAN_FDR_Ref	EGR3_HUMAN_FDR_Alt	EGR3_HUMAN_Effect_Size_Ref	EGR3_HUMAN_Effect_Size_Alt
+chr11	1016713	T	C	EGR3_HUMAN	HEK293 (embryonic kidney)	3.490669371647202	0.0	1.75	-1.785
+chr15	90201728	G	A	PRD10_HUMAN,EGR3_HUMAN	HEK293 (embryonic kidney),K562 (myelogenous leukemia)	0.0	2.042709100337045	-0.391	1.555
+chr21	44709120	C	T	ZFHX2_HUMAN,EGR3_HUMAN	HEK293 (embryonic kidney)	0.0	1.8017708749712824		1.6119999999999999
+chr21	45325404	G	A	EGR2_HUMAN,ZFHX2_HUMAN,EGR3_HUMAN	HEK293 (embryonic kidney)	0.0	2.2463650068885266		1.758
+chr7	156893407	C	T	CTCF_HUMAN,RFX1_HUMAN,FOXK2_HUMAN,RB_HUMAN,KDM5B_HUMAN,EGR3_HUMAN	HEK293T (embryonic kidney),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),thymus-derived CD34- cells,foreskin keratinocyte	25.576999845938673	0.0	1.415	0.262

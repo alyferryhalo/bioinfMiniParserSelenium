@@ -1,0 +1,83 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	ITF2_HUMAN_FDR_Ref	ITF2_HUMAN_FDR_Alt	ITF2_HUMAN_Effect_Size_Ref	ITF2_HUMAN_Effect_Size_Alt
+chr1	9426563	C	A	ITF2_HUMAN	GM12878 (female B-cells),GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	0.0	1.7017431987695726	-1.6380000000000001	1.455
+chr1	16945234	A	C	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.9718626747732353	0.0	1.426	
+chr1	109805724	T	C	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	0.0	1.3198262509004934	-1.551	1.368
+chr1	234235661	A	G	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.9519942217410726	0.0	1.453	-1.881
+chr10	7478098	A	G	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.3319490623015156	0.0	1.186	-1.131
+chr10	133259436	A	G	TBX21_HUMAN,ITF2_HUMAN	Th1-cells,GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	0.0	1.839882675380314	-0.845	0.731
+chr10	133259484	A	T	STAT1_HUMAN,TBX21_HUMAN,ITF2_HUMAN	CD14+ monocytes,Th1-cells,GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	0.0	1.9338271184199547	0.268	1.171
+chr11	2418889	T	C	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.6732316766355466	0.0	1.215	-1.2329999999999999
+chr11	2772884	C	T	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.5184722335960088	0.0	1.197	-0.955
+chr12	24814506	C	A	FOXK2_HUMAN,TBX21_HUMAN,ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.6521084908491954	0.0	1.157	-1.079
+chr12	52264590	A	G	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	2.3586298700575643	0.0	1.749	
+chr12	112468611	A	G	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	0.0	1.3198262509004934	-2.197	1.565
+chr14	105818291	C	T	ITF2_HUMAN,SPI1_HUMAN	GM12878 (female B-cells),GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.4009533174917732	0.0	1.2409999999999999	
+chr14	106767053	G	C	MYB_HUMAN,ITF2_HUMAN	Jurkat (T-cells),GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	3.192258269876793	0.0	1.1740000000000002	-0.414
+chr14	106767055	A	G	CTCF_HUMAN,MYB_HUMAN,ITF2_HUMAN	Jurkat (T-cells),GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	2.736065154100318	0.0	1.347	
+chr15	56613928	C	A	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	0.0	1.5633118731156532	-1.4140000000000001	1.4240000000000002
+chr15	74398407	A	G	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.5428572458218954	0.0	1.286	-1.145
+chr15	89708437	T	C	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	2.1158712173904233	0.0	1.492	
+chr16	11964975	T	A	FOXK2_HUMAN,ITF2_HUMAN	GM12878 (female B-cells),K562 (myelogenous leukemia),GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	0.14188599944565428	8.400715732346109	-0.071	2.205
+chr16	68470759	A	G	STAT1_HUMAN,ITF2_HUMAN,SPI1_HUMAN,PBX1_HUMAN,TFE2_HUMAN	CD14+ monocytes,GM12878 (female B-cells),monocyte-derived macrophages,ICN12 (primary pre-B acute lymphomablastic leukemia),GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	0.0	2.021208820297065	0.06	1.5590000000000002
+chr16	68524564	G	A	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.6180821565128363	0.0	1.165	-0.555
+chr16	70692892	C	A	BC11B_HUMAN,ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm),thymus-derived CD34- cells	2.0762950240377647	0.0	1.561	-1.349
+chr16	70695697	C	G	ITF2_HUMAN	CAL-1 (plasmacytoid dendritic neoplasm)	4.073189286999803	0.0	1.829	-2.1919999999999997
+chr16	84088830	A	G	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.7820868065858917	0.0	1.531	-2.2569999999999997
+chr16	84194699	C	G	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.800563851681546	0.0	1.483	-1.272
+chr16	85961819	T	C	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	2.3586298700575643	0.0	1.64	-1.527
+chr16	85961824	T	C	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.9519942217410726	0.0	1.536	-1.311
+chr17	21295547	C	T	RFX1_HUMAN,ITF2_HUMAN	MCF7 (Invasive ductal breast carcinoma),GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	4.177544736726966	0.06793817584077119	0.713	0.134
+chr17	21301888	T	C	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.6341496964436995	0.0	1.304	-0.161
+chr17	76407157	G	A	ITF2_HUMAN	CAL-1 (plasmacytoid dendritic neoplasm)	1.7411287584167487	0.0	1.3159999999999998	
+chr17	78278632	T	C	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.800563851681546	0.0	1.376	-1.3219999999999998
+chr17	82201789	G	A	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.9307714010547468	0.0	1.45	-1.819
+chr19	659658	C	T	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	0.0	3.55178750858101	-2.331	1.844
+chr19	995641	A	G	ITF2_HUMAN	CAL-1 (plasmacytoid dendritic neoplasm),K562 (myelogenous leukemia)	1.4009533174917732	0.0	1.294	-1.178
+chr19	3125300	G	T	FOXK2_HUMAN,ITF2_HUMAN,PBX1_HUMAN,TFE2_HUMAN	CAL-1 (plasmacytoid dendritic neoplasm),GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	2.86698381317066	0.0	1.456	
+chr2	8302118	G	A	STAT1_HUMAN,ITF2_HUMAN	CD14+ monocytes,GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.8616030765048535	0.0	0.727	
+chr2	9175354	T	C	ITF2_HUMAN	periferal blood macrophages,GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	0.0	1.3198262509004934	-1.578	1.3780000000000001
+chr2	10410391	C	T	CTCF_HUMAN,ITF2_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia),GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.30341455006049	0.0	0.922	
+chr2	37626484	A	G	IKZF1_HUMAN,COT1_HUMAN,ITF2_HUMAN,RUNX3_HUMAN	GM12878 (female B-cells),GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	2.1465375227267494	0.0	1.035	-0.731
+chr2	75046103	T	C	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.9568330982028794	0.0	1.4669999999999999	-1.7919999999999998
+chr2	111705533	A	C	ITF2_HUMAN	Jurkat (T-cells),GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.5428572458218954	0.0	1.286	-1.145
+chr2	118970880	G	C	STAT1_HUMAN,ITF2_HUMAN	CD14+ monocytes,GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	3.010606983056824	0.0	1.224	-2.634
+chr2	118970896	C	T	STAT1_HUMAN,ITF2_HUMAN	CD14+ monocytes,GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	2.7175196032582307	0.0	1.4169999999999998	-2.33
+chr2	132352691	A	G	ITF2_HUMAN	H1 (embryonic stem cells),GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	2.3586298700575643	0.0	1.585	
+chr2	135825622	G	A	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.3319490623015156	0.0	1.212	-1.07
+chr2	233349418	A	T	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	2.2916420743189145	0.0	1.565	-2.07
+chr20	17631132	T	C	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.4009533174917732	0.0	1.338	-1.122
+chr20	23159856	G	C	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	0.0	1.3198262509004934	-1.247	1.4869999999999999
+chr20	62728630	T	C	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.3319490623015156	0.0	1.306	-1.099
+chr22	43246419	C	T	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.672211905768261	0.0	1.3519999999999999	-1.609
+chr22	48080100	G	A	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	0.0	2.1007040727386554	-1.8119999999999998	1.5859999999999999
+chr4	40572895	G	T	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.5428572458218954	0.0	1.236	
+chr5	102933	C	A	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.5428572458218954	0.0	1.2990000000000002	-1.072
+chr5	544326	T	A	ITF2_HUMAN	periferal blood macrophages,GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.6341496964436995	0.0	1.3319999999999999	-1.101
+chr5	1134719	G	A	MEF2B_HUMAN,ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	0.0	1.5623634359218892	-1.067	1.2890000000000001
+chr5	1139378	T	C	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.800563851681546	0.0	1.3880000000000001	-1.234
+chr5	68007641	T	C	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	2.071995917110506	0.0	1.5090000000000001	-1.9369999999999998
+chr5	68007643	C	T	CEBPB_HUMAN,ITF2_HUMAN	macrophages,GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	2.348724193676961	0.10149390955200106	1.006	-0.156
+chr5	83895660	G	A	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.6341496964436995	0.0	1.3319999999999999	-1.101
+chr5	157611680	C	T	ITF2_HUMAN,SPI1_HUMAN	monocyte-derived macrophages,periferal blood macrophages,GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.611596780622467	0.0	1.3330000000000002	-1.6580000000000001
+chr5	177430269	T	C	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.623090137241906	0.0	1.3359999999999999	-1.705
+chr6	25992051	G	T	ESR1_HUMAN,FOXK2_HUMAN,BC11B_HUMAN,ITF2_HUMAN,SNAI2_HUMAN	MCF7 (Invasive ductal breast carcinoma),CAL-1 (plasmacytoid dendritic neoplasm),keratinocytes,GM12878 (female B-cells),HepG2 (hepatoblastoma),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	1.4826321300043344	0.33799999999999997	0.624
+chr6	31558936	C	A	ITF2_HUMAN	CAL-1 (plasmacytoid dendritic neoplasm)	1.9718626747732353	0.0	1.558	
+chr6	31558949	G	A	ITF2_HUMAN	CAL-1 (plasmacytoid dendritic neoplasm)	1.9718626747732353	0.0	1.558	
+chr6	34448149	G	A	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.7820868065858917	0.0	1.3840000000000001	
+chr6	42010536	C	T	ZNF24_HUMAN,LEF1_HUMAN,HDAC1_HUMAN,ITF2_HUMAN	K562 (myelogenous leukemia),GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.6734314237091095	0.0	1.828	
+chr6	42010674	C	T	MYB_HUMAN,ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.793004989587521	0.0	0.838	-0.752
+chr6	44598887	A	G	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	3.1603268949998338	0.0	1.88	
+chr6	157562142	A	G	FOXK2_HUMAN,ITF2_HUMAN,TFE2_HUMAN	CAL-1 (plasmacytoid dendritic neoplasm),GM12878 (female B-cells),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	3.9938470817992133	-2.31	1.8230000000000002
+chr7	2602553	A	C	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.800563851681546	0.0	1.4080000000000001	-1.696
+chr7	2602555	G	A	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.7576722630200368	0.0	1.389	-1.714
+chr7	2602837	A	G	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.6341496964436995	0.0	1.3319999999999999	-1.101
+chr7	6857958	C	T	CTCF_HUMAN,ITF2_HUMAN	human cardiac myocytes,lymphoblastoid cells,GEN2.2 (blastic plasmacytoid dendritic cell neoplasm),foreskin keratinocyte	21.593291864862707	0.0	0.86	-0.313
+chr7	47149662	A	T	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	2.071995917110506	0.0	1.5090000000000001	-1.9369999999999998
+chr8	73168501	G	A	ITF2_HUMAN	Jurkat (T-cells),GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	2.071995917110506	0.0	1.476	-1.712
+chr9	2257805	C	G	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm),neural cell	1.7411287584167487	0.0	1.341	-1.2990000000000002
+chr9	87517214	A	G	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.7411287584167487	0.0	1.3159999999999998	
+chr9	111988551	C	T	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.9519942217410726	0.0	1.402	-1.609
+chr9	111988570	T	C	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	2.5270720350774276	0.0	1.651	-1.939
+chr9	111988571	G	C	ITF2_HUMAN	GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	2.3586298700575643	0.0	1.575	-1.8330000000000002
+chr9	129458589	A	C	ITF2_HUMAN,USF1_HUMAN	GM12878 (female B-cells),GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	1.3319490623015156	0.0	1.212	-1.07
+chr9	131622206	C	T	ITF2_HUMAN	GM12878 (female B-cells),GEN2.2 (blastic plasmacytoid dendritic cell neoplasm)	0.0	1.8333018219495159	-2.015	1.528

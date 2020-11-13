@@ -1,0 +1,4 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	MYF5_HUMAN_FDR_Ref	MYF5_HUMAN_FDR_Alt	MYF5_HUMAN_Effect_Size_Ref	MYF5_HUMAN_Effect_Size_Alt
+chr10	93489366	T	G	MYF5_HUMAN	RH18 (alveolar rhabdomyosarcoma)	1.3501651141804716	0.0	1.225	
+chr10	93489380	C	T	MYF5_HUMAN	RH18 (alveolar rhabdomyosarcoma)	1.9843750578498314	0.0	1.385	
+chr16	46390716	A	G	CEBPB_HUMAN,CTCF_HUMAN,FOXA2_HUMAN,ATF4_HUMAN,MYF5_HUMAN,SIX2_HUMAN	epidermal keratinocytes,renal cortex,liver,mesenchymal stem cells,kidney,RH18 (alveolar rhabdomyosarcoma)	4.291540110256247	0.0	1.726	-1.936

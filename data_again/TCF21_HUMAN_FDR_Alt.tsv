@@ -1,0 +1,5 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	TCF21_HUMAN_FDR_Ref	TCF21_HUMAN_FDR_Alt	TCF21_HUMAN_Effect_Size_Ref	TCF21_HUMAN_Effect_Size_Alt
+chr3	115518603	G	A	TCF21_HUMAN	coronary artery smooth muscle	2.6363864866189113	0.0	1.4969999999999999	-1.361
+chr6	124882295	C	T	TCF21_HUMAN	coronary artery smooth muscle	2.0632869311740683	0.0	1.308	
+chr8	19171274	C	A	CEBPB_HUMAN,TCF21_HUMAN	HCT-116 (colon carcinoma),HeLa S3 (cervical adenocarcinoma),SUM159PT (pleiomorphic breast carcinoma)	0.0	5.586907994070474	1.2	0.9840000000000001
+chr8	19171279	A	G	CEBPB_HUMAN,JUN_HUMAN,TCF21_HUMAN	SUM159PT (pleiomorphic breast carcinoma)	0.0	4.210096055940105	0.904	0.905

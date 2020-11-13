@@ -1,0 +1,675 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	KMT2A_HUMAN_FDR_Ref	KMT2A_HUMAN_FDR_Alt	KMT2A_HUMAN_Effect_Size_Ref	KMT2A_HUMAN_Effect_Size_Alt
+chr1	1511945	G	A	HTF4_HUMAN,FOXK2_HUMAN,E4F1_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	3.1558350875467385	0.0	1.5859999999999999	
+chr1	3900386	C	T	MNT_HUMAN,NCOR1_HUMAN,NRF1_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	1.728920610532452	0.0	0.804	0.09300000000000001
+chr1	6554466	A	G	AP2A_HUMAN,KMT2A_HUMAN	cranial neural crest cells,fetal bone marrow-derived mononuclear cells	3.208311156649267	0.0	1.764	
+chr1	7961718	T	C	CTCF_HUMAN,NRF1_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),HepG2 (hepatoblastoma),KB (cervical adenocarcinoma),fetal bone marrow-derived mononuclear cells	0.0	2.614814706958982	0.36200000000000004	0.54
+chr1	9539627	G	T	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	3.063729991526864	0.0	0.8759999999999999	-0.37799999999999995
+chr1	11908216	A	G	SP1_HUMAN,FOXA2_HUMAN,CLOCK_HUMAN,NDF1_HUMAN,HES1_HUMAN,KMT2A_HUMAN,MAF_HUMAN,TBP_HUMAN	MCF7 (Invasive ductal breast carcinoma),HCT-116 (colon carcinoma),HepG2 (hepatoblastoma),liver,fetal bone marrow-derived mononuclear cells,D341 Med (medulloblastoma),adrenal gland,upper lobe of left lung	1.7247746473499497	0.0	0.732	0.16899999999999998
+chr1	11908301	T	G	KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),cord blood-derived mononuclear cells	2.8247097528359237	0.0	1.617	-2.123
+chr1	11908303	C	T	CTCF_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),cord blood-derived mononuclear cells,foreskin keratinocyte	3.025107883114003	0.0	0.812	0.319
+chr1	11908323	C	T	CTCF_HUMAN,ILF3_HUMAN,KMT2A_HUMAN,COE3_HUMAN	MCF7 (Invasive ductal breast carcinoma),K562 (myelogenous leukemia),SK-N-SH (neuroblastoma),upper lobe of left lung	0.0	5.2402068162839734	0.317	0.575
+chr1	13700405	G	A	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.0	3.5406374299370955		1.659
+chr1	16613699	G	A	EP300_HUMAN,EZH2_HUMAN,RFOX2_HUMAN,PYGO2_HUMAN,TAF7_HUMAN,DDX20_HUMAN,HDAC8_HUMAN,GRHL2_HUMAN,ESR1_HUMAN,TAL1_HUMAN,CEBPB_HUMAN,CTCF_HUMAN,AP2A_HUMAN,FOXA1_HUMAN,GCR_HUMAN,ZBT7A_HUMAN,SIN3A_HUMAN,ZFX_HUMAN,JUN_HUMAN,ZBT40_HUMAN,VEZF1_HUMAN,NONO_HUMAN,JUNB_HUMAN,TYY1_HUMAN,MAX_HUMAN,EGR1_HUMAN,SP1_HUMAN,BCL3_HUMAN,NR4A1_HUMAN,KLF1_HUMAN,KLF13_HUMAN,CREB1_HUMAN,SUZ12_HUMAN,CBX3_HUMAN,ZN579_HUMAN,SMCE1_HUMAN,MNT_HUMAN,ZNF24_HUMAN,ELF1_HUMAN,ZN574_HUMAN,IRF1_HUMAN,ZN740_HUMAN,SOX13_HUMAN,PKNX1_HUMAN,ELF4_HUMAN,CTBP1_HUMAN,MYB_HUMAN,NR2C1_HUMAN,RFX1_HUMAN,MGAP_HUMAN,NCOA2_HUMAN,EMSY_HUMAN,SMCA4_HUMAN,MEF2D_HUMAN,IKZF1_HUMAN,ZN687_HUMAN,MTA2_HUMAN,NFAC3_HUMAN,ARNT_HUMAN,REQU_HUMAN,TFDP1_HUMAN,CREB3_HUMAN,FOXM1_HUMAN,ZN639_HUMAN,ZBT11_HUMAN,Z354B_HUMAN,ZBT26_HUMAN,KLF11_HUMAN,KLF16_HUMAN,FOXP1_HUMAN,ERF_HUMAN,RING2_HUMAN,HINFP_HUMAN,NRF1_HUMAN,SRBP1_HUMAN,GLIS1_HUMAN,GLI2_HUMAN,ZN600_HUMAN,FEZF1_HUMAN,SP7_HUMAN,BC11B_HUMAN,ZN341_HUMAN,WT1_HUMAN,SP2_HUMAN,OSR2_HUMAN,KLF8_HUMAN,ZN770_HUMAN,ZN843_HUMAN,ZN555_HUMAN,ERR1_HUMAN,ZFP91_HUMAN,ENL_HUMAN,NFIB_HUMAN,TF65_HUMAN,MTA1_HUMAN,CHD1_HUMAN,MEIS2_HUMAN,NCOA1_HUMAN,CR3L1_HUMAN,CDC5L_HUMAN,ZN184_HUMAN,MCM7_HUMAN,HDAC1_HUMAN,AFF1_HUMAN,ZN398_HUMAN,KMT2A_HUMAN,TF7L1_HUMAN,KDM5B_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),VCaP (prostate carcinoma),MCF7 (Invasive ductal breast carcinoma),MCF-7 C4-12 (invasive breast ductal carcinoma),cranial neural crest cells,GM12878 (female B-cells),NCI-H2171 (small cell lung carcinoma),HCT-116 (colon carcinoma),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),hMADS-3 (adipose-derived stem cells),Jurkat (T-cells),K562 (myelogenous leukemia),SEM (childhood B acute lymphoblastic leukemia),MDA-MB-453 (breast adenocarcinoma),spleen,liver,erythroblasts,pancreas,226LDM (normal breast luminal cells),RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1)),RH4 (alveolar rhabdomyosarcoma),breast tumor xenograft,suprapubic skin,heart left ventricle,gastrocnemius medialis,ovary,gastroesophageal sphincter,uterus,thyroid gland,adrenal gland,prostate gland,tibial nerve,upper lobe of left lung	0.0	3.639063928502179	-0.18899999999999997	0.982
+chr1	16613792	C	T	EP300_HUMAN,EZH2_HUMAN,RAD21_HUMAN,ESR1_HUMAN,CTCF_HUMAN,SMC3_HUMAN,ANDR_HUMAN,ZBT7A_HUMAN,MAX_HUMAN,COT1_HUMAN,KMT2A_HUMAN,E2F6_HUMAN	cranial neural crest cells,CWR22 (prostate carcinoma),H1 (embryonic stem cells),SEM (childhood B acute lymphoblastic leukemia),226LDM (normal breast luminal cells),breast tumor tissue,bipolar neuron,neural cell	2.654772601987935	0.0	1.04	
+chr1	16905229	A	G	EP300_HUMAN,RFOX2_HUMAN,TAF7_HUMAN,T2AG_HUMAN,HDAC8_HUMAN,T2EB_HUMAN,TAL1_HUMAN,RUNX1_HUMAN,CEBPB_HUMAN,CTCF_HUMAN,MAX_HUMAN,GABPA_HUMAN,KLF1_HUMAN,CREB1_HUMAN,MNT_HUMAN,ZNF24_HUMAN,ELF1_HUMAN,PKNX1_HUMAN,MGAP_HUMAN,ATF3_HUMAN,ILF3_HUMAN,CBX1_HUMAN,HTF4_HUMAN,ATF2_HUMAN,BHE40_HUMAN,IKZF1_HUMAN,IKZF2_HUMAN,ZN687_HUMAN,SRF_HUMAN,SKIL_HUMAN,BCLF1_HUMAN,ZBED1_HUMAN,PEBB_HUMAN,GATA4_HUMAN,ELK1_HUMAN,ZN639_HUMAN,MBD2_HUMAN,THA11_HUMAN,RARA_HUMAN,GATD1_HUMAN,PPARG_HUMAN,KLF6_HUMAN,NFIA_HUMAN,FOXA3_HUMAN,ZGPAT_HUMAN,ARI4B_HUMAN,TEAD3_HUMAN,KLF16_HUMAN,ZN205_HUMAN,RING2_HUMAN,ZMIZ1_HUMAN,ERR1_HUMAN,MTG16_HUMAN,IRF9_HUMAN,MTA3_HUMAN,ETS2_HUMAN,ARI1B_HUMAN,MYC_HUMAN,CEBPD_HUMAN,KMT2A_HUMAN,KDM5B_HUMAN,DLX1_HUMAN,PML_HUMAN,RUNX3_HUMAN,TBP_HUMAN	VCaP (prostate carcinoma),CD14+ monocytes,GM12878 (female B-cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),LoVo (colorectal adenocarcinoma),fetal bone marrow-derived mononuclear cells	2.446611558251805	0.0	0.763	0.239
+chr1	16905248	C	T	EP300_HUMAN,T2AG_HUMAN,NFIC_HUMAN,CTCF_HUMAN,KDM1A_HUMAN,MNT_HUMAN,ZNF24_HUMAN,ELF1_HUMAN,NCOR1_HUMAN,BHE40_HUMAN,IKZF2_HUMAN,FOXK2_HUMAN,MTA2_HUMAN,SKIL_HUMAN,ATF4_HUMAN,ERR1_HUMAN,MTG16_HUMAN,NUFP1_HUMAN,KLF5_HUMAN,ENL_HUMAN,MEIS2_HUMAN,ZN316_HUMAN,SPT5H_HUMAN,AFF1_HUMAN,TR150_HUMAN,KMT2A_HUMAN	786-O (renal carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),cord blood-derived mononuclear cells,sigmoid colon,lower leg skin,tibial nerve,upper lobe of left lung	5.019359302878652	0.0	0.996	
+chr1	16905254	G	A	T2AG_HUMAN,CTCF_HUMAN,FOXA2_HUMAN,MNT_HUMAN,ZNF24_HUMAN,ELF1_HUMAN,NBN_HUMAN,ELF4_HUMAN,E2F1_HUMAN,FOXK2_HUMAN,MTA2_HUMAN,ATF4_HUMAN,GABP1_HUMAN,ERR1_HUMAN,ATF7_HUMAN,ZN143_HUMAN,ENL_HUMAN,ETV1_HUMAN,ZN316_HUMAN,AFF1_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),gastroesophageal sphincter,tibial nerve	9.212893392910763	0.0	1.635	
+chr1	16905293	C	T	CEBPB_HUMAN,FOXA2_HUMAN,KLF13_HUMAN,KDM1A_HUMAN,MNT_HUMAN,NCOR1_HUMAN,ATF3_HUMAN,IKZF2_HUMAN,FOXK2_HUMAN,ATF4_HUMAN,ARI4B_HUMAN,TEAD3_HUMAN,KLF16_HUMAN,MTG16_HUMAN,ATF7_HUMAN,ZN143_HUMAN,ENL_HUMAN,ARI1B_HUMAN,ZN316_HUMAN,SPT5H_HUMAN,AFF1_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia)	1.6435662432647131	0.0	0.875	-0.615
+chr1	16905295	A	T	CEBPB_HUMAN,FOXA2_HUMAN,KLF13_HUMAN,KDM1A_HUMAN,MNT_HUMAN,CEBPG_HUMAN,NCOR1_HUMAN,ATF3_HUMAN,IKZF2_HUMAN,FOXK2_HUMAN,NFAC3_HUMAN,ATF4_HUMAN,ARI4B_HUMAN,TEAD3_HUMAN,KLF16_HUMAN,ATF7_HUMAN,ZN143_HUMAN,ENL_HUMAN,ARI1B_HUMAN,ZN316_HUMAN,SPT5H_HUMAN,AFF1_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia)	1.3820159325001589	0.0	0.7090000000000001	-0.526
+chr1	16948559	G	C	ZFX_HUMAN,KMT2A_HUMAN	LNCaP C4-2B (prostate carcinoma),SEM (childhood B acute lymphoblastic leukemia)	8.05187358286429	0.0	1.7530000000000001	-1.19
+chr1	19081641	G	C	KMT2A_HUMAN,SPI1_HUMAN	monocyte-derived macrophages,fetal bone marrow-derived mononuclear cells	1.406056751251921	0.0	1.273	-0.983
+chr1	23825506	C	A	TFAP4_HUMAN,KMT2A_HUMAN,USF1_HUMAN	HEK293T (embryonic kidney),MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	1.3498209378695931	0.44799999999999995	1.011
+chr1	26234254	G	A	STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,SEM (childhood B acute lymphoblastic leukemia)	1.6197127439184131	0.0	1.317	-2.6510000000000002
+chr1	26234454	C	G	KMT2A_HUMAN	GM12878 (female B-cells),fetal bone marrow-derived mononuclear cells	1.993775972607249	0.0	1.4409999999999998	-1.766
+chr1	26289125	C	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.5588429370599677	0.15429238658509473	1.5119999999999998	0.10300000000000001
+chr1	31483320	C	G	KMT2A_HUMAN	K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	1.470520956922009		1.29
+chr1	35192273	G	C	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	2.601440276982945	-2.097	1.61
+chr1	37514845	A	C	CTCF_HUMAN,KMT2A_HUMAN	IPSC-derived bipolar neuron,fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	8.85982499198896	0.0	0.528	0.332
+chr1	42963849	C	T	E4F1_HUMAN,ARI1B_HUMAN,KMT2A_HUMAN	K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	1.3026734856997655	-0.941	0.795
+chr1	50968015	T	A	CTCF_HUMAN,KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.15159241170031224	1.8494146207712445	0.255	0.475
+chr1	50977717	G	C	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.0	11.670997334647694	-0.375	1.778
+chr1	52637370	G	C	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	4.391521097683731	0.0	1.8869999999999998	
+chr1	108200330	G	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.9081489661740512	0.0	1.607	0.122
+chr1	108200332	A	C	GABP1_HUMAN,NRF1_HUMAN,KMT2A_HUMAN	K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	3.4664322251817206	0.0	1.642	-1.578
+chr1	113905154	C	G	AP2A_HUMAN,FOXA1_HUMAN,CREB1_HUMAN,RFX1_HUMAN,E2F1_HUMAN,ZN687_HUMAN,FOXK2_HUMAN,STAT1_HUMAN,NRF1_HUMAN,E4F1_HUMAN,MYC_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	HEK293T (embryonic kidney),MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,GM12878 (female B-cells),HEK293 (embryonic kidney),K562 (myelogenous leukemia),monocyte-derived dendritic cells,periferal blood macrophages,erythroid cells,fetal bone marrow-derived mononuclear cells	1.4701732290654974	0.0	1.307	-0.888
+chr1	117367404	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	3.4790747612579747	0.0	1.597	0.23399999999999999
+chr1	153357702	G	A	ANDR_HUMAN,KMT2A_HUMAN	LHSAR (prostate epithelial cells),fetal bone marrow-derived mononuclear cells	0.0	2.378754820521986	-0.59	0.9670000000000001
+chr1	153945926	G	A	GABPA_HUMAN,FOXK2_HUMAN,THA11_HUMAN,GABP1_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,GM12878 (female B-cells),HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells	0.0	2.3111209008471207	-1.037	0.9990000000000001
+chr1	165630909	G	A	CTCF_HUMAN,PRGR_HUMAN,JUN_HUMAN,NCOR1_HUMAN,MGAP_HUMAN,ZSC29_HUMAN,ZN639_HUMAN,STAT1_HUMAN,GLIS2_HUMAN,ZEB2_HUMAN,ZN316_HUMAN,SPT5H_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),LNCaP (prostate carcinoma),T47D (invasive ductal carcinoma),CD14+ monocytes,GM12878 (female B-cells),HEK293 (embryonic kidney),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells,breast tumor tissue,neural cell	2.3468766001882075	0.0883912616757524	0.478	0.305
+chr1	167553767	G	A	ESR1_HUMAN,RB_HUMAN,KMT2A_HUMAN	K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells,breast tumor tissue	1.556002812594223	0.0	0.927	
+chr1	167628236	C	T	MNT_HUMAN,ELF1_HUMAN,NFRKB_HUMAN,MYB_HUMAN,NCOR1_HUMAN,GMEB1_HUMAN,EMSY_HUMAN,IKZF1_HUMAN,COT1_HUMAN,TEAD2_HUMAN,NRF1_HUMAN,HDAC1_HUMAN,TIF1A_HUMAN,CEBPD_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	GM12878 (female B-cells),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	1.3997294752229654	0.0	1.2429999999999999	
+chr1	167721830	C	A	KMT2A_HUMAN	MDA-MB-453 (breast adenocarcinoma),fetal bone marrow-derived mononuclear cells	1.9633175096825468	0.0	1.51	-1.2990000000000002
+chr1	171742190	T	C	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.3966871190689356	0.0	1.2409999999999999	
+chr1	171781417	T	C	CTCF_HUMAN,FOXK2_HUMAN,RFX5_HUMAN,BC11B_HUMAN,RB_HUMAN,HDAC1_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),VCaP (prostate carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	1.5618789817352392	0.0	0.539	0.312
+chr1	182391180	C	T	ENL_HUMAN,KMT2A_HUMAN	K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.3114197940095409	1.8918841840644882	0.013000000000000001	1.7280000000000002
+chr1	182391497	A	G	MNT_HUMAN,GABP1_HUMAN,STAT1_HUMAN,NRF1_HUMAN,ENL_HUMAN,KMT2A_HUMAN	CD14+ monocytes,K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	3.7238101967607338		1.774
+chr1	182391708	C	G	ESR1_HUMAN,CTCF_HUMAN,MNT_HUMAN,IKZF2_HUMAN,REQU_HUMAN,STAT1_HUMAN,NDF1_HUMAN,ATF7_HUMAN,KMT2A_HUMAN	T47D (invasive ductal carcinoma),CD14+ monocytes,GM12878 (female B-cells),K562 (myelogenous leukemia),MDA-MB-453 (breast adenocarcinoma),fetal bone marrow-derived mononuclear cells,D283 Med (medulloblastoma),breast tumor tissue,tibial nerve	0.0	2.3105184183782748	0.24100000000000002	1.685
+chr1	183590569	A	C	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	3.0424642602737473	-2.708	1.755
+chr1	209827888	C	T	CTCF_HUMAN,JUN_HUMAN,GABPA_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),LNCaP (prostate carcinoma),CD14+ monocytes,D54 (glioblastoma),HepG2 (hepatoblastoma),erythroid progenitors,neutrophils,fetal bone marrow-derived mononuclear cells,epithelial cell of prostate,thyroid gland,H54	0.0	38.135919445858455	0.11800000000000001	0.762
+chr1	211416443	G	A	ZFX_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),SEM (childhood B acute lymphoblastic leukemia),epithelial cell of prostate	0.0	2.477762635997619	-0.777	1.181
+chr1	212285041	G	A	HDAC2_HUMAN,BHE40_HUMAN,KMT2A_HUMAN	T47D (invasive ductal carcinoma),GM12878 (female B-cells),HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells,thymus-derived CD34- cells	0.0	1.8103186243885778	-0.36200000000000004	1.314
+chr1	214602949	C	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.3927704014845537	0.0	1.538	
+chr1	221000791	G	A	TF65_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	monocyte-derived macrophages,periferal blood macrophages,fetal bone marrow-derived mononuclear cells	0.0	2.695575661051276		1.774
+chr1	222713246	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	3.3285536425667237	0.0	1.777	
+chr1	222773284	C	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	2.255665750813014		1.556
+chr1	223992649	T	C	CTCF_HUMAN,ZFX_HUMAN,CREB1_HUMAN,RFX1_HUMAN,E2F1_HUMAN,KLF11_HUMAN,KMT2A_HUMAN,SNAI2_HUMAN	LNCaP (prostate carcinoma),MCF7 (Invasive ductal breast carcinoma),LNCaP C4-2B (prostate carcinoma),keratinocytes,hMADS-3 (adipose-derived stem cells),Ishikawa (endometrial adenocarcinoma),liver,pancreas,MDA231-LM2-4175 (breast adenocarcinoma),upper lobe of left lung	12.346797028057573	0.0	0.833	0.257
+chr1	225777805	G	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.066708523788757	0.0	1.599	-2.325
+chr1	244730681	C	G	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	1.4665195658291095	0.0	0.6940000000000001	0.551
+chr1	247857146	G	A	KMT2A_HUMAN	K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	1.568031932454766	-1.2919999999999998	1.453
+chr1	247857254	G	C	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	1.3418866652742272	0.038	1.305
+chr10	127953	T	A	KMT2A_HUMAN	GM12878 (female B-cells),fetal bone marrow-derived mononuclear cells	2.2196517287009305	0.0	1.474	-1.413
+chr10	988288	G	A	ESR1_HUMAN,CTCF_HUMAN,GABPA_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),erythroid progenitors,breast tumor tissue	2.365437690766002	0.0	1.581	-2.375
+chr10	5666397	G	A	ESR1_HUMAN,EGR1_HUMAN,KMT2A_HUMAN	K562 (myelogenous leukemia),SEM (childhood B acute lymphoblastic leukemia),breast tumor tissue	2.6877638204457535	0.0	1.682	-2.408
+chr10	5666459	A	T	ESR1_HUMAN,KMT2A_HUMAN	K562 (myelogenous leukemia),SEM (childhood B acute lymphoblastic leukemia)	1.3271109115107544	0.0	1.3430000000000002	-0.86
+chr10	5666471	C	G	ESR1_HUMAN,KMT2A_HUMAN,CXXC1_HUMAN	K562 (myelogenous leukemia),SEM (childhood B acute lymphoblastic leukemia)	1.4170176093552793	0.0	1.395	-1.969
+chr10	6396890	A	C	ESR1_HUMAN,FOXA1_HUMAN,KMT2A_HUMAN	T47D (invasive ductal carcinoma),periferal blood macrophages,fetal bone marrow-derived mononuclear cells	3.5197040576668956	0.0	0.8079999999999999	0.568
+chr10	7818475	G	T	MNT_HUMAN,SMCA4_HUMAN,NRF1_HUMAN,HDAC1_HUMAN,KMT2A_HUMAN,KDM5B_HUMAN	K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	1.8595307389827211	-0.293	1.2890000000000001
+chr10	8058684	C	T	ESR1_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),CCRF-CEM (T acute lymphoblastic leukemia),breast tumor tissue	2.4637269168424423	0.0	0.626	0.114
+chr10	11163213	C	T	STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	1.304990482808158	0.0	1.402	-1.689
+chr10	12265964	A	G	FOXA1_HUMAN,IKZF1_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),GM12878 (female B-cells),fetal bone marrow-derived mononuclear cells	2.572281164103183	0.017844945184982947	0.871	-0.165
+chr10	17201407	C	G	GABPA_HUMAN,ZBT11_HUMAN,SOX6_HUMAN,ZN316_HUMAN,KMT2A_HUMAN	K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	1.382759892178911	-0.207	1.024
+chr10	17201481	T	A	ESR1_HUMAN,ZBT40_HUMAN,GABPA_HUMAN,ATF3_HUMAN,SP130_HUMAN,GABP1_HUMAN,KMT2A_HUMAN	HepG2 (hepatoblastoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	1.41861915346996	-2.5540000000000003	1.444
+chr10	22437072	G	A	STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,fetal bone marrow-derived mononuclear cells	3.1938573039551237	0.0	1.358	
+chr10	26438753	C	A	KMT2A_HUMAN,SPI1_HUMAN	GM12878 (female B-cells),monocyte-derived macrophages,periferal blood macrophages	1.4585192987134827	0.0	0.7240000000000001	0.026000000000000002
+chr10	27240620	C	A	ESR1_HUMAN,HDAC2_HUMAN,MNT_HUMAN,FOXK2_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells,breast tumor tissue	0.0	1.3388569607642582	-0.75	1.465
+chr10	30529714	C	T	STAT1_HUMAN,TBX21_HUMAN,TF65_HUMAN,KMT2A_HUMAN	monocyte-derived macrophages,Th1-cells,fetal bone marrow-derived mononuclear cells	1.513307672645923	0.0	0.512	-0.27899999999999997
+chr10	38094219	A	T	NFIC_HUMAN,GABP1_HUMAN,HDAC1_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),K562 (myelogenous leukemia),CD4+ T-cells,fetal bone marrow-derived mononuclear cells,MDA231-LM2-4175 (breast adenocarcinoma),uterus	1.724891208908744	0.0	1.5859999999999999	-1.3719999999999999
+chr10	38094358	G	C	CTBP1_HUMAN,EP400_HUMAN,LMBL2_HUMAN,NRF1_HUMAN,ZN143_HUMAN,TBX21_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),K562 (myelogenous leukemia),Th1-cells,fetal bone marrow-derived mononuclear cells	1.6456068334228684	0.0	1.193	-1.209
+chr10	38094360	C	A	EGR1_HUMAN,CTBP1_HUMAN,EP400_HUMAN,LMBL2_HUMAN,NRF1_HUMAN,ZN143_HUMAN,TBX21_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),K562 (myelogenous leukemia),Th1-cells,fetal bone marrow-derived mononuclear cells	1.31802752143129	0.0	0.95	-1.02
+chr10	38094404	A	G	CREB1_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	1.3414099751705912	0.23399999999999999	0.775
+chr10	48306708	C	G	ESR1_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells,breast tumor tissue	3.5931380713618957	0.0	1.671	
+chr10	58269403	C	T	KMT2A_HUMAN	A549 (lung carcinoma)	0.0	1.7153222361005918	-0.083	0.8029999999999999
+chr10	63453817	C	T	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	1.4367881668736748	0.0	0.7809999999999999	-0.546
+chr10	63459037	G	A	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	2.564045789317145	0.0	0.7809999999999999	-0.593
+chr10	67884583	G	C	MAX_HUMAN,EGR1_HUMAN,E2F1_HUMAN,KMT2A_HUMAN,USF1_HUMAN	LNCaP (prostate carcinoma),HCT-116 (colon carcinoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.019096512754407304	1.4719622188737982	-0.06	0.8190000000000001
+chr10	79068848	A	G	KMT2A_HUMAN	GM12878 (female B-cells),fetal bone marrow-derived mononuclear cells,Peyer's patch	0.0	6.185052745450044		2.134
+chr10	86400837	C	T	KMT2A_HUMAN	RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1))	1.9081489661740512	0.0	0.831	-0.075
+chr10	89701363	A	T	FOXK2_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells)	0.0	2.2519223928016183	-1.268	1.4269999999999998
+chr10	89701511	T	G	CTCF_HUMAN,NRF1_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	2.4029662921715693	0.0	0.424	0.203
+chr10	92240093	A	G	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.0	4.510696748497402	-0.574	1.3090000000000002
+chr10	92574198	A	G	AP2A_HUMAN,FOXK2_HUMAN,KMT2A_HUMAN	CD14+ monocytes,cranial neural crest cells,GM12878 (female B-cells),fetal bone marrow-derived mononuclear cells	1.3595115621099803	0.0	1.187	-0.89
+chr10	92691573	C	T	KMT2A_HUMAN	GM23248	1.7401575747837006	0.0	0.919	0.174
+chr10	93496443	C	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.3927704014845537	0.0	1.492	
+chr10	96700912	G	A	COT1_HUMAN,KMT2A_HUMAN,COE1_HUMAN	GM12878 (female B-cells)	0.0	7.715609988710539		1.4169999999999998
+chr10	97319197	C	T	CLOCK_HUMAN,IKZF2_HUMAN,ARNT_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.835239275740479	0.0	1.581	-2.375
+chr10	97319266	G	A	CTCF_HUMAN,FOXA1_HUMAN,MNT_HUMAN,ARNT_HUMAN,KMT2A_HUMAN	LNCaP (prostate carcinoma),HT29 (colon adenocarcinoma),fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	0.0	2.466955499314801	0.42700000000000005	0.502
+chr10	97334690	G	C	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	3.0003308619899958	0.0	0.762	-0.389
+chr10	103367830	G	T	ENL_HUMAN,KMT2A_HUMAN	HCT-116 (colon carcinoma),fetal bone marrow-derived mononuclear cells	0.0	3.000572111709476		0.7
+chr10	103367951	G	A	CTCF_HUMAN,KMT2A_HUMAN	HCT-116 (colon carcinoma),Ishikawa (endometrial adenocarcinoma),SEM (childhood B acute lymphoblastic leukemia),fetal bone marrow-derived mononuclear cells	2.2572336618451785	0.0	0.385	0.174
+chr10	114822660	C	A	FOXK2_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells)	0.0	1.674990979399698		1.195
+chr10	123135227	G	A	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	2.6875539222822264	0.0	1.4140000000000001	0.037000000000000005
+chr10	124791812	C	T	CREB1_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells	0.0	1.9742822962120858	-0.036000000000000004	0.773
+chr10	125823221	G	T	PPARG_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),HT29 (colon adenocarcinoma),fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	0.0	1.8324605512193912	-0.635	0.932
+chr10	132537071	C	T	ESR1_HUMAN,KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia),breast tumor tissue	1.5944139934248376	0.0	1.3030000000000002	
+chr11	18013045	G	C	CTCF_HUMAN,BHE40_HUMAN,BC11B_HUMAN,KMT2A_HUMAN,FLI1_HUMAN	HCT-116 (colon carcinoma),acute leukemia,thymus-derived CD34- cells,Peyer's patch,esophagus squamous epithelium,thyroid gland,adrenal gland,prostate gland,tibial nerve,upper lobe of left lung	0.0	36.295251154592115	-0.17300000000000001	1.52
+chr11	31510047	A	C	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.07465344714741236	1.7308754703262546	-0.17300000000000001	1.0170000000000001
+chr11	43942395	C	T	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	1.4246852577968483	0.0	1.034	-0.902
+chr11	47395018	C	T	CEBPB_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,macrophages,fetal bone marrow-derived mononuclear cells	5.292738764259768	0.0	2.3040000000000003	
+chr11	58579645	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.9540945531146567	0.0	1.643	-2.148
+chr11	62123822	C	G	ZBT40_HUMAN,ELF4_HUMAN,NRF1_HUMAN,BC11B_HUMAN,OTX2_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),GM12878 (female B-cells),HeLa S3 (cervical adenocarcinoma),HUES64 (embryonic stem cells),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells,thymus-derived CD34+ cells	0.0	1.529188121260849	-0.519	0.431
+chr11	62841496	G	C	EZH2_HUMAN,GCR_HUMAN,CREB1_HUMAN,KMT2A_HUMAN,NR1H3_HUMAN	KG1 (acute myeloid leukemia),BEAS-2B (bronchial epithelium),HepG2 (hepatoblastoma),HT29 (colon adenocarcinoma),fetal bone marrow-derived mononuclear cells	2.0303461829703497	0.0	1.102	-0.632
+chr11	62841551	T	G	CEBPB_HUMAN,GCR_HUMAN,SIN3A_HUMAN,MAX_HUMAN,JUND_HUMAN,SP1_HUMAN,CREB1_HUMAN,PPARG_HUMAN,ERG_HUMAN,FOXO3_HUMAN,KMT2A_HUMAN,NR1H3_HUMAN,NR1H2_HUMAN	BEAS-2B (bronchial epithelium),HCT-116 (colon carcinoma),HeLa S3 (cervical adenocarcinoma),HepG2 (hepatoblastoma),HT29 (colon adenocarcinoma),fetal bone marrow-derived mononuclear cells,HAEC (human aortic endothelial cells)	2.036129502430658	0.0	0.929	-0.762
+chr11	62841612	C	T	CREB1_HUMAN,IRF5_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),HT29 (colon adenocarcinoma),fetal bone marrow-derived mononuclear cells	2.542850866243447	0.0	0.823	-0.151
+chr11	64317676	A	C	ESR1_HUMAN,ANDR_HUMAN,SKIL_HUMAN,STAT1_HUMAN,NRF1_HUMAN,ENL_HUMAN,HDAC1_HUMAN,ERG_HUMAN,KMT2A_HUMAN,SNAI2_HUMAN,RUNX3_HUMAN	VCaP (prostate carcinoma),CD14+ monocytes,keratinocytes,GM12878 (female B-cells),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	1.7081845585003852	0.0	1.402	-2.735
+chr11	68903951	C	T	GABPA_HUMAN,MNT_HUMAN,ZBT11_HUMAN,STAT1_HUMAN,HDAC1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,HepG2 (hepatoblastoma),K562 (myelogenous leukemia),MDA-MB-453 (breast adenocarcinoma),SK-N-SH (neuroblastoma)	0.0	13.017160201032846	0.068	1.11
+chr11	70203147	T	C	EP300_HUMAN,ZFX_HUMAN,JUN_HUMAN,ELF1_HUMAN,MYB_HUMAN,E2F1_HUMAN,IKZF1_HUMAN,ZBT26_HUMAN,SP2_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),Jurkat (T-cells),SK-N-SH (neuroblastoma),fetal bone marrow-derived mononuclear cells,MDA231-LM2-4175 (breast adenocarcinoma)	2.006444493227661	0.0	1.3330000000000002	-1.35
+chr11	71453000	C	G	KMT2A_HUMAN,SNAI2_HUMAN	keratinocytes	1.400723928681395	0.0	1.085	
+chr11	71453001	C	A	KMT2A_HUMAN,SNAI2_HUMAN	keratinocytes	1.400723928681395	0.0	1.085	
+chr11	73760716	C	A	FOXK2_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells)	1.3651056004415114	0.0	1.023	-0.941
+chr11	83156939	C	G	RFX1_HUMAN,IKZF1_HUMAN,THA11_HUMAN,NRF1_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	3.141061731290832	0.0	0.179	-0.32899999999999996
+chr11	86139201	C	T	CEBPB_HUMAN,TF65_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),K562 (myelogenous leukemia),periferal blood macrophages,SUM159PT (pleiomorphic breast carcinoma),fetal bone marrow-derived mononuclear cells	3.002024640672318	0.0	0.899	-0.096
+chr11	107017882	G	A	PRDM9_HUMAN,KMT2A_HUMAN,CXXC1_HUMAN	HEK293T (embryonic kidney),SEM (childhood B acute lymphoblastic leukemia)	1.3101379697925293	0.0	1.2109999999999999	-0.244
+chr11	108498446	G	A	KMT2A_HUMAN	RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1))	2.564045789317145	0.0	1.421	
+chr11	110115863	C	T	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	2.652450022205116	0.0	1.263	-0.10300000000000001
+chr11	118791319	C	T	CTCF_HUMAN,ZFX_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney),SK-N-SH (neuroblastoma),fetal bone marrow-derived mononuclear cells	2.997911013646505	0.0	0.42100000000000004	0.237
+chr11	122714580	C	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.9368124236324276	0.0	1.614	
+chr11	123430638	G	A	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	2.459503379911699	0.0	0.852	-0.191
+chr11	125625369	C	T	KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),K562 (myelogenous leukemia),SEM (childhood B acute lymphoblastic leukemia)	2.6232885427865313	0.03397824175933502	1.075	0.607
+chr11	130069931	C	T	STAT1_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),CD14+ monocytes,HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells	4.164779894408693	0.0	1.489	
+chr11	134224505	T	C	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.8793583177884574	0.0	1.493	0.414
+chr12	642798	C	T	ESR1_HUMAN,PRDM9_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),fetal bone marrow-derived mononuclear cells,breast tumor tissue	1.60881020828444	0.0	1.4409999999999998	-2.056
+chr12	949522	A	C	CTCF_HUMAN,ZNF24_HUMAN,ELF1_HUMAN,COT1_HUMAN,SP7_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells	0.04328669543475108	1.4844989510568969	-0.071	0.49200000000000005
+chr12	991093	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.6232885427865313	0.0	1.28	-0.49700000000000005
+chr12	8698522	C	T	ESR1_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells,breast tumor tissue	1.6533650300573042	0.0	1.2409999999999999	
+chr12	9867697	T	C	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	4.758924496287298	0.0	1.56	-1.095
+chr12	26122622	G	A	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.0	8.48246654800626	-1.524	1.624
+chr12	31729274	G	A	GATA1_HUMAN,BC11B_HUMAN,NFIB_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	MCF7 (Invasive ductal breast carcinoma),CD34+ hematopoietic stem cells-derived proerythroblasts,fetal bone marrow-derived mononuclear cells	1.8673131211380984	0.0	0.927	
+chr12	38316721	G	A	BCL6_HUMAN,ZBT40_HUMAN,CREB1_HUMAN,ELF1_HUMAN,PKNX1_HUMAN,FOXK2_HUMAN,STAT1_HUMAN,ZN143_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,HepG2 (hepatoblastoma),K562 (myelogenous leukemia),CD4+ T-cells,fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	1.5374862072333322	0.0	1.476	-0.465
+chr12	48682200	C	G	NFE2_HUMAN,STAT1_HUMAN,NRF1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,K562 (myelogenous leukemia),R3/R4 erythroid cells,fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	1.5873791498334684	0.0	1.2770000000000001	
+chr12	48682201	T	G	NFE2_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	1.4882246722888166	0.0	1.236	
+chr12	56725452	G	A	GABPA_HUMAN,MNT_HUMAN,CLOCK_HUMAN,CTBP1_HUMAN,ATF3_HUMAN,ZBT11_HUMAN,KLF16_HUMAN,NRF1_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	3.150906324962177	0.0	0.778	0.3
+chr12	66145208	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells,esophagus squamous epithelium	1.993775972607249	0.0	1.41	-1.36
+chr12	68268143	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.6333414620988327	0.0	1.304	-1.2570000000000001
+chr12	92123839	T	C	TF65_HUMAN,KMT2A_HUMAN	monocyte-derived macrophages,fetal bone marrow-derived mononuclear cells	0.0	2.8858842070400583		1.868
+chr12	93244304	T	G	CEBPB_HUMAN,ZBT40_HUMAN,REST_HUMAN,KDM1A_HUMAN,ELF1_HUMAN,PKNX1_HUMAN,CEBPG_HUMAN,NR2C1_HUMAN,NCOR1_HUMAN,ATF3_HUMAN,SMCA4_HUMAN,IKZF1_HUMAN,FOXK2_HUMAN,RAD51_HUMAN,Z354B_HUMAN,GABP1_HUMAN,STAT1_HUMAN,MITF_HUMAN,MTG8R_HUMAN,TBX21_HUMAN,ETV1_HUMAN,MEIS2_HUMAN,HDAC1_HUMAN,TIF1A_HUMAN,KMT2A_HUMAN	CD14+ monocytes,HT29 (colon adenocarcinoma),K562 (myelogenous leukemia),periferal blood macrophages,Th1-cells,macrophages,fetal bone marrow-derived mononuclear cells	0.5546305557444926	7.365902274099293	0.7070000000000001	0.71
+chr12	95003776	T	C	CTCF_HUMAN,TYY1_HUMAN,PKNX1_HUMAN,PBX2_HUMAN,ARNT_HUMAN,STAT1_HUMAN,NRF1_HUMAN,SP3_HUMAN,EGR2_HUMAN,SP7_HUMAN,TYY2_HUMAN,ZFHX2_HUMAN,ZXDB_HUMAN,MEIS2_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),CD14+ monocytes,GM12878 (female B-cells),HEK293 (embryonic kidney),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	1.8420671100170893	0.171	0.445
+chr12	95217365	C	T	ESR1_HUMAN,CTCF_HUMAN,AP2A_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),cranial neural crest cells,fetal bone marrow-derived mononuclear cells,breast tumor tissue,adrenal gland	1.6099790201385147	0.13189714334163108	1.6130000000000002	0.10300000000000001
+chr12	95473920	T	G	SP2_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells	0.0	2.128237359896109	0.16899999999999998	1.6880000000000002
+chr12	108562581	C	T	TF65_HUMAN,KMT2A_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells,upper lobe of left lung	1.7811869537151823	0.0	1.2670000000000001	-1.224
+chr12	111599646	G	A	AP2A_HUMAN,KMT2A_HUMAN,FLI1_HUMAN	cranial neural crest cells,acute leukemia,fetal bone marrow-derived mononuclear cells	1.7026307610436109	0.0	1.459	-1.966
+chr12	120686339	A	C	AP2C_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,GM12878 (female B-cells),SK-BR-3 (breast adenocarcinoma),fetal bone marrow-derived mononuclear cells	1.367535474453085	0.0	1.315	1.043
+chr12	120904281	G	A	CTCF_HUMAN,KMT2A_HUMAN	LNCaP C4-2B (prostate carcinoma),fetal bone marrow-derived mononuclear cells	0.0	3.4799878274153984	0.42200000000000004	0.618
+chr12	121918573	C	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.6311507394601954	0.0	1.2770000000000001	
+chr13	21060613	G	C	KMT2A_HUMAN	RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1))	1.8665648097533996	0.0	1.11	
+chr13	21060631	A	G	KMT2A_HUMAN	RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1))	3.286034147765558	0.0	1.429	-1.4909999999999999
+chr13	24512837	C	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.652450022205116	0.0	1.555	
+chr13	28718735	A	G	KMT2A_HUMAN	GM12878 (female B-cells),neural cell	1.4727456848700133	0.0	1.005	
+chr13	40789459	T	C	RFOX2_HUMAN,KMT2A_HUMAN	HEK293 (embryonic kidney),HepG2 (hepatoblastoma),neural cell	1.3755743766181312	0.0	1.172	-1.0290000000000001
+chr13	41311783	C	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.4075534338214517	0.0	1.25	-1.103
+chr13	43023570	C	T	ESR1_HUMAN,RXRA_HUMAN,CTCF_HUMAN,ZFX_HUMAN,TYY1_HUMAN,HNF4A_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,HCT-116 (colon carcinoma),liver,fetal bone marrow-derived mononuclear cells,breast tumor tissue	1.5120315697265436	0.10133011380126268	0.9259999999999999	-0.10300000000000001
+chr13	44387022	C	T	GATA1_HUMAN,KMT2A_HUMAN	CD34+ hematopoietic stem cells-derived proerythroblasts,fetal bone marrow-derived mononuclear cells	0.0	5.996815414764334	0.36200000000000004	1.882
+chr13	46295910	C	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.996990446965567	0.0	1.39	
+chr13	75549542	G	A	KMT2A_HUMAN	HEK293T (embryonic kidney),GM12878 (female B-cells),HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells	0.0	4.956505609729934	-2.565	1.974
+chr13	109389951	C	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	3.2706165344467277	0.0	1.69	-2.015
+chr13	110522179	C	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	5.212670610732221	0.0	2.025	
+chr13	111153658	C	T	CTCF_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,fetal bone marrow-derived mononuclear cells	0.0	3.636808338904223	0.138	0.607
+chr13	111153693	T	G	CTCF_HUMAN,GABPA_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,fetal bone marrow-derived mononuclear cells	0.010641286208952605	2.6787089585782606	0.313	0.596
+chr14	30874865	G	A	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.0	3.4050952836262858	-1.037	1.114
+chr14	49600078	T	A	ZFX_HUMAN,KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	2.518482138432586	0.0	1.3969999999999998	-1.964
+chr14	50813669	T	C	STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,fetal bone marrow-derived mononuclear cells	3.5012677201102433	0.0	1.834	
+chr14	60091827	A	G	KMT2A_HUMAN,SPI1_HUMAN	monocyte-derived macrophages,fetal bone marrow-derived mononuclear cells	0.0	6.0579916990389915		2.1180000000000003
+chr14	60091966	T	C	ESR1_HUMAN,CEBPB_HUMAN,CTCF_HUMAN,BC11B_HUMAN,KMT2A_HUMAN	macrophages,fetal bone marrow-derived mononuclear cells,thymus-derived CD34- cells,breast tumor tissue,tibial nerve	0.0	4.485054999316111	-1.8969999999999998	1.9809999999999999
+chr14	60328064	T	C	EZH2_HUMAN,ZFX_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),SEM (childhood B acute lymphoblastic leukemia),GM23248	0.0	1.4467202664328955		1.195
+chr14	73058557	A	T	JUN_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),CD14+ monocytes,fetal bone marrow-derived mononuclear cells,upper lobe of left lung	3.14769827085697	0.0	1.006	0.132
+chr14	73136992	G	C	KMT2A_HUMAN,SNAI2_HUMAN	keratinocytes	1.491672680932767	0.08816770672137705	0.929	-0.07400000000000001
+chr14	87993090	G	T	TYY1_HUMAN,KMT2A_HUMAN	lymphoblastoid cells,fetal bone marrow-derived mononuclear cells	4.56135164341056	0.0	1.082	-0.41200000000000003
+chr14	87993104	C	G	TYY1_HUMAN,KMT2A_HUMAN	lymphoblastoid cells,liver,fetal bone marrow-derived mononuclear cells	7.156058681269814	0.0	1.2570000000000001	-0.99
+chr14	92417912	C	T	CEBPB_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	periferal blood macrophages,macrophages,fetal bone marrow-derived mononuclear cells	1.7440921468229869	0.0	1.026	-0.14300000000000002
+chr14	96502267	G	T	KMT2A_HUMAN	MDA-MB-453 (breast adenocarcinoma),OCI-LY7 (diffuse large B-cell lymphoma),fetal bone marrow-derived mononuclear cells	0.0	1.832048984574943	0.33899999999999997	1.531
+chr14	101810391	G	T	GABPA_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),MCF7 (Invasive ductal breast carcinoma),Jurkat (T-cells),fetal bone marrow-derived mononuclear cells	3.147681845387922	0.0	1.3159999999999998	-0.408
+chr14	101815126	C	T	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.0	1.9710900435158762	-0.068	1.175
+chr14	101850057	G	A	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	1.5297856495494786	0.0	0.861	-0.4
+chr14	101851994	T	C	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.0	1.9896467827660476	-0.5770000000000001	0.8109999999999999
+chr14	102087569	C	G	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	1.7401575747837006	0.0	0.7020000000000001	-0.261
+chr14	104757158	G	C	KMT2A_HUMAN	CCRF-CEM (T acute lymphoblastic leukemia)	1.8718337163469272	0.0	1.376	-1.3219999999999998
+chr14	105021480	G	T	JUN_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),fetal bone marrow-derived mononuclear cells	0.0	2.922522129817455	-0.096	0.919
+chr14	105284076	G	A	KMT2A_HUMAN	CCRF-CEM (T acute lymphoblastic leukemia)	2.284907838457538	0.0	1.5090000000000001	-1.9369999999999998
+chr14	105284186	C	G	KMT2A_HUMAN	CCRF-CEM (T acute lymphoblastic leukemia)	0.14123773846321303	1.3418866652742272	-0.051	1.171
+chr15	40755291	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	4.758924496287298	0.0	1.96	-2.565
+chr15	45402318	G	T	ANDR_HUMAN,FOXA1_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	VCaP (prostate carcinoma),T47D (invasive ductal carcinoma),MDA-MB-453 (breast adenocarcinoma),monocyte-derived dendritic cells,periferal blood macrophages,fetal bone marrow-derived mononuclear cells	1.7498106739694934	0.0	1.278	
+chr15	45402381	C	T	GATA1_HUMAN,BCL6_HUMAN,GABPA_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	VCaP (prostate carcinoma),CD34+ bone marrow cell-derived erythroid progenitors,MDA-MB-453 (breast adenocarcinoma),monocyte-derived dendritic cells,periferal blood macrophages,macrophages,fetal bone marrow-derived mononuclear cells	1.7806075811861342	0.0	1.23	-1.012
+chr15	45402412	C	T	GABPA_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	VCaP (prostate carcinoma),T47D (invasive ductal carcinoma),monocyte-derived dendritic cells,liver,macrophages,fetal bone marrow-derived mononuclear cells	4.882881323954927	0.0	1.104	-0.107
+chr15	50109671	G	A	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	1.6510517968767897	0.0	0.853	-0.847
+chr15	55221482	G	A	TF65_HUMAN,KMT2A_HUMAN	monocyte-derived macrophages,fetal bone marrow-derived mononuclear cells	2.3548481054231125	0.0	1.598	
+chr15	55250685	T	C	KMT2A_HUMAN	monocyte-derived macrophages,fetal bone marrow-derived mononuclear cells	3.707556198001108	0.0	1.7719999999999998	
+chr15	59689586	T	C	CREB1_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),monocyte-derived macrophages,fetal bone marrow-derived mononuclear cells	0.0	1.5706288008302778	-0.146	0.885
+chr15	63048506	C	T	JUN_HUMAN,KMT2A_HUMAN	786-O (renal carcinoma),A549 (lung carcinoma),erythroid cells,fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	1.4113750213543006	0.0	0.52	0.33
+chr15	63503476	G	A	EP300_HUMAN,CEBPB_HUMAN,MNT_HUMAN,NCOR1_HUMAN,STAT1_HUMAN,HDAC1_HUMAN,KMT2A_HUMAN,FLI1_HUMAN	MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,HUVEC (umbilical vein endothelial cells),K562 (myelogenous leukemia),macrophages,fetal bone marrow-derived mononuclear cells	0.0	1.5313635498183105	-1.137	1.496
+chr15	63833745	G	A	KMT2A_HUMAN	K562 (myelogenous leukemia),RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1))	3.475335059354788	0.0	1.642	-1.578
+chr15	66293562	C	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.5071817252639972	0.0	1.286	-1.145
+chr15	67074495	T	A	SOX13_HUMAN,PKNX1_HUMAN,TIF1A_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	2.4556683226171696	0.0	1.371	-1.569
+chr15	67542728	T	A	JUN_HUMAN,GABPA_HUMAN,THA11_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells	1.681610056044127	0.0	1.157	-1.079
+chr15	68054595	C	G	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	1.9458048390015386	0.0	1.1520000000000001	-1.19
+chr15	70099538	A	G	KMT2A_HUMAN	GM12878 (female B-cells),fetal bone marrow-derived mononuclear cells	2.6875539222822264	0.0	1.591	-2.097
+chr15	81001003	C	G	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	4.375373289572541	0.0	1.3559999999999999	0.203
+chr15	82810597	T	C	FOXK2_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),SEM (childhood B acute lymphoblastic leukemia)	0.0	1.365911941380523	-1.088	1.1340000000000001
+chr15	90191069	G	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	2.8465905149609347	-2.148	1.661
+chr15	90234035	G	A	CTCF_HUMAN,AP2A_HUMAN,FOXK2_HUMAN,MXI1_HUMAN,E4F1_HUMAN,KMT2A_HUMAN	cranial neural crest cells,GM12878 (female B-cells),HepG2 (hepatoblastoma),periferal blood macrophages,fetal bone marrow-derived mononuclear cells,neural cell	0.10707820442956048	1.6605682669719881	0.318	0.539
+chr15	90234089	G	A	ESR1_HUMAN,CREB1_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	LNCaP (prostate carcinoma),CD14+ monocytes,HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells,breast tumor tissue	4.0553270573776095	0.0	1.913	
+chr15	98650040	A	G	JUN_HUMAN,GLIS1_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),HEK293 (embryonic kidney)	1.539702435514388	0.0	0.785	0.322
+chr15	98650047	A	C	ZBT8A_HUMAN,GLIS1_HUMAN,KMT2A_HUMAN	HEK293 (embryonic kidney)	1.3239676281058013	0.0	1.6340000000000001	
+chr16	721181	C	G	CTCF_HUMAN,AP2A_HUMAN,HTF4_HUMAN,KMT2A_HUMAN	cranial neural crest cells,SEM (childhood B acute lymphoblastic leukemia),adrenal gland	7.2226101999872965	0.0	0.708	0.262
+chr16	873505	A	G	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	1.7153222361005918		1.367
+chr16	1964934	T	C	ZFX_HUMAN,BHE40_HUMAN,ZBT20_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),HEK293 (embryonic kidney),MDA-MB-453 (breast adenocarcinoma),fetal bone marrow-derived mononuclear cells,upper lobe of left lung	0.0	3.50374261844763		2.385
+chr16	1964953	C	T	EP300_HUMAN,JUN_HUMAN,SP1_HUMAN,CREB1_HUMAN,CHD2_HUMAN,KLF11_HUMAN,ZBT20_HUMAN,ZNF76_HUMAN,ZN366_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),LNCaP (prostate carcinoma),H1 (embryonic stem cells),HEK293 (embryonic kidney),HeLa S3 (cervical adenocarcinoma),hMADS-3 (adipose-derived stem cells),SK-N-SH (neuroblastoma),fetal bone marrow-derived mononuclear cells,HAEC (human aortic endothelial cells),upper lobe of left lung	0.0	2.2698109154645025	0.38299999999999995	1.327
+chr16	1984069	G	A	CTCF_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,fetal bone marrow-derived mononuclear cells	1.3269351945634513	0.0	0.405	0.32
+chr16	11345446	G	T	FOXA1_HUMAN,MAX_HUMAN,KLF11_HUMAN,GABP1_HUMAN,ZN189_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells	0.0	1.3091969554285752	0.08199999999999999	0.35700000000000004
+chr16	11640400	T	C	ZN692_HUMAN,ZN600_HUMAN,ZN629_HUMAN,PRD10_HUMAN,ZFHX2_HUMAN,ZSC21_HUMAN,ZBT17_HUMAN,TF65_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	HEK293 (embryonic kidney),monocyte-derived macrophages,fetal bone marrow-derived mononuclear cells	0.0	1.7339354506309061	-1.43	1.587
+chr16	11640461	T	C	ESR1_HUMAN,ZN600_HUMAN,ZN629_HUMAN,ZFHX2_HUMAN,ZSC21_HUMAN,ZBT17_HUMAN,ZN335_HUMAN,TF65_HUMAN,ZN366_HUMAN,ZN394_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	HEK293 (embryonic kidney),monocyte-derived macrophages,fetal bone marrow-derived mononuclear cells,breast tumor tissue	0.0	1.4962355877740332	-0.145	1.695
+chr16	11851374	T	C	ZFX_HUMAN,HDAC2_HUMAN,NCOR1_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),LNCaP C4-2B (prostate carcinoma),HEK293 (embryonic kidney),monocyte-derived macrophages,K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	3.3542940573568623	0.035	1.215
+chr16	17370350	C	T	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.010655542664548602	1.825219078508006	-0.564	0.935
+chr16	21599629	C	G	STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,fetal bone marrow-derived mononuclear cells	2.8186406373984885	0.0	1.63	
+chr16	26705512	G	C	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	1.4733054280709503	-1.319	1.319
+chr16	30875322	T	C	CTCF_HUMAN,JUN_HUMAN,BCL3_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),HepG2 (hepatoblastoma),Jurkat (T-cells),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells,tibial nerve	0.011584518958709945	1.7462709759936756	0.124	0.9
+chr16	56989538	G	T	STAT1_HUMAN,SP7_HUMAN,KMT2A_HUMAN	HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells	3.046200834414961	0.0	0.8420000000000001	
+chr16	57447393	T	C	FOXA1_HUMAN,ZFX_HUMAN,TYY1_HUMAN,CREB1_HUMAN,KMT2A_HUMAN,SNAI2_HUMAN	MCF7 (Invasive ductal breast carcinoma),keratinocytes,lymphoblastoid cells,MDA-MB-453 (breast adenocarcinoma),periferal blood macrophages,fetal bone marrow-derived mononuclear cells	0.0	1.59386595243713	-1.083	1.1909999999999998
+chr16	58516028	T	C	KMT2A_HUMAN	HepG2 (hepatoblastoma),K562 (myelogenous leukemia),SEM (childhood B acute lymphoblastic leukemia),MDA-MB-453 (breast adenocarcinoma)	0.0	1.5947435818403044	-1.067	1.2890000000000001
+chr16	67563300	C	T	FOXK2_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells	2.282415580602708	0.0	1.253	-1.956
+chr16	70251998	A	G	BCL6_HUMAN,SIN3A_HUMAN,JUN_HUMAN,CREB1_HUMAN,ZNF24_HUMAN,TFE3_HUMAN,SP130_HUMAN,ERF_HUMAN,ZN143_HUMAN,TF65_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12873 (female B-cells),GM12878 (female B-cells),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),MM1.S (plasma cell myeloma),fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	0.0	1.434496407616784	-1.216	1.4609999999999999
+chr16	81479031	T	G	FOXK2_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),fetal bone marrow-derived mononuclear cells	0.0	2.356219939207308	-1.841	1.544
+chr16	81479155	C	T	FOXK2_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,GM12878 (female B-cells),fetal bone marrow-derived mononuclear cells	0.0	5.473140451083794		1.93
+chr16	81479216	C	T	GRHL2_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	MCF7 (Invasive ductal breast carcinoma),fetal bone marrow-derived mononuclear cells	5.618658796885933	0.6315099779490508	1.268	0.636
+chr16	81481371	G	C	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.4075534338214517	0.0	1.265	-1.034
+chr16	87392515	G	C	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.7271962953623756	0.0	1.5919999999999999	-2.197
+chr16	87810463	G	C	FOXK2_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	1.5409508755381416	-1.6740000000000002	1.327
+chr16	87869476	G	C	STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,K562 (myelogenous leukemia)	1.7020807800130484	0.0	1.3459999999999999	-2.68
+chr16	88936842	C	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.69372984901468	0.1461930539053303	1.732	0.095
+chr16	89720447	C	T	HDAC2_HUMAN,ZBT17_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),SEM (childhood B acute lymphoblastic leukemia)	0.0	1.4037847184630317		1.3319999999999999
+chr16	89720632	C	T	ZF64A_HUMAN,KMT2A_HUMAN	HEK293 (embryonic kidney),HepG2 (hepatoblastoma),SEM (childhood B acute lymphoblastic leukemia)	1.8439478426150566	0.0	1.536	0.39299999999999996
+chr16	89918331	A	G	JUN_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),SEM (childhood B acute lymphoblastic leukemia)	0.0	2.4851015152110283	-0.626	0.857
+chr17	2041907	T	G	CTCF_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	3.1059076315839045	0.0	0.595	0.22699999999999998
+chr17	3964608	G	A	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.0	4.849509259003151	-1.6340000000000001	1.671
+chr17	3964644	T	C	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.0	2.1848466691317707	-0.965	1.111
+chr17	5419805	C	A	TYY1_HUMAN,PKNX1_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),MCF7 (Invasive ductal breast carcinoma),hMADS-3 (adipose-derived stem cells),liver	2.2543920282607117	0.0	0.74	0.311
+chr17	8435965	C	T	KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),fetal bone marrow-derived mononuclear cells	1.4700678171413184	0.12168358594528483	1.199	0.08800000000000001
+chr17	17836967	C	T	JUN_HUMAN,BCL3_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),fetal bone marrow-derived mononuclear cells	3.437802028846893	0.0	0.897	-0.418
+chr17	21043507	A	G	JUN_HUMAN,BCL3_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),SEM (childhood B acute lymphoblastic leukemia)	0.0	3.4378912574773133	-0.499	1.038
+chr17	21214276	C	A	CREB1_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	periferal blood macrophages,fetal bone marrow-derived mononuclear cells	0.0	1.3643818699959398	-0.19399999999999998	0.47200000000000003
+chr17	28717304	C	G	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	2.9220443583300173	0.0	1.3780000000000001	-0.040999999999999995
+chr17	29589758	G	C	NRF1_HUMAN,ZFP91_HUMAN,KMT2A_HUMAN	HEK293 (embryonic kidney),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	1.4075894631463717	0.12318074105876842	0.8240000000000001	0.038
+chr17	29722786	G	T	FOXK2_HUMAN,KMT2A_HUMAN	VCaP (prostate carcinoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	1.4139686403254992	-0.7170000000000001	1.177
+chr17	30364082	C	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	1.3540440916846361		1.249
+chr17	35244527	G	A	GATA1_HUMAN,SKI_HUMAN,STAT1_HUMAN,ZN335_HUMAN,TBX21_HUMAN,KMT2A_HUMAN	CD14+ monocytes,CD34+ hematopoietic stem cells-derived proerythroblasts,HL-60 (acute myeloid leukemia),K562 (myelogenous leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia),Th1-cells	0.0	1.3844841510105852		0.833
+chr17	38800084	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.8368709664671599	0.0	1.143	-0.001
+chr17	43315939	T	C	JUN_HUMAN,BCL3_HUMAN,REST_HUMAN,HTF4_HUMAN,STAT1_HUMAN,NDF1_HUMAN,KMT2A_HUMAN,PO2F2_HUMAN,TBP_HUMAN	A549 (lung carcinoma),CD14+ monocytes,GM12878 (female B-cells),HeLa S3 (cervical adenocarcinoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells,D341 Med (medulloblastoma),foreskin keratinocyte	17.212712025448205	0.0	1.706	
+chr17	45051538	T	A	KMT2A_HUMAN	GM12878 (female B-cells),HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	1.3236083481260958	0.0	0.971	-0.578
+chr17	45584662	A	G	ZBT40_HUMAN,EGR1_HUMAN,HDAC2_HUMAN,KDM1A_HUMAN,MNT_HUMAN,ZBT8A_HUMAN,ILF3_HUMAN,EP400_HUMAN,ZBT26_HUMAN,MXI1_HUMAN,RB_HUMAN,ARI1B_HUMAN,HDAC1_HUMAN,KMT2A_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN,TFE2_HUMAN	T47D (invasive ductal carcinoma),LNCaP C4-2B (prostate carcinoma),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia),fetal bone marrow-derived mononuclear cells,neural cell	0.0	1.4477885962793513	-0.703	1.081
+chr17	46192055	C	T	CTCF_HUMAN,KMT2A_HUMAN	neural cell,foreskin keratinocyte	1.3962923280090278	0.0	0.728	-0.903
+chr17	46192556	T	C	RAD21_HUMAN,CTCF_HUMAN,SMC3_HUMAN,E2F1_HUMAN,KMT2A_HUMAN	LNCaP (prostate carcinoma),H1 (embryonic stem cells),neural cell,foreskin keratinocyte	3.104592797961304	0.0	1.62	
+chr17	46193786	G	A	KMT2A_HUMAN	MV4-11 (childhood acute monocytic leukemia)	0.1836890754582465	1.4393685854932932	0.055	1.143
+chr17	46194146	G	C	CTCF_HUMAN,ZFX_HUMAN,MAX_HUMAN,GABPA_HUMAN,CREB1_HUMAN,E2F1_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	LNCaP (prostate carcinoma),LNCaP C4-2B (prostate carcinoma),CD14+ monocytes,H1 (embryonic stem cells),HL-60 (acute myeloid leukemia),NB4 (acute promyelocytic leukemia ),cord blood-derived mononuclear cells,neural cell,foreskin keratinocyte	17.099244705314707	0.0	1.4340000000000002	0.038
+chr17	46267010	G	A	ZFX_HUMAN,KMT2A_HUMAN	LNCaP (prostate carcinoma),LNCaP C4-2B (prostate carcinoma),neural cell	0.0	5.143939197651224	-1.615	1.6669999999999998
+chr17	46267011	C	T	SMC3_HUMAN,E2F1_HUMAN,KMT2A_HUMAN	LNCaP (prostate carcinoma),neural cell	1.4136074014176319	0.0	1.212	-1.07
+chr17	48048903	C	G	STAT1_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes	2.1368018757433385	0.0	1.135	
+chr17	48107564	C	T	STAT1_HUMAN,TF65_HUMAN,KMT2A_HUMAN,SNAI2_HUMAN	MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,keratinocytes,HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells,HAEC (human aortic endothelial cells)	0.0	1.7097521902473791	-0.48700000000000004	1.0959999999999999
+chr17	58352403	G	A	CTCF_HUMAN,JUN_HUMAN,KMT2A_HUMAN,FLI1_HUMAN	A549 (lung carcinoma),GM12878 (female B-cells),acute leukemia,fetal bone marrow-derived mononuclear cells,Peyer's patch,esophagus squamous epithelium,prostate gland	3.5348170225040736	0.0	0.688	0.324
+chr17	64497049	A	G	ESR1_HUMAN,MYB_HUMAN,SP7_HUMAN,ZFHX2_HUMAN,ZNF76_HUMAN,ZN394_HUMAN,KMT2A_HUMAN	HEK293 (embryonic kidney),Th1-cells,fetal bone marrow-derived mononuclear cells,breast tumor tissue	3.0290655123291605	0.0	1.719	
+chr17	68035784	T	C	CREB1_HUMAN,ZN282_HUMAN,KMT2A_HUMAN	HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells	1.46857996253163	0.0	0.8590000000000001	0.031
+chr17	68457876	G	T	TFAP4_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	1.3703083546662571	-0.799	1.263
+chr17	70169388	G	A	CTCF_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells,tibial nerve	1.5092194430937866	0.008111051676221392	0.746	0.213
+chr17	73474501	C	T	IKZF1_HUMAN,NRF1_HUMAN,GLIS1_HUMAN,KMT2A_HUMAN	HEK293 (embryonic kidney),K562 (myelogenous leukemia),SK-N-SH (neuroblastoma),fetal bone marrow-derived mononuclear cells	1.9391031698777956	0.0	1.3730000000000002	-1.848
+chr17	74748659	G	C	JUN_HUMAN,BCL3_HUMAN,KDM1A_HUMAN,MNT_HUMAN,NRF1_HUMAN,KMT2A_HUMAN,SNAI2_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),keratinocytes,GM12878 (female B-cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	2.2802936837200085	-0.545	0.884
+chr17	76737321	G	A	JUN_HUMAN,MAX_HUMAN,SP1_HUMAN,BCL3_HUMAN,MNT_HUMAN,NCOR1_HUMAN,SIN3B_HUMAN,KMT2A_HUMAN,SNAI2_HUMAN	A549 (lung carcinoma),keratinocytes,HCT-116 (colon carcinoma),HeLa S3 (cervical adenocarcinoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	6.377758461411175	0.0	1.383	-0.08
+chr17	78214286	G	C	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	3.0723843828237314	-2.375	1.577
+chr17	78592619	G	A	COT2_HUMAN,STAT1_HUMAN,SP7_HUMAN,KMT2A_HUMAN	T47D (invasive ductal carcinoma),CD14+ monocytes,liver,fetal bone marrow-derived mononuclear cells	1.4543933888572784	0.0	1.137	-1.3090000000000002
+chr17	80454724	C	T	GABPA_HUMAN,CREB1_HUMAN,GATD1_HUMAN,TF65_HUMAN,KMT2A_HUMAN	HepG2 (hepatoblastoma),monocyte-derived macrophages	5.839122302050861	0.0	1.452	0.045
+chr17	81341827	T	C	KMT2A_HUMAN	RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1))	3.707556198001108	0.2567923461459856	1.4369999999999998	0.49200000000000005
+chr17	81342024	T	A	KMT2A_HUMAN	RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1))	3.063729991526864	0.0	1.3530000000000002	-0.13699999999999998
+chr17	82449604	C	T	FOXK2_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	GM12878 (female B-cells),monocyte-derived dendritic cells,fetal bone marrow-derived mononuclear cells	0.0	1.66154047584774	-1.4269999999999998	1.28
+chr17	82458501	C	G	SP1_HUMAN,BHE40_HUMAN,ZBT11_HUMAN,KLF11_HUMAN,MYCN_HUMAN,KMT2A_HUMAN	CD14+ monocytes,GM12878 (female B-cells),HEK293 (embryonic kidney),hMADS-3 (adipose-derived stem cells),Tet21N (neuroblastoma),liver,fetal bone marrow-derived mononuclear cells	2.070299137286091	0.0	0.9209999999999999	-0.114
+chr18	379749	G	A	STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,macrophages,fetal bone marrow-derived mononuclear cells	3.1821032647374983	0.0	1.329	
+chr18	3013288	C	G	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	2.0703724888459125	0.28600000000000003	1.68
+chr18	3604790	A	C	STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.34357032977458724	4.365177987210294	0.377	2.207
+chr18	12658046	G	A	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	2.3161516236403314	0.0	0.902	-0.381
+chr18	13136649	C	T	KMT2A_HUMAN	RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1))	4.758924496287298	0.0	1.67	
+chr18	23135692	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.3020850831874264	0.0	1.186	-1.131
+chr18	23503311	A	G	CTCF_HUMAN,ERG_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),GM12878 (female B-cells),HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells,tibial nerve	0.00405417007603527	2.9364142610692294	0.18	0.5479999999999999
+chr18	23503333	G	A	CTCF_HUMAN,FOXK2_HUMAN,BC11B_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells,thymus-derived CD34- cells	1.4034734428371742	0.41345640507957293	0.47	0.32799999999999996
+chr18	32091891	A	G	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	3.33155959691318	0.0	1.715	-2.221
+chr18	36067707	G	A	RFOX2_HUMAN,VEZF1_HUMAN,ATF1_HUMAN,MYBB_HUMAN,ATF3_HUMAN,NRF1_HUMAN,SMAD5_HUMAN,ZN316_HUMAN,KMT2A_HUMAN	K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells,gastroesophageal sphincter	1.4536552856241682	0.0	1.286	-1.145
+chr18	36129799	G	C	ATF1_HUMAN,P66B_HUMAN,CLOCK_HUMAN,MEF2B_HUMAN,KLF11_HUMAN,CREM_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),hMADS-3 (adipose-derived stem cells),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	3.9188748105417552	0.0	1.724	
+chr18	57583438	G	A	CEBPB_HUMAN,ATF3_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	1.63569944402681	-0.631	0.96
+chr18	57586872	T	C	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.8718337163469272	0.0	1.376	-1.3219999999999998
+chr18	76565923	T	G	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	2.19854899131998	-2.015	1.528
+chr18	77132106	C	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.8760066819999786	0.0	1.354	
+chr18	79068854	G	C	KMT2A_HUMAN,CXXC1_HUMAN	HEK293 (embryonic kidney),SEM (childhood B acute lymphoblastic leukemia)	0.0	3.0907613128249167	-1.515	1.393
+chr18	79402462	A	G	KMT2A_HUMAN	RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1))	2.6692153000061305	0.0	1.4709999999999999	-1.504
+chr19	1208073	T	C	EGR1_HUMAN,IKZF1_HUMAN,KMT2A_HUMAN	K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	2.35510737122823	0.0	1.425	-0.10300000000000001
+chr19	4969188	A	C	CTCF_HUMAN,P66B_HUMAN,KMT2A_HUMAN	K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells,tibial nerve	2.5411161677235166	0.0	1.2009999999999998	-1.094
+chr19	11848749	T	C	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.3927704014845537	0.0	1.492	
+chr19	12551108	A	G	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.6333414620988327	0.0	1.304	-1.2570000000000001
+chr19	12945743	G	A	GATA1_HUMAN,STAT1_HUMAN,BC11B_HUMAN,MYC_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,CD34+ hematopoietic stem cells-derived proerythroblasts,HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells,thymus-derived CD34- cells	0.0	3.5999353589993937	-1.145	1.5190000000000001
+chr19	14518338	G	A	CTCF_HUMAN,ZBT11_HUMAN,KMT2A_HUMAN	HEK293 (embryonic kidney),HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	3.1615981444234724	0.0	1.046	-0.7240000000000001
+chr19	14614323	G	T	IKZF1_HUMAN,IKZF2_HUMAN,MEF2B_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),periferal blood macrophages,macrophages,fetal bone marrow-derived mononuclear cells	4.714498126928794	0.0	1.037	-1.071
+chr19	16260019	A	G	KMT2A_HUMAN,NCOR2_HUMAN	germinal center B-cells,fetal bone marrow-derived mononuclear cells	0.0	5.1646696166345984		2.097
+chr19	16328687	C	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	5.112099948038338	0.0	2.0140000000000002	
+chr19	32581179	A	G	REST_HUMAN,ATF1_HUMAN,ENL_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),H1 (embryonic stem cells),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells,neural cell	0.0	4.8376888221268874		0.725
+chr19	32692446	G	C	KMT2A_HUMAN	GM12878 (female B-cells),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),SEM (childhood B acute lymphoblastic leukemia)	0.0	1.768627231698201	0.17600000000000002	1.187
+chr19	41804455	C	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.09625477779346	0.0	1.442	-1.389
+chr19	44500593	A	G	FOXK2_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HCT-116 (colon carcinoma),HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	0.0	1.570877334495746	-1.121	1.234
+chr19	45093259	A	G	ESR1_HUMAN,CTCF_HUMAN,KMT2A_HUMAN	foreskin keratinocyte	1.3421489581044144	0.0	1.2009999999999998	
+chr19	47389196	T	G	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.3051303128659852	0.0	1.212	-1.07
+chr19	50025640	C	T	GATA1_HUMAN,GABPA_HUMAN,KMT2A_HUMAN	CD34+ hematopoietic stem cells-derived proerythroblasts,HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells	0.07701592158772058	1.598296682110702	-0.146	0.833
+chr19	50804968	A	T	FOXK2_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,GM12878 (female B-cells),fetal bone marrow-derived mononuclear cells	3.0585585979360883	0.036145255826310244	1.56	-0.027999999999999997
+chr19	51531686	C	T	KMT2A_HUMAN	monocyte-derived macrophages,fetal bone marrow-derived mononuclear cells	0.0	1.470520956922009		1.29
+chr19	51594407	C	G	ESR1_HUMAN,KMT2A_HUMAN,KDM5B_HUMAN	HEK293 (embryonic kidney),SUM185PE (ductal breast carcinoma),fetal bone marrow-derived mononuclear cells,breast tumor tissue	2.9835538035473683	0.0	1.344	
+chr19	52269515	T	C	NFIC_HUMAN,CEBPB_HUMAN,CTCF_HUMAN,E2F1_HUMAN,FOXK2_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	CD34+ hematopoietic stem cells-derived proerythroblasts,GM12878 (female B-cells),HEK293 (embryonic kidney),K562 (myelogenous leukemia),periferal blood macrophages,macrophages,fetal bone marrow-derived mononuclear cells	1.8180191382122295	0.0	1.61	-1.389
+chr19	52570311	G	T	MNT_HUMAN,NRF1_HUMAN,HDAC1_HUMAN,KMT2A_HUMAN	HEK293 (embryonic kidney),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	1.716943584054649	-0.45899999999999996	1.16
+chr19	52690517	A	G	CTCF_HUMAN,MNT_HUMAN,KMT2A_HUMAN	22RV1 (prostate carcinoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells,bipolar neuron,upper lobe of left lung,foreskin keratinocyte	0.0	12.721938829192807	0.57	0.9009999999999999
+chr19	53520703	A	G	ZN143_HUMAN,TBX21_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),H1 (embryonic stem cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	1.7452970449928489	0.0	1.176	-1.17
+chr19	53520724	C	G	ZN143_HUMAN,TF65_HUMAN,KMT2A_HUMAN	CUTLL1 (T-cell lymphoblastic lymphoma 1),GM12878 (female B-cells),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	4.456350671379505	0.0	1.389	-1.732
+chr19	53520824	C	T	KAISO_HUMAN,CREB1_HUMAN,E2F1_HUMAN,IKZF2_HUMAN,ZN687_HUMAN,FOXK2_HUMAN,CREM_HUMAN,ZN143_HUMAN,TF65_HUMAN,KMT2A_HUMAN	LNCaP (prostate carcinoma),CUTLL1 (T-cell lymphoblastic lymphoma 1),GM12878 (female B-cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	1.6542007947290405	0.0	1.078	0.026000000000000002
+chr19	53520998	T	A	E2F1_HUMAN,FOXK2_HUMAN,TBX21_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),liver,Th1-cells,fetal bone marrow-derived mononuclear cells	5.802755439203321	0.21601902986061247	2.237	0.106
+chr19	53521001	C	G	E2F1_HUMAN,FOXK2_HUMAN,MTA1_HUMAN,KMT2A_HUMAN,SIX2_HUMAN	GM12878 (female B-cells),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),liver,fetal bone marrow-derived mononuclear cells	5.694773351099385	0.21601902986061247	2.189	0.106
+chr19	54449028	T	C	GABPA_HUMAN,FOXK2_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),monocyte-derived macrophages,fetal bone marrow-derived mononuclear cells	1.4646594505785338	0.1062184347054676	0.574	0.358
+chr19	58002768	C	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.6875539222822264	0.0	1.591	-2.097
+chr2	3558388	A	G	SMC3_HUMAN,E2F1_HUMAN,PATZ1_HUMAN,PRDM9_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells,MDA231-LM2-4175 (breast adenocarcinoma),upper lobe of left lung	1.7245559780314954	0.0	1.227	-0.986
+chr2	9843557	G	T	RFOX2_HUMAN,RAD21_HUMAN,CTCF_HUMAN,CTBP1_HUMAN,KMT2A_HUMAN,SNAI2_HUMAN	786-O (renal carcinoma),MCF7 (Invasive ductal breast carcinoma),keratinocytes,HCT-116 (colon carcinoma),HepG2 (hepatoblastoma),spleen,RWPE1 (prostate epithelial cells),pancreas,fetal bone marrow-derived mononuclear cells,Peyer's patch,esophagus squamous epithelium,sigmoid colon,adrenal gland	0.0	2.0518469164403936		1.7619999999999998
+chr2	15560878	A	T	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.11412925299130088	1.3972528826309771	-0.115	0.9840000000000001
+chr2	15591735	A	C	GATA1_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),CD34+ hematopoietic stem cells-derived proerythroblasts,fetal bone marrow-derived mononuclear cells	0.0	1.3858925294576772	-0.8140000000000001	0.943
+chr2	28751600	T	C	KMT2A_HUMAN	NCI-H2171 (small cell lung carcinoma),HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells	4.908431930489746	0.02312282069071665	1.996	-0.231
+chr2	38148629	C	T	EP300_HUMAN,GCR_HUMAN,HES2_HUMAN,BCL3_HUMAN,ERR1_HUMAN,TIF1A_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),K562 (myelogenous leukemia),SK-BR-3 (breast adenocarcinoma),fetal bone marrow-derived mononuclear cells	0.0	1.4561419586285311	-0.293	0.657
+chr2	38377209	A	G	CTCF_HUMAN,ZFX_HUMAN,BCL3_HUMAN,BHE40_HUMAN,BC11B_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),GM12878 (female B-cells),HEK293 (embryonic kidney),SK-N-SH (neuroblastoma),fetal bone marrow-derived mononuclear cells,thymus-derived CD34- cells,tibial nerve,foreskin keratinocyte	0.0	2.5260827588540855	0.9890000000000001	0.522
+chr2	42792590	A	G	CREB1_HUMAN,SOX13_HUMAN,KMT2A_HUMAN	HepG2 (hepatoblastoma),RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1)),bipolar neuron	1.740239354657195	0.0004225128734986621	0.875	-0.484
+chr2	42792787	T	C	HNF4A_HUMAN,SMAD4_HUMAN,KMT2A_HUMAN	HepG2 (hepatoblastoma),RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1))	1.8245570008025525	0.0	0.943	-0.37200000000000005
+chr2	42793096	G	C	KMT2A_HUMAN	HepG2 (hepatoblastoma)	1.3597541674422842	0.0	1.013	-0.838
+chr2	43225947	G	A	MNT_HUMAN,IKZF1_HUMAN,FOXK2_HUMAN,BC11B_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),thymus-derived CD34+ cells,upper lobe of left lung	0.0	1.6207441648023382	0.581	1.229
+chr2	46942354	C	T	KMT2A_HUMAN	GM12878 (female B-cells),K562 (myelogenous leukemia),L1236 (Hodgkin lymphoma)	1.3625347981927276	0.0	0.642	-0.386
+chr2	47176969	T	C	MAX_HUMAN,CREB1_HUMAN,FOXK2_HUMAN,E4F1_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),SEM (childhood B acute lymphoblastic leukemia)	1.4690632993600168	0.002812571133158531	1.263	-0.523
+chr2	48440605	G	C	JUN_HUMAN,TYY1_HUMAN,HDAC2_HUMAN,MNT_HUMAN,NFRKB_HUMAN,NRF1_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),K562 (myelogenous leukemia)	1.5257013593640552	0.008636553830394684	0.462	0.035
+chr2	48440711	G	A	ESR1_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells,breast tumor tissue	2.324012364496494	0.0	1.157	
+chr2	55693981	C	G	FOXK2_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),fetal bone marrow-derived mononuclear cells	1.3351801987089884	0.0	0.956	-1.127
+chr2	66440094	G	A	KMT2A_HUMAN	MV4-11 (childhood acute monocytic leukemia)	7.493346600043115	0.0	1.5719999999999998	
+chr2	66440166	C	T	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	2.6875539222822264	0.0	1.05	-0.075
+chr2	69829734	A	G	CEBPB_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),HEK293 (embryonic kidney),spleen,fetal bone marrow-derived mononuclear cells	1.7652390759522592	0.15141557081801127	0.604	0.042
+chr2	71332315	C	G	EGR1_HUMAN,IKZF1_HUMAN,FOXK2_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),HEK293 (embryonic kidney),K562 (myelogenous leukemia),RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1))	1.5133789659428842	0.0	1.026	-1.084
+chr2	73234355	C	A	T2FA_HUMAN,T2AG_HUMAN,ZFX_HUMAN,GABPA_HUMAN,CREB1_HUMAN,MNT_HUMAN,ZNF24_HUMAN,NR2C1_HUMAN,FOXK2_HUMAN,ZN639_HUMAN,ZBT11_HUMAN,GABP1_HUMAN,STAT1_HUMAN,NCOA1_HUMAN,SPT5H_HUMAN,BRD9_HUMAN,HDAC1_HUMAN,TIF1A_HUMAN,AFF1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,GM12878 (female B-cells),HCT-116 (colon carcinoma),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	2.621556487092538		1.868
+chr2	85705825	T	C	ESR1_HUMAN,KMT2A_HUMAN,SNAI2_HUMAN	keratinocytes,fetal bone marrow-derived mononuclear cells	0.0	1.7533821817330681	-0.15	1.486
+chr2	86195537	C	T	ZBT40_HUMAN,GABPA_HUMAN,FOXK2_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),VCaP (prostate carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells	2.16532380888572	0.0	1.679	-2.5540000000000003
+chr2	96266108	T	C	AP2A_HUMAN,CREB1_HUMAN,CLOCK_HUMAN,IKZF2_HUMAN,FOXK2_HUMAN,THA11_HUMAN,ETS1_HUMAN,NRF1_HUMAN,TF65_HUMAN,MEIS2_HUMAN,HDAC1_HUMAN,KMT2A_HUMAN	786-O (renal carcinoma),A549 (lung carcinoma),VCaP (prostate carcinoma),MCF7 (Invasive ductal breast carcinoma),CD34+ hematopoietic stem cells-derived proerythroblasts,cranial neural crest cells,GM12878 (female B-cells),HepG2 (hepatoblastoma),HUES64 (embryonic stem cells),monocyte-derived macrophages,Jurkat (T-cells),K562 (myelogenous leukemia),SK-N-SH (neuroblastoma),fetal bone marrow-derived mononuclear cells,upper lobe of left lung	0.0	2.8661391499992934		1.801
+chr2	99490335	C	A	HTF4_HUMAN,KMT2A_HUMAN	LNCaP (prostate carcinoma),GM12878 (female B-cells),HepG2 (hepatoblastoma),erythroid cells,fetal bone marrow-derived mononuclear cells,E14 retina,SK-N-AS (neuroblastoma)	1.462278909449533	0.0	1.215	-1.2329999999999999
+chr2	113756761	T	G	FOXK2_HUMAN,E4F1_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	HEK293T (embryonic kidney),GM12878 (female B-cells),HEK293 (embryonic kidney),periferal blood macrophages	0.0	2.5345438817682884	-0.327	1.4409999999999998
+chr2	127701465	A	G	CTCF_HUMAN,TYY1_HUMAN,GABPA_HUMAN,TAF1_HUMAN,E4F1_HUMAN,ERG_HUMAN,KMT2A_HUMAN,RUNX2_HUMAN	VCaP (prostate carcinoma),GM12878 (female B-cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	0.0	1.3921104240889515	0.223	0.6990000000000001
+chr2	134119836	C	T	STAT1_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	HEK293T (embryonic kidney),CD14+ monocytes,periferal blood macrophages,fetal bone marrow-derived mononuclear cells	1.4012734948950032	0.0	0.64	-0.688
+chr2	143692723	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.112028315664393	0.0	1.426	
+chr2	152467557	C	T	FOXK2_HUMAN,KMT2A_HUMAN	VCaP (prostate carcinoma),GM12878 (female B-cells),SEM (childhood B acute lymphoblastic leukemia)	1.3960237195924339	0.01272550793601339	1.03	-0.29600000000000004
+chr2	152468288	G	A	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	2.547420875695591	0.0	1.003	-0.972
+chr2	159712765	C	T	HTF4_HUMAN,STAT1_HUMAN,ZN770_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),CD14+ monocytes,GM12878 (female B-cells),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),monocyte-derived dendritic cells,periferal blood macrophages,fetal bone marrow-derived mononuclear cells	2.173236871527828	0.2515192364926738	1.385	0.303
+chr2	170928918	C	T	ESR1_HUMAN,SMC3_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),HEK293 (embryonic kidney),human villous mesenchymal fibroblast cells,MDA-MB-453 (breast adenocarcinoma),neutrophils,fetal bone marrow-derived mononuclear cells	0.0	1.531495764797366		1.354
+chr2	171146741	G	T	KMT2A_HUMAN,SPI1_HUMAN	periferal blood macrophages,fetal bone marrow-derived mononuclear cells	1.4075534338214517	0.0	1.265	-1.034
+chr2	171999938	C	A	JUN_HUMAN,TYY1_HUMAN,MYC_HUMAN,KMT2A_HUMAN,USF1_HUMAN	A549 (lung carcinoma),U2OS (osteosarcoma),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),SK-N-SH (neuroblastoma),fetal bone marrow-derived mononuclear cells	0.0	2.9627843094213215	-0.19699999999999998	0.794
+chr2	173997419	A	G	CEBPB_HUMAN,MGAP_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,liver,macrophages,fetal bone marrow-derived mononuclear cells	2.4443977527527787	0.5090777766668891	1.27	0.6459999999999999
+chr2	189441060	C	G	JUN_HUMAN,BCL3_HUMAN,MAZ_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),liver,CD4+ T-cells,fetal bone marrow-derived mononuclear cells	0.0	3.47603273119993	-0.401	0.84
+chr2	190408754	G	A	KMT2A_HUMAN,SPI1_HUMAN	periferal blood macrophages	0.00926011790154747	1.415874771045194	0.28600000000000003	0.6609999999999999
+chr2	196171103	C	T	KMT2A_HUMAN	LNCaP C4-2B (prostate carcinoma),fetal bone marrow-derived mononuclear cells	0.0	1.309500753314425	-0.171	1.459
+chr2	201440422	C	T	KMT2A_HUMAN	CD34+ hematopoietic stem cells-derived proerythroblasts,fetal bone marrow-derived mononuclear cells	1.4075534338214517	0.0	1.265	-1.034
+chr2	206085594	C	G	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.0	2.7325259594006472	-0.447	0.92
+chr2	227325286	C	G	ESR1_HUMAN,CTCF_HUMAN,CREB1_HUMAN,FOXK2_HUMAN,GABP1_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,GM12878 (female B-cells),HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells,breast tumor tissue,foreskin keratinocyte	0.0	2.32175629007415		1.8130000000000002
+chr2	230712812	A	G	KMT2A_HUMAN	OVCAR8 (high grade ovarian serous adenocarcinoma),fetal bone marrow-derived mononuclear cells	3.707556198001108	0.0	1.5659999999999998	-1.765
+chr2	230712947	C	G	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.5071817252639972	0.0	1.2990000000000002	-1.072
+chr2	231605011	A	G	ESR1_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	1.7533821817330681	-2.708	1.486
+chr2	233060213	C	T	KMT2A_HUMAN	HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells	3.509804197131955	0.0	1.746	-2.351
+chr2	234309098	A	G	EP300_HUMAN,JUN_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),CD14+ monocytes,cord blood-derived mononuclear cells	0.0	1.7590304341624767	-0.504	0.789
+chr2	239223207	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.3066298703195638	0.0	1.2409999999999999	-0.955
+chr20	1535971	G	C	KMT2A_HUMAN	GM12878 (female B-cells),periferal blood macrophages,fetal bone marrow-derived mononuclear cells	1.7140139025595187	0.0	1.35	
+chr20	2102086	C	G	JUN_HUMAN,ZBT26_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells	1.7163026949874325	0.0	1.137	-0.261
+chr20	4090364	C	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.717841347467848	0.0	1.62	
+chr20	4822799	G	A	KMT2A_HUMAN,SPI1_HUMAN	periferal blood macrophages,fetal bone marrow-derived mononuclear cells	2.6692153000061305	0.05076452893568205	1.4080000000000001	-0.048
+chr20	5688068	C	T	EP300_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells,tibial nerve,upper lobe of left lung	0.0	3.897878513946418	-0.122	1.171
+chr20	6006103	T	C	ESR1_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells,breast tumor tissue	0.0	5.630244818681309		2.026
+chr20	8019739	A	G	GATA1_HUMAN,CTCF_HUMAN,TRI22_HUMAN,KMT2A_HUMAN	22RV1 (prostate carcinoma),HEK293T (embryonic kidney),LNCaP C4-2B (prostate carcinoma),CD34+ hematopoietic stem cells-derived proerythroblasts,GM12878 (female B-cells),erythroid progenitors,pancreas,IPSC-derived bipolar neuron,fetal bone marrow-derived mononuclear cells,bipolar neuron,foreskin keratinocyte	2.1277060503886274	0.0	1.048	-0.615
+chr20	23361902	C	G	CEBPB_HUMAN,CTCF_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,SEM (childhood B acute lymphoblastic leukemia),SUM159PT (pleiomorphic breast carcinoma),macrophages,foreskin keratinocyte	0.34146561596861186	2.3625640911098493	0.899	0.58
+chr20	23362161	C	G	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	4.651257414004999	0.0	2.031	
+chr20	25058410	A	C	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.3287129994531615	0.5817293297582238	1.4880000000000002	1.249
+chr20	25476252	A	G	KMT2A_HUMAN	RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1))	2.0848423349216385	0.0	1.3330000000000002	-1.35
+chr20	38926473	G	C	KMT2A_HUMAN	K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	2.6374804243070917	0.12649957372872214	1.706	-0.071
+chr20	40498456	G	T	STAT1_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	CD14+ monocytes,periferal blood macrophages,fetal bone marrow-derived mononuclear cells	4.3408510956511765	0.0	1.169	
+chr20	46689403	G	A	ZBTB6_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells	0.0	2.390514252786344		1.689
+chr20	47735973	C	T	KMT2A_HUMAN	periferal blood macrophages,fetal bone marrow-derived mononuclear cells	2.2046593083052355	0.0	1.538	-1.426
+chr20	48921796	C	T	ESR1_HUMAN,TYY1_HUMAN,TBX21_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),Th1-cells,breast tumor tissue	1.5016435622256497	0.0	1.453	-1.936
+chr20	50958797	A	C	KMT2A_HUMAN	HEK293T (embryonic kidney),HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	0.0	1.9639799212983293	-1.412	1.5619999999999998
+chr20	62182678	G	A	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	1.8665648097533996	0.0	0.742	-0.244
+chr20	64079697	C	A	KMT2A_HUMAN,SPI1_HUMAN	K562 (myelogenous leukemia),periferal blood macrophages,fetal bone marrow-derived mononuclear cells	0.0	5.771910424944053		2.197
+chr20	64221417	G	A	KMT2A_HUMAN	HepG2 (hepatoblastoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	3.2335302162311486	0.0	1.784	
+chr21	28885096	G	A	STAT1_HUMAN,KMT2A_HUMAN,SNAI2_HUMAN	CD14+ monocytes,keratinocytes,fetal bone marrow-derived mononuclear cells	0.0	3.044079776405468	-0.6859999999999999	1.359
+chr21	33380028	A	C	CEBPB_HUMAN,IKZF1_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),K562 (myelogenous leukemia),macrophages,fetal bone marrow-derived mononuclear cells	5.247805740766113	0.0	0.934	-0.163
+chr21	38483736	G	A	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	2.212913810210614	0.0	1.136	-0.499
+chr21	38831902	G	C	STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,fetal bone marrow-derived mononuclear cells	1.5716069991279615	0.0	1.2	-0.45899999999999996
+chr21	39183425	G	C	TYY1_HUMAN,ZBT26_HUMAN,STAT1_HUMAN,BC11B_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),CD14+ monocytes,HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells	3.9656504469564835	0.02630434039213916	1.604	0.168
+chr21	39314456	A	G	KMT2A_HUMAN	K562 (myelogenous leukemia)	0.0	1.7153222361005918	0.068	1.05
+chr21	42188403	C	T	KMT2A_HUMAN,SPI1_HUMAN	monocyte-derived macrophages,fetal bone marrow-derived mononuclear cells	2.6232885427865313	0.0	1.564	-2.169
+chr21	42188405	C	T	KMT2A_HUMAN,SPI1_HUMAN	monocyte-derived macrophages,fetal bone marrow-derived mononuclear cells	2.6232885427865313	0.0	1.564	-2.169
+chr21	44881093	A	C	STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,fetal bone marrow-derived mononuclear cells	4.302219948609295	0.0	1.268	
+chr22	18001439	G	C	BC11A_HUMAN,REST_HUMAN,FOXK2_HUMAN,ZFP91_HUMAN,ATF7_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),K562 (myelogenous leukemia),SEM (childhood B acute lymphoblastic leukemia),Human Umbilical Cord Blood-Derived Erythroid Progenitor Cells-2 (HUDEP-2)	0.0	1.7018427294680891	-0.7090000000000001	1.225
+chr22	20025445	T	C	KAISO_HUMAN,CTBP1_HUMAN,ZEB2_HUMAN,KMT2A_HUMAN	K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	1.3721867601370654		1.567
+chr22	20859128	A	G	ZFX_HUMAN,FOXK2_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),HCT-116 (colon carcinoma),HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells,tibial nerve	0.0	1.8831456115516187	-0.308	0.655
+chr22	21568167	C	G	KMT2A_HUMAN	K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	2.9368124236324276	0.0	1.614	
+chr22	21868030	T	G	ZNF76_HUMAN,ZEB2_HUMAN,KMT2A_HUMAN	HEK293 (embryonic kidney),K562 (myelogenous leukemia),SEM (childhood B acute lymphoblastic leukemia),MDA-MB-453 (breast adenocarcinoma),foreskin keratinocyte	1.7920365042979451	0.0	1.771	
+chr22	22063402	C	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.7477295806989819	0.0	1.3159999999999998	
+chr22	24271081	C	T	NRF1_HUMAN,BC11B_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),fetal bone marrow-derived mononuclear cells,thymus-derived CD34- cells	0.0	1.5180050305554316	-1.91	1.5
+chr22	26573366	A	G	GATA2_HUMAN,GATA1_HUMAN,KMT2A_HUMAN	CD34+ hematopoietic stem cells-derived proerythroblasts,periferal blood macrophages,fetal bone marrow-derived mononuclear cells	1.4179156823668497	0.0	0.93	-0.33799999999999997
+chr22	30357033	C	A	STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,MDA-MB-453 (breast adenocarcinoma),fetal bone marrow-derived mononuclear cells	1.5619361721234966	0.0	1.237	
+chr22	30424089	C	G	CTCF_HUMAN,ZN394_HUMAN,KMT2A_HUMAN	HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells	0.10135868677685773	3.1983207502016344	0.342	0.41700000000000004
+chr22	31496135	G	C	BHE40_HUMAN,SP2_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney)	1.5341391559110846	0.0	0.47700000000000004	-1.052
+chr22	31749854	C	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.4031585414615417	0.0	1.194	
+chr22	36529450	A	G	TF65_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),monocyte-derived macrophages,fetal bone marrow-derived mononuclear cells	0.0	1.4751772075038085	-2.575	1.554
+chr22	41413899	G	C	GLIS2_HUMAN,ZN398_HUMAN,KMT2A_HUMAN	HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells	1.9407645447619246	0.0	1.714	
+chr22	42519837	C	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.4075534338214517	0.0	1.265	-1.034
+chr22	46071730	G	T	KMT2A_HUMAN	RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1))	2.149885293840696	0.0	1.379	-1.244
+chr22	50475000	T	C	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.16968326080206944	2.2460900886602975	-0.018000000000000002	1.4709999999999999
+chr3	12459152	T	G	CTCF_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	3.162281597560853	-0.043	0.69
+chr3	12663709	G	A	KMT2A_HUMAN	GM12878 (female B-cells),HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells	1.3817163484590418	0.014647274047547077	0.672	0.067
+chr3	12967314	G	C	KMT2A_HUMAN	RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1))	1.5653062666966118	0.0	1.216	-1.167
+chr3	13452008	C	A	FOXK2_HUMAN,ZFHX2_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	HEK293T (embryonic kidney),GM12878 (female B-cells),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells	0.0	4.636075639287566	-1.8330000000000002	1.854
+chr3	14947241	T	A	KMT2A_HUMAN	A549 (lung carcinoma),GM12878 (female B-cells),fetal bone marrow-derived mononuclear cells	1.9458048390015386	0.06982897233400091	1.105	0.14400000000000002
+chr3	16513716	C	T	KMT2A_HUMAN,SPI1_HUMAN	fetal bone marrow-derived mononuclear cells	1.7167657605132973	0.0	1.286	0.013999999999999999
+chr3	19947170	A	G	ESR1_HUMAN,NFXL1_HUMAN,STAT1_HUMAN,ZF69B_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),CD14+ monocytes,HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells,breast tumor tissue	1.5625868941893728	0.0	1.306	-1.099
+chr3	32401667	G	C	KMT2A_HUMAN	GM12878 (female B-cells),acute leukemia	2.242222003164616	0.0	0.77	-0.361
+chr3	32420901	C	G	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	1.825219078508006	-1.925	1.4380000000000002
+chr3	33798622	T	C	ZFX_HUMAN,GABPA_HUMAN,NFRKB_HUMAN,CTBP1_HUMAN,LMBL2_HUMAN,KMT2A_HUMAN,USF1_HUMAN	HEK293T (embryonic kidney),HEK293 (embryonic kidney),HL-60 (acute myeloid leukemia)	0.0	7.098284752534973	-0.07400000000000001	1.659
+chr3	39384266	C	T	FOXK2_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),CD14+ monocytes,GM12878 (female B-cells),HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells,thymus-derived CD34- cells	1.789414710327055	0.0	1.188	-0.124
+chr3	39406572	G	A	CTCF_HUMAN,JUN_HUMAN,GABPA_HUMAN,BCL3_HUMAN,E2F1_HUMAN,FOXK2_HUMAN,STAT1_HUMAN,BC11B_HUMAN,ATF7_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),CD14+ monocytes,GM12878 (female B-cells),HepG2 (hepatoblastoma),liver,fetal bone marrow-derived mononuclear cells,thymus-derived CD34- cells,foreskin keratinocyte	8.299217917297186	0.0	0.494	0.23
+chr3	39406928	C	T	GABPA_HUMAN,KMT2A_HUMAN	HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells	0.0	2.4372242456410986	-0.20800000000000002	0.882
+chr3	48301392	C	T	STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,cranial neural crest cells,fetal bone marrow-derived mononuclear cells	2.1690290597189947	0.0	0.7809999999999999	
+chr3	49238531	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.09625477779346	0.0	1.442	-1.389
+chr3	50088782	C	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	2.255665750813014	0.049	1.515
+chr3	57596651	A	G	STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes	0.0	1.3873333708834445	-2.207	1.167
+chr3	69353634	T	C	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.0	1.6428776555064066	-0.66	0.8190000000000001
+chr3	71850822	T	C	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	3.7675302355245157	0.0	1.791	-2.1590000000000003
+chr3	87792916	T	C	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	1.5665569032740663	0.0	0.609	-0.24
+chr3	87793052	C	T	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	1.675109151045642	0.0	0.85	-0.348
+chr3	94062771	G	T	ARNT_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma)	0.0	1.3819855603033495	-1.139	1.306
+chr3	134485999	C	G	EP300_HUMAN,ZFX_HUMAN,EGR1_HUMAN,MYCN_HUMAN,KMT2A_HUMAN,USF1_HUMAN	HCT-116 (colon carcinoma),SK-N-SH (neuroblastoma),Tet21N (neuroblastoma),fetal bone marrow-derived mononuclear cells,tibial nerve	0.0	9.598213358945397		1.9280000000000002
+chr3	136862451	C	T	STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,fetal bone marrow-derived mononuclear cells	2.45879209348945	0.0	1.5330000000000001	
+chr3	157175015	T	C	GRHL2_HUMAN,JUN_HUMAN,FOXK2_HUMAN,STAT1_HUMAN,BC11B_HUMAN,E4F1_HUMAN,ERG_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,GM12878 (female B-cells),SKNO-1 (acute myeloid leukemia),fetal bone marrow-derived mononuclear cells,thymus-derived CD34- cells	0.0	3.5906071150733774	-0.239	0.914
+chr3	165806451	G	T	KMT2A_HUMAN	CCRF-CEM (T acute lymphoblastic leukemia)	2.687202502748291	0.0	1.4880000000000002	-1.274
+chr3	179653628	G	A	ESR1_HUMAN,KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia),neural cell	1.3279320260501237	0.0	1.2570000000000001	-2.59
+chr3	187963924	C	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.6880827229690911	0.0	1.361	-1.686
+chr3	196082245	A	C	AP2C_HUMAN,TYY1_HUMAN,MAX_HUMAN,GABPA_HUMAN,SP2_HUMAN,GLIS2_HUMAN,KMT2A_HUMAN,SNAI2_HUMAN	HEK293T (embryonic kidney),VCaP (prostate carcinoma),BT-474 (breast invasive ductal carcinoma),keratinocytes,HEK293 (embryonic kidney),hMADS-3 (adipose-derived stem cells),liver,fetal bone marrow-derived mononuclear cells,thymus-derived CD34- cells	2.37707030590325	0.0	1.535	-1.964
+chr4	674564	C	A	AP2A_HUMAN,ZFX_HUMAN,ILF3_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),cranial neural crest cells,K562 (myelogenous leukemia),neutrophils,fetal bone marrow-derived mononuclear cells	1.386878376050488	0.0	1.36	-1.7919999999999998
+chr4	1712434	T	C	ESR1_HUMAN,E2F1_HUMAN,KMT2A_HUMAN	LNCaP (prostate carcinoma),MCF7 (Invasive ductal breast carcinoma),fetal bone marrow-derived mononuclear cells,breast tumor tissue	0.0	2.735373357091765	0.18	1.6340000000000001
+chr4	3074678	G	A	ESR1_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells,breast tumor tissue	2.3626800520838263	0.0	1.219	
+chr4	3955364	C	T	CTCF_HUMAN,FOXK2_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),SEM (childhood B acute lymphoblastic leukemia),RH4 (alveolar rhabdomyosarcoma)	1.7613338805724508	0.003126651695667428	0.525	-0.03
+chr4	6674053	T	C	CREB1_HUMAN,FOXK2_HUMAN,KMT2A_HUMAN,SNAI2_HUMAN	keratinocytes,GM12878 (female B-cells),HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells	1.6885359224393235	0.0	0.606	0.15
+chr4	6710033	C	G	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	3.07384517086561	0.0	1.642	
+chr4	6922514	G	A	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	1.6311083119682594	0.0	0.7829999999999999	-0.608
+chr4	6924645	A	G	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.0	2.5392813030523484	-0.563	1.063
+chr4	6924884	G	A	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.0	1.832048984574943	-0.191	1.095
+chr4	6926129	T	C	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia),macrophages	0.0	2.259145805128216	-0.601	0.9229999999999999
+chr4	15411070	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.09625477779346	0.0	1.442	-1.389
+chr4	15681695	C	T	KAISO_HUMAN,CHD2_HUMAN,STAT1_HUMAN,NRF1_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,HepG2 (hepatoblastoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	1.6471509147552523	0.0	0.74	-0.299
+chr4	16035461	C	G	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	1.4684181948744564	0.0	0.742	-0.615
+chr4	16038471	C	T	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	2.4958155084543434	0.0	1.097	-0.74
+chr4	16228379	G	A	KMT2A_HUMAN	K562 (myelogenous leukemia),SEM (childhood B acute lymphoblastic leukemia)	4.140027320009626	0.0	1.389	-0.877
+chr4	16228414	G	C	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	4.165830959856352	0.0	1.186	-1.25
+chr4	26857636	C	T	CTCF_HUMAN,GABPA_HUMAN,GABP1_HUMAN,NRF1_HUMAN,ERG_HUMAN,KMT2A_HUMAN	K562 (myelogenous leukemia),foreskin keratinocyte	0.0	2.301033787642301	0.33399999999999996	0.8140000000000001
+chr4	42656127	C	T	KMT2A_HUMAN	CCRF-CEM (T acute lymphoblastic leukemia)	0.0	1.6576818843267875	-0.997	1.151
+chr4	55396207	A	G	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	2.3664708389874383	0.353	1.675
+chr4	56505682	T	C	KMT2A_HUMAN	K562 (myelogenous leukemia),RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1))	3.475335059354788	0.0	1.469	-1.444
+chr4	61200271	G	T	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	2.3671943774853546	0.0	0.9890000000000001	0.07
+chr4	83198198	C	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.4075534338214517	0.0	1.227	-1.17
+chr4	89829571	A	G	KMT2A_HUMAN	macrophages,fetal bone marrow-derived mononuclear cells	4.165830959856352	0.0	1.859	-2.464
+chr4	100827029	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.190722310763443	0.0	1.48	-1.986
+chr4	102827281	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	4.391521097683731	0.0	1.8869999999999998	
+chr4	119454825	G	A	EP300_HUMAN,CTCF_HUMAN,TRI22_HUMAN,FOXK2_HUMAN,STAT1_HUMAN,ATF7_HUMAN,RELB_HUMAN,KMT2A_HUMAN	CD14+ monocytes,GM12878 (female B-cells),SEM (childhood B acute lymphoblastic leukemia),liver,heart left ventricle,testis,gastroesophageal sphincter,epithelial cell of prostate,tibial nerve	2.036255415169674	0.0	0.6459999999999999	-0.06
+chr4	119454875	C	G	EP300_HUMAN,CTCF_HUMAN,BHE40_HUMAN,IKZF1_HUMAN,IKZF2_HUMAN,FOXK2_HUMAN,KMT2A_HUMAN,SNAI2_HUMAN	keratinocytes,GM12878 (female B-cells),spleen,fetal bone marrow-derived mononuclear cells,heart left ventricle,transverse colon,epithelial cell of prostate,tibial nerve,upper lobe of left lung	1.6401482869117652	0.0	0.753	-0.142
+chr4	122922586	A	G	ESR1_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells,breast tumor tissue	1.4031385075112082	0.0	1.288	-2.6210000000000004
+chr4	140790865	G	C	ANDR_HUMAN,KMT2A_HUMAN	LHSAR (prostate epithelial cells),fetal bone marrow-derived mononuclear cells	0.0	8.55438565674017	-0.9059999999999999	1.743
+chr4	184448912	G	A	KMT2A_HUMAN	GM12878 (female B-cells),MV4-11 (childhood acute monocytic leukemia)	0.0	1.49521657624122	-1.06	1.107
+chr4	186191475	G	C	CTCF_HUMAN,ZBT40_HUMAN,COT2_HUMAN,GABPA_HUMAN,CREB1_HUMAN,NR2C1_HUMAN,COT1_HUMAN,MEF2B_HUMAN,NR2F6_HUMAN,ETV5_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	VCaP (prostate carcinoma),CD14+ monocytes,GM12878 (female B-cells),HepG2 (hepatoblastoma),HL-60 (acute myeloid leukemia),MDA-MB-453 (breast adenocarcinoma),liver,neural cell	2.722560420135686	0.0	0.501	0.092
+chr4	186191672	A	G	CTCF_HUMAN,ELF1_HUMAN,GABP1_HUMAN,STAT1_HUMAN,RB_HUMAN,KMT2A_HUMAN	CD14+ monocytes,GM12878 (female B-cells),HepG2 (hepatoblastoma),MDA-MB-453 (breast adenocarcinoma),foreskin keratinocyte	2.464046005146598	0.3689263750395238	0.759	0.327
+chr4	189940880	C	G	KMT2A_HUMAN	CD34+ stem cells-derived erythroblasts,fetal bone marrow-derived mononuclear cells	1.491672680932767	0.0	1.2830000000000001	-1.504
+chr5	3596404	G	T	KMT2A_HUMAN	RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1))	0.0	5.522067317585777		1.76
+chr5	10250318	G	A	CTCF_HUMAN,JUN_HUMAN,GABPA_HUMAN,FOXK2_HUMAN,GABP1_HUMAN,STAT1_HUMAN,NRF1_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	A549 (lung carcinoma),CD14+ monocytes,GM12878 (female B-cells),HepG2 (hepatoblastoma),monocyte-derived macrophages,TSU-1621-MT (adult acute myeloid leukemia),fetal bone marrow-derived mononuclear cells	0.0	1.4616657296884048	0.171	0.479
+chr5	10250331	T	C	TAL1_HUMAN,JUN_HUMAN,GABPA_HUMAN,FOXK2_HUMAN,GABP1_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),CD14+ monocytes,GM12878 (female B-cells),HepG2 (hepatoblastoma),monocyte-derived macrophages,fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	1.5256174795620585	0.0	1.227	-1.435
+chr5	36241853	T	C	EP300_HUMAN,JUN_HUMAN,KDM1A_HUMAN,IKZF2_HUMAN,FOXK2_HUMAN,ZN316_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells,upper lobe of left lung,foreskin keratinocyte	2.3300113555703033	0.0	0.6829999999999999	0.545
+chr5	36242110	T	C	FEZF1_HUMAN,BC11B_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),VCaP (prostate carcinoma),CD14+ monocytes,HEK293 (embryonic kidney),K562 (myelogenous leukemia),PC9 (lung adenocarcinoma),fetal bone marrow-derived mononuclear cells,esophagus muscularis mucosa	0.0	4.137163714368621		2.191
+chr5	42992335	G	T	IRF5_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),macrophages,fetal bone marrow-derived mononuclear cells	0.0	1.426241145700499	-1.145	1.099
+chr5	42996738	C	T	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.0	1.4099223919547441	-0.625	0.774
+chr5	43001216	C	G	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.0	1.698488428592034	-0.34600000000000003	1.044
+chr5	43007716	C	G	JUN_HUMAN,BCL3_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),GM12878 (female B-cells),SEM (childhood B acute lymphoblastic leukemia)	4.0066378171059736	0.0	0.907	-0.436
+chr5	43018377	T	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.5071817252639972	0.0	1.2670000000000001	-1.224
+chr5	50441293	A	C	SP2_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney),SEM (childhood B acute lymphoblastic leukemia)	2.2002933335171195	0.0	1.83	
+chr5	50441594	A	G	KMT2A_HUMAN	HEK293 (embryonic kidney)	1.4075534338214517	0.0	0.732	-0.012
+chr5	53560674	G	C	CEBPB_HUMAN,ZFX_HUMAN,JUN_HUMAN,ZNF24_HUMAN,ATF3_HUMAN,ERR1_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),GM12878 (female B-cells),K562 (myelogenous leukemia),SK-BR-3 (breast adenocarcinoma),fetal bone marrow-derived mononuclear cells	0.0	1.9885082465247754	-0.013000000000000001	0.8170000000000001
+chr5	54517633	G	C	ZBT7A_HUMAN,EGR1_HUMAN,KMT2A_HUMAN,HIF1A_HUMAN	MCF7 (Invasive ductal breast carcinoma),HCT-116 (colon carcinoma),K562 (myelogenous leukemia),SUM159PT (pleiomorphic breast carcinoma),fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	0.0	4.1678573275603075	-0.8859999999999999	1.209
+chr5	78360476	G	C	ESR1_HUMAN,CTCF_HUMAN,JUN_HUMAN,KMT2A_HUMAN,SNAI2_HUMAN	A549 (lung carcinoma),keratinocytes,neutrophils,fetal bone marrow-derived mononuclear cells,breast tumor tissue	1.6857978642846152	0.0	1.006	
+chr5	78483915	A	G	GATA1_HUMAN,KMT2A_HUMAN	CD34+ hematopoietic stem cells-derived proerythroblasts,periferal blood macrophages,fetal bone marrow-derived mononuclear cells	3.2752926636902933	0.0	1.375	-1.0759999999999998
+chr5	79514115	A	G	KMT2A_HUMAN	T47D (invasive ductal carcinoma),RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1))	1.8046699171805645	0.0	1.012	-0.252
+chr5	88873138	C	A	KMT2A_HUMAN	K562 (myelogenous leukemia)	1.4254011966159252	0.0	1.235	-1.44
+chr5	91383687	T	A	CTCF_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),fetal bone marrow-derived mononuclear cells	1.5734760102780925	0.0	0.414	0.242
+chr5	95818506	C	G	KMT2A_HUMAN,SPI1_HUMAN	periferal blood macrophages,fetal bone marrow-derived mononuclear cells	0.0	1.598794212265541	-1.358	1.355
+chr5	96298205	G	A	TYY1_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	1.3342022441809387	-1.229	1.339
+chr5	96807725	C	T	ESR1_HUMAN,NFXL1_HUMAN,PRDM9_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	HEK293T (embryonic kidney),CCRF-CEM (T acute lymphoblastic leukemia),GM12878 (female B-cells),periferal blood macrophages	1.3421489581044144	0.0	1.2009999999999998	
+chr5	96807734	T	C	NFXL1_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),SEM (childhood B acute lymphoblastic leukemia)	1.6875891153548155	0.0	1.5090000000000001	0.782
+chr5	96935934	A	G	ZFX_HUMAN,PKNX1_HUMAN,FOXK2_HUMAN,BC11B_HUMAN,KMT2A_HUMAN,KDM5B_HUMAN	HEK293T (embryonic kidney),VCaP (prostate carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HepG2 (hepatoblastoma),SUM185PE (ductal breast carcinoma),fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	0.0	2.330291807855551	0.009000000000000001	0.997
+chr5	133968776	T	C	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.993775972607249	0.0	1.41	-1.36
+chr5	142108799	G	C	CTCF_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),fetal bone marrow-derived mononuclear cells,heart left ventricle,tibial nerve	5.098417284972617	0.0	1.092	0.40299999999999997
+chr5	144170653	G	T	ZBT40_HUMAN,GABPA_HUMAN,EGR1_HUMAN,ATF1_HUMAN,NR2C1_HUMAN,E2F1_HUMAN,EMSY_HUMAN,EP400_HUMAN,MTA2_HUMAN,NRF1_HUMAN,ERR1_HUMAN,ZN316_HUMAN,HDAC1_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),liver,fetal bone marrow-derived mononuclear cells	0.0	5.152873881218445	-1.2570000000000001	0.9590000000000001
+chr5	151771040	C	G	ESR1_HUMAN,CTCF_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),breast tumor tissue	2.6946604068147026	0.0	1.683	
+chr5	151771041	T	G	ESR1_HUMAN,CTCF_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),breast tumor tissue	2.614577423515273	0.0	1.662	
+chr5	159208094	T	C	KMT2A_HUMAN	A549 (lung carcinoma),GM12878 (female B-cells),periferal blood macrophages,fetal bone marrow-derived mononuclear cells	1.4665195658291095	0.10414835760027454	0.89	0.212
+chr5	163505816	T	G	JUN_HUMAN,EGR1_HUMAN,HDAC2_HUMAN,FOXK2_HUMAN,MTG16_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),K562 (myelogenous leukemia),erythroid cells	1.6395193133453823	0.008367988435110062	0.632	-0.253
+chr5	170303182	T	C	TF65_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),monocyte-derived macrophages,K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	1.9976942574378231		1.7790000000000001
+chr5	177300437	T	C	STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,PANC1 (pancreatic ductal adenocarcinoma),fetal bone marrow-derived mononuclear cells	0.0	5.102357996222916		1.912
+chr5	177600109	C	T	CTCF_HUMAN,JUN_HUMAN,BCL3_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),fetal bone marrow-derived mononuclear cells	1.3257091110503236	0.0	0.38799999999999996	0.223
+chr5	180861239	G	A	KMT2A_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells	0.01781980521922191	2.3859265863376935	0.18100000000000002	1.171
+chr6	292658	T	C	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	3.1202091508690777	0.0	1.044	0.081
+chr6	3064289	C	T	KMT2A_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1))	2.5083892191882944	0.0	1.28	-1.324
+chr6	3068823	C	T	KMT2A_HUMAN	HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells	0.0	2.1476607144155744	0.467	1.347
+chr6	11382481	C	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	3.33155959691318	0.0	1.696	
+chr6	25405031	G	A	HTF4_HUMAN,IKZF1_HUMAN,IKZF2_HUMAN,BACH1_HUMAN,MTA2_HUMAN,REQU_HUMAN,MEF2B_HUMAN,ATF7_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	DOHH2 (diffuse large B-cell lymphoma),GM12878 (female B-cells),H929 (plasma cell myeloma),fetal bone marrow-derived mononuclear cells	1.985608710968981	0.0	1.095	-1.274
+chr6	26033413	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.9730346996720334	0.0	1.42	-1.258
+chr6	26056321	A	G	CTCF_HUMAN,CREB1_HUMAN,FOXK2_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),H1 (embryonic stem cells),HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells,tibial nerve	0.34024991289019163	3.1076645802684317	0.36200000000000004	0.8320000000000001
+chr6	26056480	C	T	ATF1_HUMAN,NRF1_HUMAN,KMT2A_HUMAN	K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	1.4940655882820477	0.0	1.504	
+chr6	26124015	G	A	IKZF2_HUMAN,FOXK2_HUMAN,SMAD5_HUMAN,ZN316_HUMAN,KMT2A_HUMAN,MAF_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),Th1-cells,Th2-cells,fetal bone marrow-derived mononuclear cells	1.933311745036643	0.0	1.308	
+chr6	27147290	G	C	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.3093496379063265	0.0	1.23	-1.012
+chr6	29942412	A	T	CREB1_HUMAN,KMT2A_HUMAN	LNCaP (prostate carcinoma),H1 (embryonic stem cells),HCT-116 (colon carcinoma)	6.250403123270113	0.0	1.11	-0.7879999999999999
+chr6	29942701	G	C	CTCF_HUMAN,KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	1.4170597432772833	0.08170055956579293	0.522	0.6779999999999999
+chr6	29943337	G	A	KMT2A_HUMAN	RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1))	2.5083892191882944	0.0	1.28	-1.324
+chr6	29964961	G	C	CTCF_HUMAN,GABPA_HUMAN,FOXA2_HUMAN,FOXK2_HUMAN,NR2F6_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),spleen,fetal bone marrow-derived mononuclear cells	0.0	7.541308615858412	0.444	0.922
+chr6	29965088	G	T	GABPA_HUMAN,FOXK2_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),pancreas,fetal bone marrow-derived mononuclear cells	0.0	3.12414422939745		1.296
+chr6	29965120	G	A	CTCF_HUMAN,MYB_HUMAN,FOXK2_HUMAN,ATF7_HUMAN,KMT2A_HUMAN,SPI1_HUMAN,FLI1_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),monocyte-derived macrophages,fetal bone marrow-derived mononuclear cells,Loucy (adult T acute lymphoblastic leukemia)	0.07707753021288768	1.4545329827237956	0.419	0.54
+chr6	30213543	A	T	STAT1_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.362471112342598	0.0	1.207	-2.457
+chr6	31272044	G	T	ESR1_HUMAN,ZFX_HUMAN,SMAD1_HUMAN,MEF2B_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),HCT-116 (colon carcinoma),SEM (childhood B acute lymphoblastic leukemia),breast tumor tissue	2.1965581358950854	0.0	1.5519999999999998	
+chr6	31272050	C	T	ESR1_HUMAN,CTCF_HUMAN,ZFX_HUMAN,SMAD1_HUMAN,MEF2B_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),HCT-116 (colon carcinoma),SEM (childhood B acute lymphoblastic leukemia),breast tumor tissue	2.027718217250901	0.0	1.505	
+chr6	32853670	C	T	ESR1_HUMAN,STAT1_HUMAN,BC11B_HUMAN,KMT2A_HUMAN	CD14+ monocytes,K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells,thymus-derived CD34- cells,HAEC (human aortic endothelial cells),breast tumor tissue	1.8410985628631664	0.0	1.095	
+chr6	32972117	G	T	ESR1_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells,breast tumor tissue	0.0	2.825265008260142		1.8419999999999999
+chr6	42746032	T	G	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.8633574668279955	0.0	1.3880000000000001	-1.234
+chr6	43312975	C	T	STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,fetal bone marrow-derived mononuclear cells,SKH1 (chronic myelogenous leukemia, BCR-ABL1 positive)	2.963140121342653	0.0	1.4880000000000002	-2.256
+chr6	43312994	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.3927704014845537	0.0	1.492	
+chr6	43725160	G	A	STAT1_HUMAN,KMT2A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),CD14+ monocytes,fetal bone marrow-derived mononuclear cells	2.4676200445474588	0.0	0.938	-2.48
+chr6	45419758	T	G	GRHL2_HUMAN,CTCF_HUMAN,KMT2A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),MV4-11 (childhood acute monocytic leukemia),foreskin keratinocyte	0.0	2.641413302249527	0.098	0.8690000000000001
+chr6	46125930	C	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.5071817252639972	0.0	1.236	
+chr6	52352577	T	C	FOXA1_HUMAN,JUN_HUMAN,FOSL2_HUMAN,RFX1_HUMAN,TEAD1_HUMAN,TEAD3_HUMAN,FOXP1_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,HepG2 (hepatoblastoma),HT29 (colon adenocarcinoma),periferal blood macrophages,fetal bone marrow-derived mononuclear cells,HAEC (human aortic endothelial cells),MDA231-LM2-4175 (breast adenocarcinoma)	0.0823374349212598	1.6626971806337911	0.382	0.546
+chr6	75604966	G	T	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	3.707556198001108	0.0	1.2930000000000001	0.03
+chr6	75615328	C	T	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.0	3.4771610513118305	-0.175	1.226
+chr6	75615380	G	A	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	2.6875539222822264	0.0	1.391	-0.455
+chr6	75615528	T	C	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	1.675109151045642	0.0	1.0590000000000002	
+chr6	75622483	C	T	KMT2A_HUMAN	K562 (myelogenous leukemia),SEM (childhood B acute lymphoblastic leukemia)	2.409809082169827	0.0	1.385	
+chr6	75625136	C	T	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.0	2.2460900886602975	-0.603	1.304
+chr6	75625693	A	G	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.0	1.9413601985613345	-1.173	1.165
+chr6	81751803	A	G	RAD21_HUMAN,KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia),liver	1.7545281628736609	0.0	1.209	-1.062
+chr6	87472986	G	C	CTCF_HUMAN,TYY1_HUMAN,ELF1_HUMAN,STAT1_HUMAN,TBX21_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	CD14+ monocytes,GM12878 (female B-cells),K562 (myelogenous leukemia),MDA-MB-453 (breast adenocarcinoma),periferal blood macrophages,liver,Th1-cells,pancreas	0.0	8.810450618562447	-0.027000000000000003	1.018
+chr6	89352892	C	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	4.855839770688579	0.0	1.979	-2.485
+chr6	99520983	C	T	CTCF_HUMAN,REST_HUMAN,KDM1A_HUMAN,ELF1_HUMAN,MGAP_HUMAN,SMCA4_HUMAN,MTA2_HUMAN,STAT1_HUMAN,HDAC1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,GM12878 (female B-cells),K562 (myelogenous leukemia),MM1.S (plasma cell myeloma),SK-N-SH (neuroblastoma),fetal bone marrow-derived mononuclear cells,heart left ventricle,foreskin keratinocyte	2.744299336098114	0.0	0.445	0.547
+chr6	106629627	G	A	STAT1_HUMAN,PHF20_HUMAN,KMT2A_HUMAN	CD14+ monocytes,K562 (myelogenous leukemia)	2.04546673715274	0.0	1.025	-2.526
+chr6	106629632	C	A	TYY1_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),fetal bone marrow-derived mononuclear cells	4.515067213424383	0.0	1.798	-2.2569999999999997
+chr6	109383171	T	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.3238274868507456	0.0	1.235	-1.455
+chr6	109383239	T	C	TAF9B_HUMAN,KMT2A_HUMAN	K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	6.31530931810176		2.266
+chr6	110179521	G	A	KDM1A_HUMAN,PRD10_HUMAN,KMT2A_HUMAN	K562 (myelogenous leukemia)	0.0	1.5238082394662145	-0.888	1.22
+chr6	110815399	T	C	ESR1_HUMAN,BC11B_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells,thymus-derived CD34- cells,breast tumor tissue	0.0	2.249368927013651		1.765
+chr6	116462227	A	G	ZFX_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),MCF-7 C4-12 (invasive breast ductal carcinoma),fetal bone marrow-derived mononuclear cells	0.0	5.732418907979157	0.07400000000000001	1.675
+chr6	132798639	G	A	KMT2A_HUMAN	HepG2 (hepatoblastoma)	1.4073846597501913	0.0	0.7759999999999999	-0.615
+chr6	135497787	A	G	ATF1_HUMAN,CREB1_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells	1.624605266113438	0.0	1.3319999999999999	-0.718
+chr6	139518823	T	C	GATA1_HUMAN,KMT2A_HUMAN	CD34+ hematopoietic stem cells-derived proerythroblasts,fetal bone marrow-derived mononuclear cells	0.0	2.3151122502009622	-0.287	1.268
+chr6	151452185	T	A	CTCF_HUMAN,CREB1_HUMAN,IKZF2_HUMAN,FOXK2_HUMAN,COT1_HUMAN,TEAD3_HUMAN,KMT2A_HUMAN,USF1_HUMAN	VCaP (prostate carcinoma),cranial neural crest cells,GM12878 (female B-cells),H1 (embryonic stem cells),HepG2 (hepatoblastoma),NB4 (acute promyelocytic leukemia ),fetal bone marrow-derived mononuclear cells	0.0	4.834309591488023	0.364	0.5529999999999999
+chr6	151452218	G	C	CTCF_HUMAN,GABPA_HUMAN,CREB1_HUMAN,TEAD3_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),NB4 (acute promyelocytic leukemia ),fetal bone marrow-derived mononuclear cells	0.0	4.324766433250523	0.304	0.523
+chr6	151452369	T	C	CTCF_HUMAN,GABPA_HUMAN,ELF1_HUMAN,FOXK2_HUMAN,ZBT11_HUMAN,GABP1_HUMAN,KMT2A_HUMAN,USF1_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),SK-N-SH (neuroblastoma),fetal bone marrow-derived mononuclear cells,neural cell,foreskin keratinocyte	0.0	1.42478040348471	0.344	0.522
+chr6	154257289	G	C	KMT2A_HUMAN,SPI1_HUMAN	periferal blood macrophages,fetal bone marrow-derived mononuclear cells	3.286034147765558	0.0	1.6969999999999998	-2.303
+chr6	156975874	G	A	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	1.8189825105171864	0.0	1.275	-1.196
+chr6	157021605	T	C	AP2A_HUMAN,ID3_HUMAN,KMT2A_HUMAN	cranial neural crest cells,fetal bone marrow-derived mononuclear cells	1.819064680864447	0.0	1.338	-1.122
+chr6	159692840	A	G	STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,SEM (childhood B acute lymphoblastic leukemia)	0.0	2.5540862697783706	-0.11900000000000001	1.315
+chr6	166956723	A	C	KMT2A_HUMAN	HSR-GBM1A (glioblastoma)	0.0	1.6224290176821667	0.075	0.88
+chr7	6104717	G	T	CREB1_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	1.8973393723101466	-0.441	0.6
+chr7	7182351	G	A	RFOX2_HUMAN,CTCF_HUMAN,JUN_HUMAN,BCL3_HUMAN,MNT_HUMAN,CEBPG_HUMAN,ATF3_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),HCPEpiC (choroid plexus epithelial cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),fibroblast of pulmonary artery,foreskin keratinocyte	1.3755743766181312	0.3028506717520957	1.067	0.45
+chr7	22822987	G	A	KMT2A_HUMAN	HEK293 (embryonic kidney),SK-N-SH (neuroblastoma),fetal bone marrow-derived mononuclear cells	0.0	3.369412124043773		1.735
+chr7	27663137	G	A	CTBP1_HUMAN,NR2C1_HUMAN,P66A_HUMAN,HDAC1_HUMAN,KMT2A_HUMAN	K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	0.0	2.405832475109733		1.871
+chr7	30594388	T	C	KMT2A_HUMAN	A549 (lung carcinoma),GM12878 (female B-cells)	0.0	1.550966992623517	-0.93	1.119
+chr7	32891264	T	G	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	1.9632942762101675	-1.465	1.4569999999999999
+chr7	32892294	T	G	KMT2A_HUMAN	cranial neural crest cells,GM12878 (female B-cells),fetal bone marrow-derived mononuclear cells,upper lobe of left lung	0.0	1.825219078508006	-1.925	1.4380000000000002
+chr7	38257166	C	T	RFX1_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	1.3183143130623796	-0.733	1.135
+chr7	38257167	A	G	RFX1_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	1.390576724228035	-0.778	1.14
+chr7	38257299	T	A	ZBT40_HUMAN,KMT2A_HUMAN	K562 (myelogenous leukemia),monocyte-derived dendritic cells,fetal bone marrow-derived mononuclear cells	0.0	2.3076172332809	-1.204	1.3840000000000001
+chr7	47669842	C	T	BCL6_HUMAN,IKZF1_HUMAN,IKZF2_HUMAN,KMT2A_HUMAN	germinal center B-cells,GM12878 (female B-cells),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	1.3661952161973723	-0.794	1.176
+chr7	47671054	G	A	IKZF1_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),fetal bone marrow-derived mononuclear cells	0.0	1.5197146611878114	-0.687	0.857
+chr7	75914950	C	A	ESR1_HUMAN,CLOCK_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,HepG2 (hepatoblastoma),acute leukemia,fetal bone marrow-derived mononuclear cells,breast tumor tissue	1.51140757907014	0.08862056244917743	0.925	0.09699999999999999
+chr7	88395885	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	2.38174266930466	-1.922	1.575
+chr7	92852078	A	T	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.0	2.255665750813014	-0.852	1.067
+chr7	93232348	C	T	CTCF_HUMAN,JUN_HUMAN,GLIS1_HUMAN,ZN143_HUMAN,ZN394_HUMAN,KMT2A_HUMAN,USF1_HUMAN	A549 (lung carcinoma),MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	2.0693542727877725	0.07356240470261641	0.738	0.317
+chr7	107580184	T	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.6875539222822264	0.0	1.591	-2.097
+chr7	107744010	A	G	JUN_HUMAN,CLOCK_HUMAN,BC11B_HUMAN,AFF1_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	A549 (lung carcinoma),MCF7 (Invasive ductal breast carcinoma),K562 (myelogenous leukemia),periferal blood macrophages,fetal bone marrow-derived mononuclear cells,thymus-derived CD34- cells	4.326512979130711	0.0	0.818	-0.092
+chr7	108455636	C	G	KMT2A_HUMAN	HEK293 (embryonic kidney)	1.3014581712033653	0.0	1.081	-1.095
+chr7	108526346	A	G	MAX_HUMAN,KMT2A_HUMAN	H1 (embryonic stem cells),HCT-116 (colon carcinoma),fetal bone marrow-derived mononuclear cells,upper lobe of left lung	0.0	3.429902059267118	-0.331	0.763
+chr7	127392399	G	A	KMT2A_HUMAN	A549 (lung carcinoma),fetal bone marrow-derived mononuclear cells	1.550892593897444	0.1558458558230316	1.217	0.35600000000000004
+chr7	127651847	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	3.6366551002380483	0.0	1.77	-2.375
+chr7	129054922	C	T	ESR1_HUMAN,MYB_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	GM12878 (female B-cells),HEK293 (embryonic kidney),monocyte-derived macrophages,Th1-cells,fetal bone marrow-derived mononuclear cells,breast tumor tissue,foreskin keratinocyte	0.0	2.735373357091765		1.824
+chr7	129055225	A	G	SIN3A_HUMAN,ELK1_HUMAN,KMT2A_HUMAN,SPI1_HUMAN	MCF7 (Invasive ductal breast carcinoma),HCC70 (ductal breast carcinoma),fetal bone marrow-derived mononuclear cells	1.4150028554227232	0.0	1.0979999999999999	-1.308
+chr7	131328166	G	A	STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,fetal bone marrow-derived mononuclear cells	1.472481189039812	0.0	1.2009999999999998	
+chr7	141960900	A	G	EP300_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	1.3275703939568753	-1.088	1.1340000000000001
+chr7	148699563	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.613257731690811	0.12453964635864187	1.238	0.052000000000000005
+chr7	149028622	G	T	ESR1_HUMAN,KLF11_HUMAN,MYC_HUMAN,KMT2A_HUMAN,FLI1_HUMAN	LNCaP (prostate carcinoma),HCT-116 (colon carcinoma),hMADS-3 (adipose-derived stem cells),acute leukemia,B-cells,fetal bone marrow-derived mononuclear cells,breast tumor tissue	0.0	3.387765617994898	-1.972	1.8019999999999998
+chr7	149126274	A	G	ESR1_HUMAN,JUN_HUMAN,BCL3_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),CD14+ monocytes,MM1.S (plasma cell myeloma),fetal bone marrow-derived mononuclear cells,breast tumor tissue	0.0	1.494155387055016		1.4969999999999999
+chr7	149460906	T	C	KMT2A_HUMAN	A549 (lung carcinoma),SEM (childhood B acute lymphoblastic leukemia),foreskin keratinocyte	2.872473192695525	0.0	0.997	0.14300000000000002
+chr7	149624885	G	C	CTCF_HUMAN,ZFX_HUMAN,JUN_HUMAN,NR2C2_HUMAN,STAT1_HUMAN,HDAC1_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),CD14+ monocytes,GM12865 (female B-cells),HEK293 (embryonic kidney),epidermal keratinocytes,K562 (myelogenous leukemia),thymus-derived CD34- cells	1.8869734847244268	0.0	0.5820000000000001	0.312
+chr8	6690572	A	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.5071817252639972	0.0	1.236	
+chr8	9002766	G	T	ZBT11_HUMAN,NRF1_HUMAN,MEIS2_HUMAN,HDAC1_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),Ishikawa (endometrial adenocarcinoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	2.0818378471104526	-1.983	1.511
+chr8	11862718	G	C	EP300_HUMAN,ESR1_HUMAN,CEBPB_HUMAN,ELF1_HUMAN,ETV5_HUMAN,ZFHX2_HUMAN,KMT2A_HUMAN,SNAI2_HUMAN,SPI1_HUMAN	MCF7 (Invasive ductal breast carcinoma),keratinocytes,HEK293 (embryonic kidney),HepG2 (hepatoblastoma),fetal bone marrow-derived mononuclear cells,upper lobe of left lung	7.624735373267048	0.0	1.035	-0.25
+chr8	11867820	A	C	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	3.3074929812789637	0.0	1.4380000000000002	-1.4080000000000001
+chr8	17497124	G	C	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.0	1.4768106001450734	-0.21600000000000003	0.6890000000000001
+chr8	17922493	C	G	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.996990446965567	0.0	1.39	
+chr8	19014010	C	G	RAD21_HUMAN,JUN_HUMAN,BCL3_HUMAN,GLIS1_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),HEK293 (embryonic kidney)	1.620983910012918	0.0521735393651033	0.716	-0.221
+chr8	19697887	C	T	CEBPB_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,macrophages,fetal bone marrow-derived mononuclear cells	0.0	4.176500546239148		2.013
+chr8	22109378	C	A	ELF1_HUMAN,NFYC_HUMAN,SP130_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),ME-1 (acute myeloid leukemia ),cord blood-derived mononuclear cells	7.068736717269324	0.0	1.4040000000000001	-1.013
+chr8	23246682	G	T	ESR1_HUMAN,FOXK2_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),fetal bone marrow-derived mononuclear cells,breast tumor tissue	1.7629976024056897	0.0	1.298	-0.575
+chr8	23525462	C	T	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	1.6333414620988327	0.0	1.304	-1.2570000000000001
+chr8	25458743	G	A	NRF1_HUMAN,MEIS2_HUMAN,KMT2A_HUMAN	HEK293 (embryonic kidney),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	3.3665604631613077	0.0	0.9279999999999999	-0.17
+chr8	28093153	C	T	ESR1_HUMAN,JUN_HUMAN,BCL3_HUMAN,CREB1_HUMAN,MNT_HUMAN,NCOR1_HUMAN,NRF1_HUMAN,ZN407_HUMAN,HDAC1_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),HEK293 (embryonic kidney),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	1.6201403053505286	0.0	1.2990000000000002	-0.491
+chr8	38176766	T	C	ESR1_HUMAN,AP2A_HUMAN,KMT2A_HUMAN	cranial neural crest cells,fetal bone marrow-derived mononuclear cells,breast tumor tissue	1.9474395920793157	0.16527180550537696	1.4380000000000002	0.293
+chr8	38382490	A	G	CTCF_HUMAN,AP2A_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	VCaP (prostate carcinoma),CD14+ monocytes,cranial neural crest cells,K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	0.9216547786781476	1.8685254428219253	0.629	0.609
+chr8	38468528	G	A	RAD21_HUMAN,AP2A_HUMAN,JUN_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),cranial neural crest cells,SEM (childhood B acute lymphoblastic leukemia),breast tumor tissue	0.03994723878504581	2.246428912384145	-0.276	0.618
+chr8	51899198	C	T	JUN_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	2.5619793579014463	-0.455	0.81
+chr8	55773374	C	A	KLF1_HUMAN,ZBT11_HUMAN,KMT2A_HUMAN	K562 (myelogenous leukemia),R3/R4 erythroid cells,fetal bone marrow-derived mononuclear cells	0.0	2.279851241767396	0.6779999999999999	1.7169999999999999
+chr8	62249202	T	C	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	0.028697494583603708	1.7117444256528165	-0.431	0.93
+chr8	66010142	A	G	KMT2A_HUMAN,FOXO1_HUMAN	germinal center B-cells,fetal bone marrow-derived mononuclear cells	0.0	1.4733054280709503	-1.319	1.319
+chr8	73972295	G	T	DDX20_HUMAN,ESR1_HUMAN,SUZ12_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),fetal bone marrow-derived mononuclear cells	1.7014322426154298	0.0	1.555	
+chr8	73976259	C	T	ZFX_HUMAN,MYC_HUMAN,KMT2A_HUMAN,SNAI2_HUMAN	MCF7 (Invasive ductal breast carcinoma),MCF-7 C4-12 (invasive breast ductal carcinoma),keratinocytes	4.733135641248148	0.0	1.3630000000000002	-1.49
+chr8	77000372	A	T	RFOX2_HUMAN,ESR1_HUMAN,GABPA_HUMAN,ZBT26_HUMAN,NFYC_HUMAN,KAT8_HUMAN,SP130_HUMAN,GABP1_HUMAN,TZAP_HUMAN,ZN335_HUMAN,KMT2A_HUMAN	HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),SEM (childhood B acute lymphoblastic leukemia),breast tumor tissue	2.354052052253965	0.0	1.2429999999999999	-0.41200000000000003
+chr8	95087787	T	C	CEBPB_HUMAN,STAT1_HUMAN,TF65_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,monocyte-derived macrophages,macrophages,fetal bone marrow-derived mononuclear cells	0.0	1.35856762811359	0.321	0.9329999999999999
+chr8	95087791	C	T	STAT1_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	1.6865446265443702	-1.535	1.249
+chr8	100721035	G	A	KMT2A_HUMAN	K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	2.2081283613613647	0.231	1.1640000000000001
+chr8	103415131	A	C	STAT1_HUMAN,ZN341_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),CD14+ monocytes,GM12878 (female B-cells),fetal bone marrow-derived mononuclear cells	0.0	1.5465955814721974	-0.031	0.9890000000000001
+chr8	113434850	A	C	ZBT26_HUMAN,KMT2A_HUMAN	HEK293 (embryonic kidney),MV4-11 (childhood acute monocytic leukemia)	3.3709495891895678	0.0	1.482	
+chr8	120785781	A	C	CEBPB_HUMAN,KMT2A_HUMAN	HeLa S3 (cervical adenocarcinoma),fetal bone marrow-derived mononuclear cells	2.83980736746281	0.0	1.62	
+chr8	122782746	C	G	CTCF_HUMAN,KMT2A_HUMAN	upper lobe of left lung	1.7797287416233787	0.0	0.669	0.1
+chr8	127737966	C	T	ESR1_HUMAN,KMT2A_HUMAN	breast tumor tissue	2.6946604068147026	0.0	1.683	
+chr8	143018554	G	C	ESR1_HUMAN,KMT2A_HUMAN,SNAI2_HUMAN	keratinocytes,SEM (childhood B acute lymphoblastic leukemia),breast tumor tissue	2.7054141552791924	0.0	1.7280000000000002	
+chr8	143278732	C	T	JUN_HUMAN,ZBT40_HUMAN,GABPA_HUMAN,EGR1_HUMAN,ATF3_HUMAN,KAT8_HUMAN,GABP1_HUMAN,TBX21_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),SEM (childhood B acute lymphoblastic leukemia),Th1-cells	6.311492672301828	0.0	1.4609999999999999	-2.14
+chr8	143291322	G	A	CTCF_HUMAN,ANDR_HUMAN,KMT2A_HUMAN,CTCFL_HUMAN	A549 (lung carcinoma),VCaP (prostate carcinoma),cranial neural crest cells,HCT-116 (colon carcinoma),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),neural progenitors,erythroid progenitors,neutrophils,fetal bone marrow-derived mononuclear cells,prostate gland,foreskin keratinocyte	21.776132934749576	0.0	1.145	-0.304
+chr8	143291367	C	A	CTCF_HUMAN,ANDR_HUMAN,ZN592_HUMAN,KMT2A_HUMAN,CTCFL_HUMAN	A549 (lung carcinoma),VCaP (prostate carcinoma),GM12878 (female B-cells),HCT-116 (colon carcinoma),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	6.326144976886208	0.0	0.647	-0.046
+chr8	143291548	G	C	JUN_HUMAN,ZN592_HUMAN,KMT2A_HUMAN	HCT-116 (colon carcinoma),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.04976374386436302	2.0952693709452976	-0.075	0.546
+chr8	143541682	G	C	SIN3A_HUMAN,RFX1_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,fetal bone marrow-derived mononuclear cells	1.348577065440525	0.0	0.706	-0.79
+chr8	143617431	G	A	KMT2A_HUMAN	GM12878 (female B-cells),HCT-116 (colon carcinoma)	1.5585402940242243	0.0	1.064	-0.871
+chr8	144326802	G	A	RAD21_HUMAN,CREB1_HUMAN,KMT2A_HUMAN	786-O (renal carcinoma),LNCaP (prostate carcinoma),T47D (invasive ductal carcinoma),GM12878 (female B-cells),HCT-116 (colon carcinoma),HepG2 (hepatoblastoma),MV4-11 (childhood acute monocytic leukemia),erythroid progenitors	0.0018822832245924865	1.7666947372183242	-0.355	0.628
+chr9	215057	T	C	ZFX_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),HCT-116 (colon carcinoma)	0.021284195414372625	1.6239509666521192	-0.239	1.109
+chr9	215086	A	C	KMT2A_HUMAN	VCaP (prostate carcinoma),fetal bone marrow-derived mononuclear cells	1.7310474047247981	0.0	1.3630000000000002	-1.125
+chr9	2159678	C	T	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	1.6221031220186097	0.0	0.9470000000000001	-0.6609999999999999
+chr9	4763176	T	C	KMT2A_HUMAN	GM12878 (female B-cells),monocyte-derived dendritic cells,periferal blood macrophages,fetal bone marrow-derived mononuclear cells	0.0	1.470520956922009		1.29
+chr9	6681354	A	G	CTCF_HUMAN,STAT1_HUMAN,ENL_HUMAN,KMT2A_HUMAN	CD14+ monocytes,fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	0.0	2.472702194579573	-0.068	1.0659999999999998
+chr9	19161854	A	T	IKZF2_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),HeLa S3 (cervical adenocarcinoma),fetal bone marrow-derived mononuclear cells	0.0	8.291302539224601		2.2030000000000003
+chr9	62802507	G	C	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	4.320596213880592	0.0	1.298	-1.126
+chr9	62802508	C	T	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	5.043903717066496	0.0	1.479	-1.153
+chr9	62802625	T	A	CTCF_HUMAN,SP1_HUMAN,ZBED1_HUMAN,GABP1_HUMAN,STAT1_HUMAN,CREM_HUMAN,KMT2A_HUMAN,STAT3_HUMAN,SOX4_HUMAN,PO2F2_HUMAN,JARD2_HUMAN,PML_HUMAN	MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,GM12878 (female B-cells),HCT-116 (colon carcinoma),HepG2 (hepatoblastoma),MM1.S (plasma cell myeloma),MRC-iPS-25 (induced pluripotent stem cells),MV4-11 (childhood acute monocytic leukemia),acute leukemia,MRC-5 (fetal lung fibroblasts)	5.515614882953889	0.0	1.2409999999999999	-0.691
+chr9	77975825	T	C	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	3.4790747612579747	0.0	1.186	-0.821
+chr9	78003458	A	G	KMT2A_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	2.0188787041065206	0.0	0.905	-0.46399999999999997
+chr9	78297199	G	C	CTCF_HUMAN,AP2A_HUMAN,FOXK2_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),cranial neural crest cells,GM12878 (female B-cells),HepG2 (hepatoblastoma)	0.0	1.5958591263928934	0.193	0.507
+chr9	92878099	G	A	FOXA1_HUMAN,KMT2A_HUMAN	LNCaP (prostate carcinoma),fetal bone marrow-derived mononuclear cells	2.5545267685700233	0.0	0.636	0.166
+chr9	95426837	C	T	KMT2A_HUMAN	RCH-ACV (B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1))	1.996990446965567	0.0	1.182	-1.133
+chr9	104868853	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	3.950039135623251	0.0	1.825	-2.331
+chr9	111661907	A	G	ZFX_HUMAN,KMT2A_HUMAN	HCT-116 (colon carcinoma),SEM (childhood B acute lymphoblastic leukemia)	0.0	2.254701950713054	-0.024	0.633
+chr9	124941352	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.599687644369361	0.026283149731763166	1.354	-0.41200000000000003
+chr9	125261674	C	T	KMT2A_HUMAN	HeLa S3 (cervical adenocarcinoma),fetal bone marrow-derived mononuclear cells	2.5233852887512405	0.0	1.524	
+chr9	125261770	A	G	FOXK2_HUMAN,ZN143_HUMAN,KMT2A_HUMAN,CTCFL_HUMAN	VCaP (prostate carcinoma),cranial neural crest cells,GM12878 (female B-cells),HepG2 (hepatoblastoma),erythroid cells,neutrophils,fetal bone marrow-derived mononuclear cells	2.9671511094875704	0.0	1.5030000000000001	-1.5319999999999998
+chr9	127735312	C	T	CTCF_HUMAN,KMT2A_HUMAN	CD34+ stem cells-derived erythroblasts,fetal bone marrow-derived mononuclear cells	1.7218299977296343	0.0	0.7959999999999999	-0.22899999999999998
+chr9	134244059	C	T	KMT2A_HUMAN,SPI1_HUMAN	periferal blood macrophages,fetal bone marrow-derived mononuclear cells	1.9324490984104885	0.0	1.2009999999999998	-0.508
+chr9	136727950	C	G	IKZF1_HUMAN,KMT2A_HUMAN,CXXC1_HUMAN	GM12878 (female B-cells),SEM (childhood B acute lymphoblastic leukemia)	3.5326636612371214	0.0	1.625	-1.835
+chr9	136757507	T	C	KMT2A_HUMAN,PBX1_HUMAN,TFE2_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia),fetal bone marrow-derived mononuclear cells	0.0	1.7153222361005918		1.367
+chr9	137240764	T	C	CTCF_HUMAN,FOXK2_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),fetal bone marrow-derived mononuclear cells	2.6663292605024336	0.0	0.46799999999999997	0.125
+chr9	137240767	G	A	CTCF_HUMAN,FOXK2_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),fetal bone marrow-derived mononuclear cells	1.5732739774059008	0.21411441229848388	0.503	0.254
+chr9	137240908	T	C	ESR1_HUMAN,BC11B_HUMAN,KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells,thymus-derived CD34+ cells,thymus-derived CD34- cells,breast tumor tissue	2.132518234012507	0.0	0.9	-0.6920000000000001
+chrX	1333161	G	C	TF65_HUMAN,KMT2A_HUMAN	monocyte-derived macrophages,fetal bone marrow-derived mononuclear cells	2.1436913521068273	0.0	0.899	
+chrX	7084118	G	C	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	3.160284398545787	0.0	1.672	-2.2769999999999997
+chrX	13734776	G	T	GABPA_HUMAN,FOXK2_HUMAN,ELK1_HUMAN,KMT2A_HUMAN	HEK293T (embryonic kidney),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells	0.0	1.789126763918333	-1.591	1.3330000000000002
+chrX	14873136	G	T	ZN143_HUMAN,KMT2A_HUMAN	GM12878 (female B-cells),fetal bone marrow-derived mononuclear cells	0.0	2.9117067335079265	-1.15	0.8240000000000001
+chrX	41923740	G	C	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	0.0	3.2179069579732955		1.709
+chrX	65998114	G	A	KMT2A_HUMAN	fetal bone marrow-derived mononuclear cells	2.5233852887512405	0.0	1.524	

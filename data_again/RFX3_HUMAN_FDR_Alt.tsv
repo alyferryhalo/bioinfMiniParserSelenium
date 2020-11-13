@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	RFX3_HUMAN_FDR_Ref	RFX3_HUMAN_FDR_Alt	RFX3_HUMAN_Effect_Size_Ref	RFX3_HUMAN_Effect_Size_Alt
+chr17	82212775	C	G	EGR1_HUMAN,TAF9B_HUMAN,ZBT11_HUMAN,RFX3_HUMAN,SP130_HUMAN,TF65_HUMAN,ARI1B_HUMAN,TEAD4_HUMAN	786-O (renal carcinoma),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),HAEC (human aortic endothelial cells)	13.417648361781957	0.0	0.614	0.373

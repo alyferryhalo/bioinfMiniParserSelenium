@@ -1,0 +1,8 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	SPIB_HUMAN_FDR_Ref	SPIB_HUMAN_FDR_Alt	SPIB_HUMAN_Effect_Size_Ref	SPIB_HUMAN_Effect_Size_Alt
+chr1	2112615	A	C	SPI1_HUMAN,SPIB_HUMAN	periferal blood macrophages	3.8649060180639676	0.0	1.202	0.247
+chr1	203287672	T	G	CTCF_HUMAN,SPI1_HUMAN,SPIB_HUMAN,STA5B_HUMAN	GM12891 (male B-cells),monocyte-derived macrophages,OCI-LY10 (diffuse large B-cell lymphoma),OCI-LY3 (diffuse large B-cell lymphoma),periferal blood macrophages,CD8+ T-cells	0.01710555610757655	1.5050543288982157	0.16699999999999998	0.593
+chr12	67452349	T	A	COE1_HUMAN,SPIB_HUMAN	GM12878 (female B-cells),periferal blood macrophages	1.4022000390338158	0.0	0.81	-0.807
+chr12	124927830	G	A	ELF1_HUMAN,SPI1_HUMAN,SPIB_HUMAN	HEK293T (embryonic kidney),cranial neural crest cells,HEK293 (embryonic kidney),monocyte-derived macrophages,periferal blood macrophages,CD34+ hematopoietic stem progenitor cells	0.0	2.682526239900768	-1.18	1.035
+chr12	128811071	T	C	SPIB_HUMAN	monocyte-derived dendritic cells	1.4493562883624027	0.037610812730771506	1.072	-0.391
+chr12	130879371	C	G	SPIB_HUMAN	GM12878 (female B-cells),HEK293 (embryonic kidney)	1.3579205193684916	0.03481797779683503	0.9420000000000001	-0.6970000000000001
+chr7	22103860	G	A	RAD21_HUMAN,AP2A_HUMAN,SMC3_HUMAN,SPI1_HUMAN,SPIB_HUMAN	A549 (lung carcinoma),cranial neural crest cells,periferal blood macrophages,tibial nerve	0.14685752991568438	2.83875455739305	0.257	0.643

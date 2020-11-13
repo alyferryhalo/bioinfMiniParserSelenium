@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	ZN708_HUMAN_FDR_Ref	ZN708_HUMAN_FDR_Alt	ZN708_HUMAN_Effect_Size_Ref	ZN708_HUMAN_Effect_Size_Alt
+chr1	79373954	C	T	FEZF1_HUMAN,ZN708_HUMAN	HEK293 (embryonic kidney)	0.0	1.3238674360329683	-1.111	1.3459999999999999

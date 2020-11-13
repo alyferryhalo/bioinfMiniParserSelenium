@@ -1,0 +1,3 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	HXC9_HUMAN_FDR_Ref	HXC9_HUMAN_FDR_Alt	HXC9_HUMAN_Effect_Size_Ref	HXC9_HUMAN_Effect_Size_Alt
+chr12	105367173	T	G	HXC9_HUMAN	SK-N-BE(2)-C (neuroblastoma)	0.0	1.5375653725603982		1.239
+chr7	103695568	A	C	ANDR_HUMAN,HAND2_HUMAN,HXC9_HUMAN	SK-N-BE(2)-C (neuroblastoma),CLB-Ga (neuroblastoma)	0.0	1.3238990911390947		1.067

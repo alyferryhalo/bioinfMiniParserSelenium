@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	RARG_HUMAN_FDR_Ref	RARG_HUMAN_FDR_Alt	RARG_HUMAN_Effect_Size_Ref	RARG_HUMAN_Effect_Size_Alt
+chr15	51971897	T	C	CREB1_HUMAN,MYC_HUMAN,RARG_HUMAN	MCF7 (Invasive ductal breast carcinoma)	0.0	1.3248251639254403	-0.008	1.3869999999999998

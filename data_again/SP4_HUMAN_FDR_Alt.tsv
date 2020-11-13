@@ -1,0 +1,3 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	SP4_HUMAN_FDR_Ref	SP4_HUMAN_FDR_Alt	SP4_HUMAN_Effect_Size_Ref	SP4_HUMAN_Effect_Size_Alt
+chr18	12377416	C	T	EP300_HUMAN,STAT1_HUMAN,SP4_HUMAN	CD14+ monocytes,HEK293 (embryonic kidney),neural cell	1.9188245355088291	0.0	0.94	-0.153
+chr19	40570843	C	G	RAD21_HUMAN,CTCF_HUMAN,SIN3A_HUMAN,JUN_HUMAN,KLF9_HUMAN,TRI22_HUMAN,ZBT26_HUMAN,GLIS1_HUMAN,SP2_HUMAN,GLIS2_HUMAN,ZN143_HUMAN,SP4_HUMAN	A549 (lung carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),MDA-MB-453 (breast adenocarcinoma),erythroid cells,testis,prostate gland	2.557865339361722	0.0	1.347	

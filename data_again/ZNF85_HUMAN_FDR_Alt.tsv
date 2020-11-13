@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	ZNF85_HUMAN_FDR_Ref	ZNF85_HUMAN_FDR_Alt	ZNF85_HUMAN_Effect_Size_Ref	ZNF85_HUMAN_Effect_Size_Alt
+chr2	100458862	G	C	ZNF85_HUMAN	HEK293 (embryonic kidney)	1.762125722471133	1.0188554968798333e-06	1.089	-1.253

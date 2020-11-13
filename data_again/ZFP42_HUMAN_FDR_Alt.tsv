@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	ZFP42_HUMAN_FDR_Ref	ZFP42_HUMAN_FDR_Alt	ZFP42_HUMAN_Effect_Size_Ref	ZFP42_HUMAN_Effect_Size_Alt
+chr7	23105676	T	G	CTCF_HUMAN,JUN_HUMAN,BCL3_HUMAN,MNT_HUMAN,ATF3_HUMAN,SIN3B_HUMAN,MTA1_HUMAN,HDAC1_HUMAN,ZFP42_HUMAN	A549 (lung carcinoma),HUES64 (embryonic stem cells),K562 (myelogenous leukemia),SK-N-SH (neuroblastoma),tibial nerve	2.4114590957111934	0.1373088810984076	0.742	0.44

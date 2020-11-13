@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	ZBT16_HUMAN_FDR_Ref	ZBT16_HUMAN_FDR_Alt	ZBT16_HUMAN_Effect_Size_Ref	ZBT16_HUMAN_Effect_Size_Alt
+chr6	87731945	T	C	ESR1_HUMAN,ZBT16_HUMAN,STAT1_HUMAN,FLI1_HUMAN	A549 (lung carcinoma),KG1 (acute myeloid leukemia),CD14+ monocytes,breast tumor tissue	0.0	3.3044611658900758		1.834

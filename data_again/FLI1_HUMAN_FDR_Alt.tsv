@@ -1,0 +1,152 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	FLI1_HUMAN_FDR_Ref	FLI1_HUMAN_FDR_Alt	FLI1_HUMAN_Effect_Size_Ref	FLI1_HUMAN_Effect_Size_Alt
+chr1	16905197	G	A	RAD21_HUMAN,RXRA_HUMAN,GATA1_HUMAN,AP2A_HUMAN,FOXA1_HUMAN,TYY1_HUMAN,HNF4A_HUMAN,SP1_HUMAN,FOXA2_HUMAN,NFE2_HUMAN,ELF4_HUMAN,ZN384_HUMAN,MYB_HUMAN,SRF_HUMAN,FEZF1_HUMAN,ZXDB_HUMAN,ZBT17_HUMAN,SP2_HUMAN,ZNF76_HUMAN,ZN189_HUMAN,PRDM9_HUMAN,ERG_HUMAN,FLI1_HUMAN	HEK293T (embryonic kidney),786-O (renal carcinoma),LNCaP (prostate carcinoma),CD34+ bone marrow cell-derived erythroid progenitors,HCT-116 (colon carcinoma),HEK293 (embryonic kidney),HT29 (colon adenocarcinoma),Jurkat (T-cells),LoVo (colorectal adenocarcinoma),MDA-MB-453 (breast adenocarcinoma),SK-N-SH (neuroblastoma),P493-6 (B-cell lymphoma),R3/R4 erythroid cells,SKNO-1 (acute myeloid leukemia),liver,Peyer's patch,thoracic aorta,tibial nerve	0.0	1.9390994263143642	0.038	1.004
+chr1	37999643	G	A	IKZF1_HUMAN,SPI1_HUMAN,FLI1_HUMAN	GM12878 (female B-cells),HUVEC (umbilical vein endothelial cells)	0.0	2.940001848654381	-0.8909999999999999	1.204
+chr1	171434900	T	C	CEBPB_HUMAN,FLI1_HUMAN	SUM159PT (pleiomorphic breast carcinoma),A-673 clone Asp114 (Ewing sarcoma)	4.437692111264603	0.0	1.2429999999999999	-1.095
+chr1	193630014	G	A	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	3.9831901869734327	0.0	1.785	-2.148
+chr1	247078524	C	T	FLI1_HUMAN	SKNO-1 (acute myeloid leukemia)	0.0	1.7146569224578285		1.472
+chr10	5317613	G	A	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	3.528086312269896	0.0	1.796	
+chr10	5317711	G	A	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	5.264613285419283	0.0	2.0469999999999997	
+chr10	5317931	T	C	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	0.0	1.8034034197341886	-2.11	1.52
+chr10	5317969	G	A	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	0.0	2.245393752354194	-2.225	1.6340000000000001
+chr10	16437252	C	G	MAX_HUMAN,SMCA4_HUMAN,FLI1_HUMAN	K562 (myelogenous leukemia),SKNO-1 (acute myeloid leukemia)	0.01617228325382383	1.5234549260870263	-0.134	0.8190000000000001
+chr11	18013045	G	C	CTCF_HUMAN,BHE40_HUMAN,BC11B_HUMAN,KMT2A_HUMAN,FLI1_HUMAN	HCT-116 (colon carcinoma),acute leukemia,thymus-derived CD34- cells,Peyer's patch,esophagus squamous epithelium,thyroid gland,adrenal gland,prostate gland,tibial nerve,upper lobe of left lung	0.0	36.295251154592115	-0.17300000000000001	1.52
+chr11	26618432	G	A	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	0.0	1.7146569224578285		1.641
+chr11	28049433	G	C	FLI1_HUMAN	HT29 (colon adenocarcinoma),K562 (myelogenous leukemia)	1.3445827558645105	0.0	1.4980000000000002	
+chr11	28146351	T	G	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	2.4400388058500813	0.0	1.825	
+chr11	44818416	G	A	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.3780669945654767	0.0	1.4569999999999999	-1.166
+chr11	44955130	G	A	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.324697221451055	0.0	1.328	-1.227
+chr11	65418877	A	G	EP300_HUMAN,ESR1_HUMAN,FOXA1_HUMAN,GCR_HUMAN,BCL6_HUMAN,JUN_HUMAN,GABPA_HUMAN,FOXK2_HUMAN,STAT1_HUMAN,FLI1_HUMAN,USF1_HUMAN	A549 (lung carcinoma),CD14+ monocytes,cranial neural crest cells,GM12878 (female B-cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),A-673 clone Asp114 (Ewing sarcoma),breast tumor tissue	0.0	2.6970998243432276	0.2	1.1340000000000001
+chr11	76241606	G	A	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.6471963891286407	0.0	1.536	-1.311
+chr11	76885576	G	A	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.7412280751115432	0.0	1.561	-1.349
+chr11	87138049	G	A	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	0.0	1.4253124283772032	-1.19	1.305
+chr11	100566621	G	A	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	0.0	4.596923599491132	-2.303	1.861
+chr11	125297719	A	G	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.4663525532630026	0.0	1.456	-1.244
+chr11	128334584	C	T	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.4966913248234575	0.0	1.3840000000000001	
+chr11	128334618	G	A	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.327376066916369	0.0	1.459	-1.097
+chr12	610515	G	A	STAT1_HUMAN,SPI1_HUMAN,FLI1_HUMAN	CD14+ monocytes,HEK293 (embryonic kidney),monocyte-derived macrophages	0.0	2.796674662302715	-2.015	1.5959999999999999
+chr12	52202571	A	G	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	2.556723962072859	0.0	1.5230000000000001	
+chr12	68406372	C	T	CTCF_HUMAN,FLI1_HUMAN	HUVEC (umbilical vein endothelial cells),foreskin keratinocyte	2.2038154840348922	0.0	0.98	-0.098
+chr12	95942755	G	A	FLI1_HUMAN	SKNO-1 (acute myeloid leukemia)	0.0	1.5307290303133552		1.167
+chr12	105330697	C	T	FLI1_HUMAN	acute leukemia	1.4663525532630026	0.0	1.126	-0.491
+chr12	111599646	G	A	AP2A_HUMAN,KMT2A_HUMAN,FLI1_HUMAN	cranial neural crest cells,acute leukemia,fetal bone marrow-derived mononuclear cells	1.7026307610436109	0.0	1.459	-1.966
+chr15	40343658	C	T	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.560870184479073	0.0	1.4169999999999998	
+chr15	40368365	G	A	CTCF_HUMAN,GMEB1_HUMAN,E4F1_HUMAN,HDAC1_HUMAN,FLI1_HUMAN	LNCaP C4-2B (prostate carcinoma),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),acute leukemia	0.0	3.8167844577429837	0.387	0.589
+chr15	63503476	G	A	EP300_HUMAN,CEBPB_HUMAN,MNT_HUMAN,NCOR1_HUMAN,STAT1_HUMAN,HDAC1_HUMAN,KMT2A_HUMAN,FLI1_HUMAN	MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,HUVEC (umbilical vein endothelial cells),K562 (myelogenous leukemia),macrophages,fetal bone marrow-derived mononuclear cells	0.0	1.5313635498183105	-1.137	1.496
+chr15	67254623	A	G	FLI1_HUMAN	acute leukemia	3.1790652253919798	0.0	1.4180000000000001	-1.36
+chr15	79897181	C	G	FLI1_HUMAN	A549 (lung carcinoma),VCaP (prostate carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),acute leukemia	2.547476369431401	0.0	1.357	-0.983
+chr15	79897191	G	A	SMC3_HUMAN,FLI1_HUMAN,E2F6_HUMAN	H1 (embryonic stem cells),acute leukemia,neural cell,foreskin keratinocyte	0.0	1.3797730035290297	-0.9940000000000001	0.9620000000000001
+chr15	94584987	G	C	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.543873144268962	0.0	1.453	-1.337
+chr15	101652337	T	G	RAD21_HUMAN,TYY1_HUMAN,GABPA_HUMAN,FLI1_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),Jurkat (T-cells),MM1.S (plasma cell myeloma),SK-N-SH (neuroblastoma),acute leukemia,liver,erythroid cells	3.69670495909335	0.0	0.6409999999999999	0.18600000000000003
+chr16	997729	C	T	GLIS1_HUMAN,ZFHX2_HUMAN,FLI1_HUMAN	HEK293 (embryonic kidney),A-673 clone Asp114 (Ewing sarcoma)	1.9260420888909846	0.0	1.376	-1.3219999999999998
+chr16	2842694	G	A	CTCF_HUMAN,GABPA_HUMAN,FLI1_HUMAN	HUVEC (umbilical vein endothelial cells),pancreas,gastroesophageal sphincter,thoracic aorta	0.0	9.578248318052573	0.195	1.0190000000000001
+chr16	3087069	G	C	SPI1_HUMAN,FLI1_HUMAN	monocyte-derived macrophages,HUVEC (umbilical vein endothelial cells)	1.3747737081762517	0.0	1.165	
+chr16	26026967	A	G	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	0.0	2.008121827228375		1.436
+chr17	350855	G	A	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.9211237741995326	0.0	1.607	
+chr17	7060767	C	T	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.3266223268720378	0.0	1.429	-2.762
+chr17	31722435	G	A	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.3916592908248	0.0	1.425	
+chr17	58352403	G	A	CTCF_HUMAN,JUN_HUMAN,KMT2A_HUMAN,FLI1_HUMAN	A549 (lung carcinoma),GM12878 (female B-cells),acute leukemia,fetal bone marrow-derived mononuclear cells,Peyer's patch,esophagus squamous epithelium,prostate gland	3.5348170225040736	0.0	0.688	0.324
+chr17	75131588	T	C	SMC3_HUMAN,CLOCK_HUMAN,STAT1_HUMAN,FLI1_HUMAN	VCaP (prostate carcinoma),MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,mammary epithelial cells,Ishikawa (endometrial adenocarcinoma),OCI-LY7 (diffuse large B-cell lymphoma),acute leukemia	0.0	1.5928592285080545	-0.7170000000000001	0.831
+chr18	45951545	G	A	CEBPB_HUMAN,FLI1_HUMAN	SUM159PT (pleiomorphic breast carcinoma),macrophages,A-673 clone Asp114 (Ewing sarcoma)	0.0	5.586907994070474	0.542	1.209
+chr19	783519	G	A	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	2.37641156787748	0.0	1.665	-1.5430000000000001
+chr19	1253047	A	G	CTCF_HUMAN,FOXA1_HUMAN,NRF1_HUMAN,SPI1_HUMAN,FLI1_HUMAN	mammary epithelial cells,monocyte-derived macrophages,MDA-MB-453 (breast adenocarcinoma),spleen,periferal blood macrophages,A-673 clone Asp114 (Ewing sarcoma),tibial nerve	5.280022179642767	0.0	1.228	0.223
+chr19	8073170	C	A	SKI_HUMAN,ERG_HUMAN,FLI1_HUMAN	HL-60 (acute myeloid leukemia),SKNO-1 (acute myeloid leukemia)	0.0	1.3516975830033027	-1.705	1.358
+chr19	11269041	A	G	COT1_HUMAN,FLI1_HUMAN	cranial neural crest cells,HUVEC (umbilical vein endothelial cells)	0.0	3.9994243134236216		1.905
+chr19	17722079	G	C	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	3.2023958652092497	0.0	1.7890000000000001	
+chr19	41439932	T	A	TYY1_HUMAN,BC11B_HUMAN,ZFHX2_HUMAN,FLI1_HUMAN	HEK293 (embryonic kidney),Jurkat (T-cells),SKNO-1 (acute myeloid leukemia),thymus-derived CD34- cells	1.576930225127787	0.0	0.8540000000000001	0.282
+chr19	46289409	C	T	ANDR_HUMAN,FLI1_HUMAN	LHSAR (prostate epithelial cells),A-673 clone Asp114 (Ewing sarcoma)	3.965993419046265	0.0	1.335	-0.35100000000000003
+chr19	48255931	C	T	JUN_HUMAN,ZBT40_HUMAN,TYY1_HUMAN,GABPA_HUMAN,ERG_HUMAN,FLI1_HUMAN	A549 (lung carcinoma),VCaP (prostate carcinoma),SK-N-MC (Askin tumor),GM12878 (female B-cells),GM12892 (female B-cells),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),HL-60 (acute myeloid leukemia),K562 (myelogenous leukemia),lymphoblastoid cells,A-673 clone Asp114 (Ewing sarcoma),gastroesophageal sphincter	4.126152497055638	0.0	0.826	-0.47700000000000004
+chr19	54020535	G	A	JUN_HUMAN,IKZF1_HUMAN,FLI1_HUMAN	A549 (lung carcinoma),HUVEC (umbilical vein endothelial cells),K562 (myelogenous leukemia)	1.6512668927589067	0.12530506776017347	0.584	0.183
+chr19	54375469	T	C	FLI1_HUMAN	SKNO-1 (acute myeloid leukemia)	3.7637859609148014	0.0	1.7269999999999999	
+chr19	58278729	T	C	RFOX2_HUMAN,GATA1_HUMAN,FOXK2_HUMAN,GABP1_HUMAN,NRF1_HUMAN,ZN184_HUMAN,HDAC1_HUMAN,TIF1A_HUMAN,FLI1_HUMAN	A549 (lung carcinoma),CD34+ hematopoietic stem cells-derived proerythroblasts,HCC1954 (ductal breast carcinoma),HEK293 (embryonic kidney),K562 (myelogenous leukemia)	1.8740851648857195	0.0	1.635	
+chr2	8633682	G	C	FLI1_HUMAN	HepG2 (hepatoblastoma),A-673 clone Asp114 (Ewing sarcoma)	2.4400388058500813	0.0	1.508	-1.696
+chr2	8633772	C	T	FLI1_HUMAN	HepG2 (hepatoblastoma)	1.367310681346482	0.0	1.218	-0.9590000000000001
+chr2	8633831	G	A	FLI1_HUMAN	HepG2 (hepatoblastoma),A-673 clone Asp114 (Ewing sarcoma)	1.4931575468037568	0.0	1.284	-1.043
+chr2	8633979	C	T	FOSL2_HUMAN,KDM1A_HUMAN,TCF7_HUMAN,FOXK2_HUMAN,TFE3_HUMAN,ZFHX2_HUMAN,FLI1_HUMAN	GM12878 (female B-cells),HCT-116 (colon carcinoma),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),A-673 clone Asp114 (Ewing sarcoma)	0.0	1.3133558005125745	-0.439	1.26
+chr2	9990950	C	A	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	1.4966913248234575	0.0	1.275	-1.196
+chr2	9990966	T	C	ZIC2_HUMAN,MAFK_HUMAN,FLI1_HUMAN	HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),A-673 clone Asp114 (Ewing sarcoma)	1.6582569031540133	0.0	1.225	
+chr2	55232237	T	G	ETS1_HUMAN,FLI1_HUMAN	786-O (renal carcinoma),A-673 clone Asp114 (Ewing sarcoma)	0.0	1.5975079751401198	-1.291	1.159
+chr2	74893398	C	A	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	3.2830271254971533	0.0	1.6440000000000001	
+chr2	85405729	A	G	MYB_HUMAN,SPI1_HUMAN,FLI1_HUMAN	monocyte-derived macrophages,Jurkat (T-cells),TSU-1621-MT (adult acute myeloid leukemia),A-673 clone Asp114 (Ewing sarcoma)	4.71342631733336	0.0	1.07	-0.375
+chr2	112155709	C	G	FLI1_HUMAN	SKNO-1 (acute myeloid leukemia)	1.3916592908248	0.0	1.237	-1.163
+chr2	200889340	T	C	ANDR_HUMAN,ZNF24_HUMAN,ZN501_HUMAN,ERG_HUMAN,FLI1_HUMAN	HEK293T (embryonic kidney),VCaP (prostate carcinoma),HEK293 (embryonic kidney),HUVEC (umbilical vein endothelial cells),TSU-1621-MT (adult acute myeloid leukemia),thymus-derived CD34+ cells	1.3909531485034943	0.10288082359644442	0.897	-0.124
+chr2	237603753	C	G	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.3409372913928346	0.0	1.396	
+chr20	44973280	G	T	ZN350_HUMAN,ATF2_HUMAN,PRDM4_HUMAN,SP7_HUMAN,PRDM6_HUMAN,ZEB2_HUMAN,BCL6B_HUMAN,FLI1_HUMAN	HEK293 (embryonic kidney)	1.611583801612742	0.0	1.5930000000000002	-1.7819999999999998
+chr20	58790543	G	A	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	0.0	4.712789871243202	-2.325	1.883
+chr22	24482773	C	T	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	6.478740376601727	0.0	2.057	-2.351
+chr22	24482836	T	C	FLI1_HUMAN	HEK293 (embryonic kidney),A-673 clone Asp114 (Ewing sarcoma)	2.3976321478415605	0.0	1.479	-1.653
+chr22	37633716	A	G	BHE40_HUMAN,FOXK2_HUMAN,RB_HUMAN,FLI1_HUMAN	GM12878 (female B-cells),HEK293 (embryonic kidney),A-673 clone Asp114 (Ewing sarcoma)	0.0	1.4793012080820753	-0.9359999999999999	0.7909999999999999
+chr22	38176630	A	C	FLI1_HUMAN	SKNO-1 (acute myeloid leukemia)	0.0	1.5276375568990928	-1.7919999999999998	1.445
+chr3	7707427	C	T	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	0.0	2.2019831184667136	-2.04	1.632
+chr3	20648506	G	C	EP300_HUMAN,GATA3_HUMAN,HTF4_HUMAN,FLI1_HUMAN,PBX3_HUMAN	SK-N-SH (neuroblastoma),A-673 clone Asp114 (Ewing sarcoma)	2.0871593301745133	0.0	0.9590000000000001	-0.596
+chr3	36677276	C	T	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	4.872730214273366	0.0	1.9969999999999999	-2.503
+chr3	143001506	G	A	CTCF_HUMAN,AP2A_HUMAN,AP2C_HUMAN,COT2_HUMAN,ELF4_HUMAN,COT1_HUMAN,NR2F6_HUMAN,STAT1_HUMAN,BC11B_HUMAN,PRDM9_HUMAN,FLI1_HUMAN	HEK293T (embryonic kidney),MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,cranial neural crest cells,HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),thymus-derived CD34+ cells	1.3600147830545848	0.07896802657070755	0.40399999999999997	0.28
+chr3	143303014	G	C	TAL1_HUMAN,FLI1_HUMAN	primary endothelial colony-forming cells,A-673 clone Asp114 (Ewing sarcoma)	0.0	4.15743919071779	-1.8	1.508
+chr3	148209114	C	T	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	0.0	2.145537460791223	-2.097	1.61
+chr3	190276524	C	T	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	1.560870184479073	0.0	1.307	-1.504
+chr3	191141871	T	C	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	2.4231743353945445	0.0	1.624	-1.992
+chr3	194040745	T	C	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.638553035990403	0.0	1.5330000000000001	
+chr4	99300910	C	T	NFIC_HUMAN,FLI1_HUMAN	K562 (myelogenous leukemia)	0.0	1.3667863411475893	-1.278	1.5130000000000001
+chr4	126778708	T	A	FLI1_HUMAN	K562 (myelogenous leukemia),A-673 clone Asp114 (Ewing sarcoma)	1.5345743017900721	0.0	1.3119999999999998	-1.126
+chr4	159175386	C	G	EP300_HUMAN,FOXA2_HUMAN,CREB1_HUMAN,SMCE1_HUMAN,SOX13_HUMAN,ATF3_HUMAN,REQU_HUMAN,SOX5_HUMAN,TEAD3_HUMAN,NFIL3_HUMAN,ATF7_HUMAN,ARI1B_HUMAN,FLI1_HUMAN	A549 (lung carcinoma),MCF7 (Invasive ductal breast carcinoma),HepG2 (hepatoblastoma),K562 (myelogenous leukemia)	2.8608968367657908	0.0	1.285	-0.7020000000000001
+chr5	26791524	G	C	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	0.0	1.6174814085558455	-1.409	1.35
+chr5	26791665	G	T	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	0.0	2.245393752354194	-1.443	1.5490000000000002
+chr5	34752503	A	G	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	0.0	2.6544942333804658	-1.673	1.61
+chr5	35925112	C	T	BHE40_HUMAN,TF65_HUMAN,FLI1_HUMAN	VCaP (prostate carcinoma),GM12878 (female B-cells),monocyte-derived macrophages,OCI-LY7 (diffuse large B-cell lymphoma),SKNO-1 (acute myeloid leukemia),foreskin keratinocyte	0.0	2.1363911476432595	-1.365	1.3119999999999998
+chr5	66144136	G	C	CEBPB_HUMAN,FOXK2_HUMAN,FLI1_HUMAN	GM12878 (female B-cells),HeLa S3 (cervical adenocarcinoma),SUM159PT (pleiomorphic breast carcinoma)	3.1217532062563604	0.0	0.955	-0.23800000000000002
+chr5	78547998	G	A	IKZF2_HUMAN,FLI1_HUMAN	GM12878 (female B-cells)	0.0	1.5914933226979677	-0.63	1.002
+chr5	81579744	T	C	GATA1_HUMAN,FLI1_HUMAN	CD34+ hematopoietic stem cells-derived proerythroblasts,A-673 clone Asp114 (Ewing sarcoma)	0.0	1.6171497901584593	-0.792	1.099
+chr5	135994060	C	T	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	6.591132863788696	0.0	2.088	
+chr5	136750623	C	T	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	1.4966913248234575	0.0	1.275	-1.196
+chr5	146007445	T	C	ATF3_HUMAN,PBX2_HUMAN,FLI1_HUMAN	K562 (myelogenous leukemia),A-673 clone Asp114 (Ewing sarcoma),Peyer's patch	0.09719655443452166	1.5509094922818338	-0.287	1.23
+chr5	149062732	G	A	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells),PC3 (prostate carcinoma)	1.5098298319431405	0.0	1.48	
+chr5	163230014	T	C	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	0.0	1.5307290303133552	-1.365	1.3119999999999998
+chr5	178241309	G	C	FLI1_HUMAN	SKNO-1 (acute myeloid leukemia)	1.4924718252004872	0.0	1.423	-1.306
+chr5	179265687	C	T	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	0.0	1.5307290303133552	-1.2890000000000001	1.165
+chr6	203909	A	G	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.324697221451055	0.0	1.278	
+chr6	29965120	G	A	CTCF_HUMAN,MYB_HUMAN,FOXK2_HUMAN,ATF7_HUMAN,KMT2A_HUMAN,SPI1_HUMAN,FLI1_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),monocyte-derived macrophages,fetal bone marrow-derived mononuclear cells,Loucy (adult T acute lymphoblastic leukemia)	0.07707753021288768	1.4545329827237956	0.419	0.54
+chr6	87731945	T	C	ESR1_HUMAN,ZBT16_HUMAN,STAT1_HUMAN,FLI1_HUMAN	A549 (lung carcinoma),KG1 (acute myeloid leukemia),CD14+ monocytes,breast tumor tissue	0.0	3.3044611658900758		1.834
+chr6	110399006	A	G	ATF3_HUMAN,FLI1_HUMAN	K562 (myelogenous leukemia),A-673 clone Asp114 (Ewing sarcoma)	1.9466845820377445	0.2561083098143202	1.385	0.057
+chr6	112330492	A	C	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.344036328211458	0.0	1.361	-1.254
+chr6	133815015	A	G	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	0.0	1.6174814085558455	-1.609	1.442
+chr6	148358416	C	T	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	0.0	1.443173864193326		1.367
+chr6	151045703	T	G	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.4100174082256784	0.0	1.35	
+chr6	152461798	G	A	FLI1_HUMAN	SF268 (astrocytoma ),A-673 clone Asp114 (Ewing sarcoma)	2.6871827660169316	0.0	1.672	-2.2769999999999997
+chr6	167683313	T	G	FOXA1_HUMAN,CEBPG_HUMAN,HTF4_HUMAN,FOXK2_HUMAN,FLI1_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),HUVEC (umbilical vein endothelial cells),K562 (myelogenous leukemia)	1.630935514015574	0.11216421104623482	0.6729999999999999	-0.18
+chr6	168157760	C	T	FOXA1_HUMAN,FLI1_HUMAN	A549 (lung carcinoma),LNCaP (prostate carcinoma)	2.3851037031671156	0.0	0.927	-0.172
+chr6	170345049	C	T	JUN_HUMAN,FLI1_HUMAN	HAEC (human aortic endothelial cells)	1.3667104167131128	0.0	1.27	0.035
+chr7	768365	T	C	MAX_HUMAN,GABPA_HUMAN,MITF_HUMAN,MYCN_HUMAN,FLI1_HUMAN,USF1_HUMAN	501Mel-Cl8 (melanoma),SK-N-SH (neuroblastoma),Tet21N (neuroblastoma),A-673 clone Asp114 (Ewing sarcoma)	4.271013156094251	0.0	1.298	-0.32799999999999996
+chr7	768372	T	C	MAX_HUMAN,GABPA_HUMAN,MITF_HUMAN,FLI1_HUMAN,USF1_HUMAN	501Mel-Cl8 (melanoma),SK-N-SH (neuroblastoma),A-673 clone Asp114 (Ewing sarcoma)	4.37549008662159	0.0	1.275	-0.39799999999999996
+chr7	768436	G	A	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	0.0	5.60472865677125		2.016
+chr7	4706981	G	C	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.3923557060767895	0.0	1.393	-1.276
+chr7	24299389	G	C	FLI1_HUMAN,PBX1_HUMAN	ICN12 (primary pre-B acute lymphomablastic leukemia),A-673 clone Asp114 (Ewing sarcoma)	0.0	1.4253124283772032		1.239
+chr7	31074297	A	T	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.324697221451055	0.0	1.278	
+chr7	32728767	T	C	BC11B_HUMAN,CTCFL_HUMAN,FLI1_HUMAN	K562 (myelogenous leukemia),acute leukemia,thymus-derived CD34- cells	0.0	1.9380527362033009	-1.446	1.504
+chr7	34748564	G	C	NFXL1_HUMAN,FLI1_HUMAN	GM12878 (female B-cells),HEK293 (embryonic kidney),LHSAR (prostate epithelial cells),ZR-75-1 (invasive ductal carcinoma),liver	0.0	1.708283783579845		1.2819999999999998
+chr7	54339221	G	C	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	0.0	2.9987757746924615	-1.7309999999999999	1.665
+chr7	69373867	C	T	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	3.7637859609148014	0.0	1.7269999999999999	
+chr7	75915137	A	C	CLOCK_HUMAN,BC11B_HUMAN,FLI1_HUMAN	MCF7 (Invasive ductal breast carcinoma),acute leukemia,thymus-derived CD34- cells	2.4940889207153436	0.0	1.79	
+chr7	96833874	C	T	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	0.0	1.8034034197341886	-1.39	1.433
+chr7	132502154	G	T	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.3916592908248	0.0	1.4280000000000002	-1.209
+chr7	140049546	G	A	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.8696287520514916	0.0	1.5090000000000001	
+chr7	140049711	T	C	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.9704080068806273	0.0	1.61	-1.389
+chr7	140049757	G	A	FLI1_HUMAN	HUVEC (umbilical vein endothelial cells)	1.69512730226692	0.0	1.51	-1.3980000000000001
+chr7	149028622	G	T	ESR1_HUMAN,KLF11_HUMAN,MYC_HUMAN,KMT2A_HUMAN,FLI1_HUMAN	LNCaP (prostate carcinoma),HCT-116 (colon carcinoma),hMADS-3 (adipose-derived stem cells),acute leukemia,B-cells,fetal bone marrow-derived mononuclear cells,breast tumor tissue	0.0	3.387765617994898	-1.972	1.8019999999999998
+chr7	149028642	C	T	STAT1_HUMAN,FLI1_HUMAN	LNCaP (prostate carcinoma),CD14+ monocytes,A-673 clone Asp114 (Ewing sarcoma)	3.244045366783387	0.0	1.74	
+chr7	149028658	C	T	ESR1_HUMAN,MAX_HUMAN,MAF_HUMAN,FLI1_HUMAN	HCT-116 (colon carcinoma),B-cells,Th1-cells,fetal bone marrow-derived mononuclear cells,A-673 clone Asp114 (Ewing sarcoma),breast tumor tissue	0.0	2.9949015750680332	-1.242	1.861
+chr7	155213499	A	G	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	0.0	1.6174814085558455		1.3219999999999998
+chr7	158814864	G	A	FLI1_HUMAN	K562 (myelogenous leukemia),A-673 clone Asp114 (Ewing sarcoma)	0.0	2.145034895219057	-1.544	1.4880000000000002
+chr8	4763325	T	A	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	3.7316905244289225	0.0	1.672	-1.8459999999999999
+chr8	27158845	G	C	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	1.7800310228557943	0.0	1.385	-1.17
+chr8	55393082	T	A	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	3.459943634680442	0.0	1.6980000000000002	-1.992
+chr8	55401383	A	G	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	4.8604454763438705	0.0	1.8719999999999999	-2.116
+chr8	63125025	T	C	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	2.296924421948887	0.0	1.4969999999999999	-1.361
+chr8	140543740	C	T	FLI1_HUMAN	SKNO-1 (acute myeloid leukemia)	1.324697221451055	0.0	1.278	
+chr8	142676182	A	T	ESR1_HUMAN,AP2C_HUMAN,ANDR_HUMAN,FOXA1_HUMAN,FLI1_HUMAN	T47D (invasive ductal carcinoma),MDA-MB-453 (breast adenocarcinoma),SK-BR-3 (breast adenocarcinoma),ZR-75-1 (invasive ductal carcinoma),HAEC (human aortic endothelial cells),A-673 clone Asp114 (Ewing sarcoma),breast tumor tissue	5.133971447308015	0.0	1.5	0.305
+chr8	143291592	G	A	MAX_HUMAN,FLI1_HUMAN	HCT-116 (colon carcinoma),K562 (myelogenous leukemia),acute leukemia	1.6547312790755713	0.039170349307086225	0.7809999999999999	0.284
+chr8	144478125	G	A	FLI1_HUMAN	HEK293T (embryonic kidney),HEK293 (embryonic kidney),K562 (myelogenous leukemia)	0.0	1.3510507994270657	-1.7919999999999998	1.3840000000000001
+chr8	144792397	C	T	CTCF_HUMAN,TYY1_HUMAN,SP1_HUMAN,KDM1A_HUMAN,ELF1_HUMAN,LEF1_HUMAN,GABP1_HUMAN,HDAC1_HUMAN,MYC_HUMAN,FLI1_HUMAN	HEK293T (embryonic kidney),HCT-116 (colon carcinoma),HEK293 (embryonic kidney),K562 (myelogenous leukemia),MDA-MB-453 (breast adenocarcinoma),ME-1 (acute myeloid leukemia ),breast epithelial cells,acute leukemia	1.3674012336232781	0.304533318979411	0.445	0.312
+chr9	6681443	G	A	KAISO_HUMAN,SPI1_HUMAN,FLI1_HUMAN	monocyte-derived dendritic cells,liver	1.5162068066298366	0.0	0.9540000000000001	-0.877
+chr9	6681701	C	G	CHD2_HUMAN,BC11B_HUMAN,FLI1_HUMAN	GM12878 (female B-cells),HeLa S3 (cervical adenocarcinoma),thymus-derived CD34- cells,A-673 clone Asp114 (Ewing sarcoma)	1.4474043380311683	0.0	1.1320000000000001	-1.141
+chr9	88949429	A	G	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	1.5677045563852072	0.0	1.2670000000000001	
+chr9	98989807	C	T	FLI1_HUMAN	A-673 clone Asp114 (Ewing sarcoma)	1.5677045563852072	0.0	1.295	-1.317
+chr9	136483047	G	A	FLI1_HUMAN	acute leukemia	1.4663525532630026	0.0	1.081	-0.763

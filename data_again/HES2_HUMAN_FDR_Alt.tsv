@@ -1,0 +1,3 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	HES2_HUMAN_FDR_Ref	HES2_HUMAN_FDR_Alt	HES2_HUMAN_Effect_Size_Ref	HES2_HUMAN_Effect_Size_Alt
+chr2	38148629	C	T	EP300_HUMAN,GCR_HUMAN,HES2_HUMAN,BCL3_HUMAN,ERR1_HUMAN,TIF1A_HUMAN,KMT2A_HUMAN	A549 (lung carcinoma),K562 (myelogenous leukemia),SK-BR-3 (breast adenocarcinoma),fetal bone marrow-derived mononuclear cells	0.0	1.4561419586285311	-0.293	0.657
+chr2	142874497	A	G	EP300_HUMAN,RAD21_HUMAN,TAL1_HUMAN,CEBPB_HUMAN,GCR_HUMAN,JUN_HUMAN,JUNB_HUMAN,HES2_HUMAN,BCL3_HUMAN,SPI1_HUMAN	A549 (lung carcinoma),HepG2 (hepatoblastoma),monocyte-derived macrophages,primary endothelial colony-forming cells	0.0	4.940552132727097	0.039	1.2

@@ -1,0 +1,8 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	NR1H4_HUMAN_FDR_Ref	NR1H4_HUMAN_FDR_Alt	NR1H4_HUMAN_Effect_Size_Ref	NR1H4_HUMAN_Effect_Size_Alt
+chr1	39927523	G	A	NR1H4_HUMAN	hepatocytes	3.268960294099588	0.0	1.135	
+chr1	211516366	T	C	NR1H4_HUMAN	hepatocytes	4.019776313694505	0.0	1.531	
+chr1	223886714	C	G	ANDR_HUMAN,FOXA1_HUMAN,NR1H4_HUMAN	LNCaP (prostate carcinoma),LNCaP C4-2 (prostate carcinoma),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),LHSAR (prostate epithelial cells)	0.0	41.42200002671961	-0.75	1.489
+chr2	128309843	G	A	CREB1_HUMAN,MNT_HUMAN,FOXA3_HUMAN,NR1H4_HUMAN	HepG2 (hepatoblastoma),hepatocytes	2.167502118974663	0.0	0.863	-0.489
+chr2	128594166	C	T	NR1H4_HUMAN	hepatocytes	2.448077589914415	0.0	1.35	
+chr2	128594175	A	C	NR1H4_HUMAN	liver,hepatocytes	3.268960294099588	0.0	1.288	-1.069
+chr2	240857844	A	G	NR1H4_HUMAN	hepatocytes	4.004496548262616	0.0	1.531	-1.0759999999999998

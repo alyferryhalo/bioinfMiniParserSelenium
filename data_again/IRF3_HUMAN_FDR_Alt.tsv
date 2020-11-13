@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	IRF3_HUMAN_FDR_Ref	IRF3_HUMAN_FDR_Alt	IRF3_HUMAN_Effect_Size_Ref	IRF3_HUMAN_Effect_Size_Alt
+chr5	179559631	C	A	IRF3_HUMAN,ZFX_HUMAN,JUN_HUMAN,IKZF1_HUMAN,IKZF2_HUMAN,FOXK2_HUMAN	A549 (lung carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),fetal bone marrow-derived mononuclear cells	0.0	1.5357118669411434	-1.272	1.358

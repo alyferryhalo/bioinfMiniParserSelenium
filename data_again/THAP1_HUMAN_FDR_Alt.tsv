@@ -1,0 +1,3 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	THAP1_HUMAN_FDR_Ref	THAP1_HUMAN_FDR_Alt	THAP1_HUMAN_Effect_Size_Ref	THAP1_HUMAN_Effect_Size_Alt
+chr21	45643140	C	T	THAP1_HUMAN	K562 (myelogenous leukemia)	0.0	2.8409969301851894	-2.07	1.5830000000000002
+chr8	27772714	G	C	ESR1_HUMAN,CTCF_HUMAN,JUN_HUMAN,TYY1_HUMAN,STAT1_HUMAN,EHMT2_HUMAN,THAP1_HUMAN	A549 (lung carcinoma),CD14+ monocytes,HCT-116 (colon carcinoma),HEK293 (embryonic kidney),K562 (myelogenous leukemia),lymphoblastoid cells,breast tumor tissue	2.1895562398295554	0.0	1.4169999999999998	

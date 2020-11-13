@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	PDX1_HUMAN_FDR_Ref	PDX1_HUMAN_FDR_Alt	PDX1_HUMAN_Effect_Size_Ref	PDX1_HUMAN_Effect_Size_Alt
+chr2	96601907	G	A	ESR1_HUMAN,RXRA_HUMAN,HNF4A_HUMAN,ATF3_HUMAN,COT1_HUMAN,PRD10_HUMAN,PDX1_HUMAN	K562 (myelogenous leukemia),liver,breast tumor tissue	2.4476042349160063	0.0	1.62	

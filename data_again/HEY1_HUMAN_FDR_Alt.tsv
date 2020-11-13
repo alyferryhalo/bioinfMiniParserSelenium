@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	HEY1_HUMAN_FDR_Ref	HEY1_HUMAN_FDR_Alt	HEY1_HUMAN_Effect_Size_Ref	HEY1_HUMAN_Effect_Size_Alt
+chr17	43368091	G	C	JUN_HUMAN,BCL3_HUMAN,NDF1_HUMAN,SMAD5_HUMAN,HEY1_HUMAN,PML_HUMAN	A549 (lung carcinoma),HeLa S3 (cervical adenocarcinoma),K562 (myelogenous leukemia),D341 Med (medulloblastoma)	5.930255766433389	0.0	1.669	-1.858

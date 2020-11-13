@@ -1,0 +1,3 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	ZN547_HUMAN_FDR_Ref	ZN547_HUMAN_FDR_Alt	ZN547_HUMAN_Effect_Size_Ref	ZN547_HUMAN_Effect_Size_Alt
+chr17	29294331	C	T	ESR1_HUMAN,BC11B_HUMAN,ZN547_HUMAN	HEK293T (embryonic kidney),MCF7 (Invasive ductal breast carcinoma),HepG2 (hepatoblastoma),thymus-derived CD34- cells,breast tumor tissue	3.4743717055366004	0.0	1.74	
+chr17	38675032	A	G	ZFX_HUMAN,MAX_HUMAN,ZN547_HUMAN,PATZ1_HUMAN	HEK293T (embryonic kidney)	0.0	1.4241639043407162	-0.966	1.1159999999999999

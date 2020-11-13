@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	ZN491_HUMAN_FDR_Ref	ZN491_HUMAN_FDR_Alt	ZN491_HUMAN_Effect_Size_Ref	ZN491_HUMAN_Effect_Size_Alt
+chr19	48875051	A	G	ZBT8A_HUMAN,IKZF2_HUMAN,ZN491_HUMAN,ZN335_HUMAN	GM12878 (female B-cells),HEK293 (embryonic kidney),Ishikawa (endometrial adenocarcinoma)	2.21737354376023	0.0	0.591	

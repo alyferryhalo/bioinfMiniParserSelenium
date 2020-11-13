@@ -1,0 +1,19 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	JARD2_HUMAN_FDR_Ref	JARD2_HUMAN_FDR_Alt	JARD2_HUMAN_Effect_Size_Ref	JARD2_HUMAN_Effect_Size_Alt
+chr10	99527823	C	T	JARD2_HUMAN	MRC-iPS-25 (induced pluripotent stem cells)	1.7622143152699263	0.0	1.238	-0.252
+chr10	99527829	A	G	JARD2_HUMAN	MRC-iPS-25 (induced pluripotent stem cells)	2.5360880316632692	0.0	1.462	-0.366
+chr10	99532698	C	A	JARD2_HUMAN	MRC-iPS-25 (induced pluripotent stem cells)	1.3890074459592923	0.0	0.893	
+chr10	100735545	C	G	EZH2_HUMAN,JARD2_HUMAN	A673 (Ewing sarcoma),MRC-iPS-25 (induced pluripotent stem cells)	1.7549040179470614	0.0	1.317	-1.069
+chr10	100742416	A	C	JARD2_HUMAN	MRC-iPS-25 (induced pluripotent stem cells)	1.3890074459592923	0.0	0.988	-0.748
+chr10	123143066	C	A	JARD2_HUMAN	MRC-iPS-25 (induced pluripotent stem cells)	1.3890074459592923	0.000779225449181251	1.186	0.036000000000000004
+chr12	57475693	G	A	JARD2_HUMAN	MRC-iPS-25 (induced pluripotent stem cells)	1.5362678638571896	0.0	1.311	-1.237
+chr12	57475703	A	G	JARD2_HUMAN	MRC-iPS-25 (induced pluripotent stem cells)	2.4030561757121784	0.0	1.1909999999999998	-1.141
+chr17	19533865	G	C	JARD2_HUMAN	MRC-iPS-25 (induced pluripotent stem cells)	1.7622143152699263	0.0	1.38	-1.3090000000000002
+chr2	118854688	T	C	JARD2_HUMAN	MRC-iPS-25 (induced pluripotent stem cells)	1.3890074459592923	0.0	1.167	0.23600000000000002
+chr4	173509674	C	G	STAT1_HUMAN,ERG_HUMAN,JARD2_HUMAN	CD14+ monocytes,MRC-iPS-25 (induced pluripotent stem cells),TSU-1621-MT (adult acute myeloid leukemia)	0.0	1.5052769606607201	-2.2159999999999997	1.046
+chr4	173509692	G	A	ERG_HUMAN,JARD2_HUMAN	MRC-iPS-25 (induced pluripotent stem cells),TSU-1621-MT (adult acute myeloid leukemia)	2.1838445503066235	0.0	1.236	-0.89
+chr5	73298738	G	A	EZH2_HUMAN,JARD2_HUMAN	MRC-iPS-25 (induced pluripotent stem cells)	1.3976275333684263	0.0	1.057	-1.085
+chr6	170289264	C	T	JARD2_HUMAN	MRC-iPS-25 (induced pluripotent stem cells)	1.5163584547253357	0.006028309012852976	0.9540000000000001	-0.836
+chr7	155450004	C	A	JARD2_HUMAN	MRC-iPS-25 (induced pluripotent stem cells)	1.5362678638571896	0.0	1.311	-1.237
+chr7	155451113	C	A	JARD2_HUMAN	MRC-iPS-25 (induced pluripotent stem cells)	2.4030561757121784	0.0	1.2429999999999999	-0.8540000000000001
+chr9	114839	G	A	EZH2_HUMAN,JARD2_HUMAN	H1 (embryonic stem cells),MRC-iPS-25 (induced pluripotent stem cells),hepatocytes	2.0303461829703497	0.0	1.294	-1.0490000000000002
+chr9	62802625	T	A	CTCF_HUMAN,SP1_HUMAN,ZBED1_HUMAN,GABP1_HUMAN,STAT1_HUMAN,CREM_HUMAN,KMT2A_HUMAN,STAT3_HUMAN,SOX4_HUMAN,PO2F2_HUMAN,JARD2_HUMAN,PML_HUMAN	MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,GM12878 (female B-cells),HCT-116 (colon carcinoma),HepG2 (hepatoblastoma),MM1.S (plasma cell myeloma),MRC-iPS-25 (induced pluripotent stem cells),MV4-11 (childhood acute monocytic leukemia),acute leukemia,MRC-5 (fetal lung fibroblasts)	5.515614882953889	0.0	1.2409999999999999	-0.691

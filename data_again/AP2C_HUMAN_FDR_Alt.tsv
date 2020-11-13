@@ -1,0 +1,169 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	AP2C_HUMAN_FDR_Ref	AP2C_HUMAN_FDR_Alt	AP2C_HUMAN_Effect_Size_Ref	AP2C_HUMAN_Effect_Size_Alt
+chr1	3669018	G	A	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	0.0	1.6499310213931575		1.777
+chr1	7118071	A	G	AP2C_HUMAN,PKNX1_HUMAN	MCF7 (Invasive ductal breast carcinoma)	1.310747536586134	0.0	1.317	-2.6510000000000002
+chr1	16621240	G	A	T2FA_HUMAN,TAF7_HUMAN,TADBP_HUMAN,CAVN1_HUMAN,DIDO1_HUMAN,HDAC8_HUMAN,RAD21_HUMAN,NFIC_HUMAN,TAL1_HUMAN,CEBPB_HUMAN,CTCF_HUMAN,GATA3_HUMAN,AP2C_HUMAN,GCR_HUMAN,SIN3A_HUMAN,ZFX_HUMAN,JUN_HUMAN,ZBT40_HUMAN,ID3_HUMAN,MAX_HUMAN,COT2_HUMAN,JUND_HUMAN,EGR1_HUMAN,SP1_HUMAN,NR4A1_HUMAN,REST_HUMAN,NFE2_HUMAN,KLF13_HUMAN,ATF1_HUMAN,MAFG_HUMAN,CREB1_HUMAN,HDAC2_HUMAN,KDM1A_HUMAN,SMCA5_HUMAN,ZN579_HUMAN,P66B_HUMAN,SMCE1_HUMAN,MNT_HUMAN,ZNF24_HUMAN,ZN574_HUMAN,NBN_HUMAN,TRI22_HUMAN,IRF1_HUMAN,PKNX1_HUMAN,CTBP1_HUMAN,HSF1_HUMAN,HCFC1_HUMAN,NR2C1_HUMAN,NCOR1_HUMAN,ZN592_HUMAN,MYBB_HUMAN,RFX1_HUMAN,MGAP_HUMAN,NCOA2_HUMAN,GMEB1_HUMAN,ATF3_HUMAN,ILF3_HUMAN,TAF9B_HUMAN,HDAC3_HUMAN,CHAP1_HUMAN,EMSY_HUMAN,EP400_HUMAN,ZN318_HUMAN,XRCC3_HUMAN,SMCA4_HUMAN,MEF2D_HUMAN,NF2L1_HUMAN,PBX2_HUMAN,HTF4_HUMAN,IKZF1_HUMAN,FOXK2_HUMAN,COT1_HUMAN,NFAC3_HUMAN,ARNT_HUMAN,SKIL_HUMAN,REQU_HUMAN,BCLF1_HUMAN,LEF1_HUMAN,LMBL2_HUMAN,HDGF_HUMAN,TEAD2_HUMAN,GABP1_HUMAN,ZN766_HUMAN,EHMT2_HUMAN,RING2_HUMAN,HINFP_HUMAN,NRF1_HUMAN,MAFK_HUMAN,MITF_HUMAN,PRD10_HUMAN,ZEB2_HUMAN,ZFP91_HUMAN,MTG16_HUMAN,DACH1_HUMAN,ATF7_HUMAN,ENL_HUMAN,NCOA3_HUMAN,NFIB_HUMAN,ZN444_HUMAN,TF65_HUMAN,T22D4_HUMAN,IRF9_HUMAN,MTA1_HUMAN,ZBT7B_HUMAN,MTA3_HUMAN,FOS_HUMAN,ETS2_HUMAN,MEIS2_HUMAN,NCOA1_HUMAN,SOX6_HUMAN,ARI1B_HUMAN,ZN316_HUMAN,ARID2_HUMAN,MCM2_HUMAN,SPT5H_HUMAN,PHB2_HUMAN,C2D1A_HUMAN,HDAC1_HUMAN,TIF1A_HUMAN,AFF1_HUMAN,TR150_HUMAN,TEAD4_HUMAN,KDM5B_HUMAN,FOSB_HUMAN	AG04449 (fibroblasts),AG04450 (fibroblasts),AG09319 (fibroblasts),VCaP (prostate carcinoma),MCF7 (Invasive ductal breast carcinoma),COLO-829 (melanoma),Delta47 (plasma cell myeloma),DND41 (acute lymphoblastic leukemia),DOHH2 (diffuse large B-cell lymphoma),FB0167P (progeria fibroblasts),GM10248 (male B-cells),GM10266 (male B-cells),GM12864 (male B-cells),GM12866 (male B-cells),GM12868 (female B-cells),GM12871 (male B-cells),GM12873 (female B-cells),GM12874 (male B-cells),GM12875 (female B-cells),H1 (embryonic stem cells),H1-derived trophectodermal cells,H929 (plasma cell myeloma),HCT-116 (colon carcinoma),HeLa Kyoto (cervical adenocarcinoma),HeLa S3 (cervical adenocarcinoma),skeletal muscles and myoblasts,epidermal keratinocytes,Jurkat (T-cells),spleen,normal lung fibroblasts,OCI-LY1 (diffuse large B-cell lymphoma),breast epithelial cells,SK-BR-3 (breast adenocarcinoma),SU-DHL-6 (diffuse large B-cell lymphoma),neural progenitors,hepatocytes,kidney,myotube,suprapubic skin,heart left ventricle,gastrocnemius medialis,Peyer's patch,bipolar neuron,ovary,stomach,uterus,esophagus muscularis mucosa,thyroid gland,ascending aorta,tibial nerve,neural cell,upper lobe of left lung,RWPE2,smooth muscle cell,SK-N-AS (neuroblastoma),HCT-116-RAD21-mAC	1.5346222221893742	0.0	1.859	-2.14
+chr1	16621256	G	C	RAD21_HUMAN,CTCF_HUMAN,AP2C_HUMAN	22RV1 (prostate carcinoma),786-O (renal carcinoma),AG04449 (fibroblasts),AG04450 (fibroblasts),aortic adventitial fibroblasts,VCaP (prostate carcinoma),MCF7 (Invasive ductal breast carcinoma),bronchial epithelial cells,BT-474 (breast invasive ductal carcinoma),DND41 (acute lymphoblastic leukemia),CD34+ stem cells-derived erythroblasts,GM06990 (female B-cells),GM10248 (male B-cells),epidermal keratinocytes,HUVEC (umbilical vein endothelial cells),Ishikawa (endometrial adenocarcinoma),RWPE1 (prostate epithelial cells),WERI-Rb-1 (retinoblastoma),liver,B-cells,erythroid cells,primary foreskin fibroblasts,fibroblast of pulmonary artery	5.139044440575784	0.0	1.5819999999999999	-1.5430000000000001
+chr1	16624288	T	A	ESR1_HUMAN,AP2C_HUMAN,ANDR_HUMAN,MAX_HUMAN,MYC_HUMAN	MCF7 (Invasive ductal breast carcinoma),BT-474 (breast invasive ductal carcinoma),NCI-H2171 (small cell lung carcinoma),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),MDA-MB-453 (breast adenocarcinoma),PC3 (prostate carcinoma),breast tumor tissue	26.882121722623715	0.0	1.294	-0.308
+chr1	30417740	T	C	AP2C_HUMAN	BT-474 (breast invasive ductal carcinoma)	1.3802562041596156	0.0	1.2409999999999999	-0.955
+chr1	34825869	C	A	AP2C_HUMAN	BT-474 (breast invasive ductal carcinoma)	0.0	1.5316897570443317	-1.358	1.355
+chr1	46132597	C	A	CTCF_HUMAN,AP2C_HUMAN	HEK293T (embryonic kidney),MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),SK-BR-3 (breast adenocarcinoma),neural cell	1.5669085444657271	0.5378126464598215	0.344	0.39899999999999997
+chr1	116589556	C	T	AP2C_HUMAN,P53_HUMAN	MCF7 (Invasive ductal breast carcinoma),SK-BR-3 (breast adenocarcinoma),liver	2.8928596366507473	0.0	1.314	
+chr1	145708339	C	T	EP300_HUMAN,ESR1_HUMAN,GATA3_HUMAN,AP2C_HUMAN,FOXA1_HUMAN,PRGR_HUMAN,GCR_HUMAN,CREB1_HUMAN,P66B_HUMAN,CTBP1_HUMAN,BMI1_HUMAN,ZFHX2_HUMAN,ATF7_HUMAN,NCOA3_HUMAN,NFIB_HUMAN,TF65_HUMAN	MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney),K562 (myelogenous leukemia),SK-BR-3 (breast adenocarcinoma),MCF7 TamR (invasive ductal breast carcinoma Tamoxifen resistant),breast tumor tissue	0.0	2.981749387639919		1.945
+chr1	153627648	T	C	AP2C_HUMAN,IKZF1_HUMAN,IKZF2_HUMAN	GM12878 (female B-cells),K562 (myelogenous leukemia),hepatocytes	0.0	1.4045680870713964		1.682
+chr1	181423481	C	G	AP2C_HUMAN,PKNX1_HUMAN	MCF7 (Invasive ductal breast carcinoma)	1.463667277811805	0.012055564749404536	0.894	-0.5429999999999999
+chr1	200669534	G	A	AP2C_HUMAN,JUN_HUMAN,ZBT8A_HUMAN,FOXK2_HUMAN	A549 (lung carcinoma),LNCaP C4-2B (prostate carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),MDA-MB-453 (breast adenocarcinoma),SK-BR-3 (breast adenocarcinoma),fetal bone marrow-derived mononuclear cells	0.0	1.7537284126145245		1.746
+chr1	202106541	A	G	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	0.3878370455454146	2.405182485750183	0.359	1.73
+chr1	202184870	G	A	RAD21_HUMAN,AP2C_HUMAN,SMC3_HUMAN,SRF_HUMAN,STAT1_HUMAN,HDAC1_HUMAN	A549 (lung carcinoma),CD14+ monocytes,GM12878 (female B-cells),HEK293 (embryonic kidney),HUES64 (embryonic stem cells),K562 (myelogenous leukemia),PANC1 (pancreatic ductal adenocarcinoma),SK-BR-3 (breast adenocarcinoma),B-cells,erythroid progenitors,neutrophils	8.595259987318835	0.0	1.026	-0.126
+chr1	228021579	T	G	AP2C_HUMAN	LNCaP (prostate carcinoma),BT-474 (breast invasive ductal carcinoma)	0.0	1.492237959695941		1.3319999999999999
+chr1	248873908	G	C	ESR1_HUMAN,AP2C_HUMAN,MNT_HUMAN,STAT1_HUMAN,SNAI2_HUMAN	A549 (lung carcinoma),MCF7 (Invasive ductal breast carcinoma),BT-474 (breast invasive ductal carcinoma),CD14+ monocytes,keratinocytes,GM12878 (female B-cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia)	1.4031385075112082	0.0	1.288	-2.6210000000000004
+chr10	1290293	A	G	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	1.310747536586134	0.0	1.274	-1.073
+chr10	5025729	A	G	ESR1_HUMAN,AP2C_HUMAN,ANDR_HUMAN,FOXA1_HUMAN,PRGR_HUMAN,GCR_HUMAN	A549 (lung carcinoma),MCF7 (Invasive ductal breast carcinoma),MDA-MB-453 (breast adenocarcinoma),SK-BR-3 (breast adenocarcinoma),macrophages	2.9164530441440477	0.0	1.128	-0.502
+chr10	71377472	T	C	CTCF_HUMAN,AP2C_HUMAN	A549 (lung carcinoma),foreskin keratinocyte	2.2482190462248837	0.0	0.595	0.368
+chr10	72048709	C	A	RAD21_HUMAN,AP2C_HUMAN,SMC3_HUMAN	A549 (lung carcinoma),epidermal keratinocytes,SK-BR-3 (breast adenocarcinoma),kidney,fibroblast of mammary gland	2.3539281285520777	0.0	0.9520000000000001	0.539
+chr10	75245572	A	G	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	2.8928596366507473	0.0	1.696	
+chr10	110408611	G	A	AP2C_HUMAN	MCF7 (Invasive ductal breast carcinoma),SK-BR-3 (breast adenocarcinoma)	3.2710977317903627	0.21390966904050426	1.861	0.08
+chr10	110456905	A	T	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	1.86157943080899	0.0	1.483	-1.272
+chr10	122102774	G	A	EP300_HUMAN,AP2C_HUMAN,GCR_HUMAN,JUN_HUMAN	A549 (lung carcinoma),SK-BR-3 (breast adenocarcinoma)	0.0	4.40313199405724		1.774
+chr10	133279086	G	C	CTCF_HUMAN,AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma),RWPE2	0.0	1.7304281824239147	-1.015	1.06
+chr11	8343208	T	C	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	2.329750317979555	0.0	1.568	-0.6
+chr11	16738697	T	G	AP2C_HUMAN,ZEB2_HUMAN	K562 (myelogenous leukemia),SK-BR-3 (breast adenocarcinoma)	0.0	1.5316897570443317	-1.247	1.4869999999999999
+chr11	47143555	G	A	AP2C_HUMAN,FOXA1_HUMAN,PRGR_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),MDA-MB-453 (breast adenocarcinoma),SK-BR-3 (breast adenocarcinoma)	2.7144598839695293	0.0	1.646	
+chr11	64245934	G	A	AP2C_HUMAN,JUN_HUMAN,EGR1_HUMAN,HDAC3_HUMAN,SMCA4_HUMAN	HUVEC (umbilical vein endothelial cells),K562 (myelogenous leukemia),HAEC (human aortic endothelial cells)	1.3875278826469137	0.0	1.227	-1.435
+chr11	64267394	G	A	AP2C_HUMAN	BT-474 (breast invasive ductal carcinoma)	1.3802562041596156	0.0	1.212	-1.07
+chr11	67031263	T	A	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	3.2710977317903627	0.0	1.811	
+chr11	67994014	G	C	RAD21_HUMAN,CTCF_HUMAN,AP2C_HUMAN,FOXA1_HUMAN	VCaP (prostate carcinoma),MCF7 (Invasive ductal breast carcinoma),CD34+ stem cells-derived erythroblasts,MDA-MB-453 (breast adenocarcinoma),SK-BR-3 (breast adenocarcinoma),liver,neutrophils,transverse colon	2.1832933519017432	0.0	0.929	-0.382
+chr11	72786668	T	C	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	0.0	2.514620215765807		1.6640000000000001
+chr11	73876788	C	T	AP2C_HUMAN	BT-474 (breast invasive ductal carcinoma)	0.0	1.750369107911709		1.403
+chr11	118088501	C	T	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	2.4898853168764417	0.0	1.6159999999999999	-1.5030000000000001
+chr12	541705	G	C	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	2.7144598839695293	0.0	1.646	
+chr12	949572	C	G	GATA3_HUMAN,AP2C_HUMAN	MCF7 (Invasive ductal breast carcinoma),SK-BR-3 (breast adenocarcinoma)	1.4011441630666917	0.0	1.53	
+chr12	4308066	C	G	AP2C_HUMAN,ZIC2_HUMAN,GLIS2_HUMAN,ZN189_HUMAN	BT-474 (breast invasive ductal carcinoma),HEK293 (embryonic kidney)	0.0	1.4053457286605568	-1.244	1.395
+chr12	6044348	A	G	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	1.4360130222020389	0.0	1.464	-2.079
+chr12	6044368	T	C	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	1.310747536586134	0.0	1.3159999999999998	-1.018
+chr12	6873358	C	G	ESR1_HUMAN,AP2C_HUMAN,BC11B_HUMAN,ERG_HUMAN	VCaP (prostate carcinoma),SK-BR-3 (breast adenocarcinoma),breast tumor tissue,adrenal gland	2.419663924530531	0.0	1.62	-2.346
+chr12	52970495	A	C	AP2C_HUMAN,GLIS1_HUMAN,ZXDB_HUMAN,HIF1A_HUMAN	HEK293 (embryonic kidney),SK-BR-3 (breast adenocarcinoma)	1.9401569908620475	0.0	1.4169999999999998	
+chr12	53867816	A	G	ESR1_HUMAN,AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	0.0	1.339550278117269		1.285
+chr12	67237464	T	C	AP2C_HUMAN	A375 (malignant melanoma)	3.2710977317903627	0.0	1.859	
+chr12	76083995	G	A	AP2C_HUMAN	BT-474 (breast invasive ductal carcinoma)	2.039546216524511	0.0	1.4480000000000002	
+chr12	96094321	C	T	AP2A_HUMAN,AP2C_HUMAN,MYC_HUMAN	MCF7 (Invasive ductal breast carcinoma),cranial neural crest cells,SK-BR-3 (breast adenocarcinoma)	1.819064680864447	0.0	1.4080000000000001	-1.048
+chr12	120686339	A	C	AP2C_HUMAN,STAT1_HUMAN,KMT2A_HUMAN	CD14+ monocytes,GM12878 (female B-cells),SK-BR-3 (breast adenocarcinoma),fetal bone marrow-derived mononuclear cells	1.367535474453085	0.0	1.315	1.043
+chr12	125983330	G	C	AP2C_HUMAN	BT-474 (breast invasive ductal carcinoma)	0.0	1.3431757879781308	-1.158	1.405
+chr12	131129921	C	T	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	2.4522651650261977	0.0	1.5659999999999998	
+chr12	133181368	T	C	RAD21_HUMAN,AP2C_HUMAN,NR2C1_HUMAN,STAT1_HUMAN	CD14+ monocytes,GM13976 (female B-cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),IPSC-derived bipolar neuron,vagina	1.8967352722913986	0.0	0.635	-0.17600000000000002
+chr14	65412559	T	A	AP2C_HUMAN,ZFX_HUMAN	MCF7 (Invasive ductal breast carcinoma),MCF-7 C4-12 (invasive breast ductal carcinoma),SK-BR-3 (breast adenocarcinoma)	1.6879586807336875	0.0	1.365	-0.375
+chr14	73752664	A	G	AP2C_HUMAN	MCF7 (Invasive ductal breast carcinoma),MDA-MB-453 (breast adenocarcinoma),SK-BR-3 (breast adenocarcinoma),ZR-75-1 (invasive ductal carcinoma)	0.0	1.8992945169906923	-1.475	1.5319999999999998
+chr14	77009204	C	T	ESR1_HUMAN,AP2C_HUMAN	T47D (invasive ductal carcinoma),SK-BR-3 (breast adenocarcinoma)	1.3421489581044144	0.1664421233055905	1.2009999999999998	0.374
+chr14	90443782	G	A	AP2C_HUMAN	HT29 (colon adenocarcinoma),SK-BR-3 (breast adenocarcinoma)	0.0	1.5985689579719913		1.401
+chr14	92681326	A	G	CTCF_HUMAN,AP2C_HUMAN,STAT1_HUMAN	AG10803 (fibroblasts),MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,GM12892 (female B-cells),H1 (embryonic stem cells),HEK293 (embryonic kidney),Jurkat (T-cells),lymphoblastoid cells,SK-BR-3 (breast adenocarcinoma),erythroid cells,neutrophils,heart left ventricle	16.94667316822867	0.0	0.858	0.9520000000000001
+chr14	98899662	T	C	AP2C_HUMAN	BT-474 (breast invasive ductal carcinoma)	1.4360130222020389	0.0	1.2409999999999999	
+chr14	100548081	G	C	CTCF_HUMAN,AP2C_HUMAN,GLIS1_HUMAN	HEK293 (embryonic kidney),monocyte-derived dendritic cells,SK-BR-3 (breast adenocarcinoma),foreskin keratinocyte	1.7861555742420732	0.0	0.8220000000000001	0.193
+chr14	104687768	A	G	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	0.0	1.3431757879781308	0.935	1.4969999999999999
+chr15	31398827	G	T	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	1.4360130222020389	0.0	1.375	-1.0759999999999998
+chr15	31598942	A	G	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	1.4360130222020389	0.0	1.2409999999999999	
+chr15	40103403	A	G	AP2C_HUMAN,ANDR_HUMAN	PC3 (prostate carcinoma),SK-BR-3 (breast adenocarcinoma)	0.0	2.0010701664781396		1.7380000000000002
+chr15	40104893	G	A	AP2C_HUMAN,FOXK2_HUMAN	GM12878 (female B-cells),epidermal keratinocytes,SK-BR-3 (breast adenocarcinoma)	2.4898853168764417	0.0	1.6159999999999999	-1.5030000000000001
+chr15	51038501	G	A	AP2C_HUMAN,P63_HUMAN	T47D (invasive ductal carcinoma),keratinocytes,MDA-MB-453 (breast adenocarcinoma)	1.4360130222020389	0.0	1.2409999999999999	
+chr15	64835869	G	C	AP2C_HUMAN	A549 (lung carcinoma),VCaP (prostate carcinoma),MCF7 (Invasive ductal breast carcinoma),periferal blood macrophages,SK-BR-3 (breast adenocarcinoma)	1.6723029237705025	0.0	1.4280000000000002	-1.209
+chr15	65832994	T	G	AP2C_HUMAN,FOXA1_HUMAN,SIN3A_HUMAN,CREB1_HUMAN,RFX1_HUMAN,SPI1_HUMAN	MCF7 (Invasive ductal breast carcinoma),cranial neural crest cells,GM12878 (female B-cells),K562 (myelogenous leukemia),monocyte-derived dendritic cells,SK-BR-3 (breast adenocarcinoma),liver,breast tumor tissue	0.0	1.3431757879781308	-1.2690000000000001	1.3159999999999998
+chr15	65902549	G	A	AP2C_HUMAN,STAT1_HUMAN	CD14+ monocytes,SK-BR-3 (breast adenocarcinoma)	0.0	1.3431757879781308		1.258
+chr15	70517383	T	C	AP2C_HUMAN,FOXA1_HUMAN	MCF7 (Invasive ductal breast carcinoma),SK-BR-3 (breast adenocarcinoma)	1.4360130222020389	0.0	1.464	-2.079
+chr15	75450661	G	A	AP2C_HUMAN	MCF7 (Invasive ductal breast carcinoma),K562 (myelogenous leukemia),SK-BR-3 (breast adenocarcinoma)	0.0	1.3431757879781308	-1.05	1.479
+chr16	1301026	C	A	AP2C_HUMAN,ZIC2_HUMAN	MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney),MDA-MB-453 (breast adenocarcinoma),SK-BR-3 (breast adenocarcinoma)	1.5609302265119145	0.0	1.26	-0.521
+chr16	1913519	T	C	AP2C_HUMAN	BT-474 (breast invasive ductal carcinoma)	1.5609302265119145	0.0	1.182	-1.38
+chr16	2235852	C	T	AP2C_HUMAN	HEK293 (embryonic kidney),SK-BR-3 (breast adenocarcinoma)	1.4360130222020389	0.0	1.2409999999999999	
+chr16	10578731	A	C	GRHL2_HUMAN,GATA3_HUMAN,AP2C_HUMAN,SIN3A_HUMAN,RUNX2_HUMAN	MCF7 (Invasive ductal breast carcinoma),SK-BR-3 (breast adenocarcinoma)	1.357517871812108	0.06496809971381336	0.496	0.053
+chr16	18997640	G	C	AP2C_HUMAN,ANDR_HUMAN,FOXA1_HUMAN,SRBP1_HUMAN	A549 (lung carcinoma),BT-474 (breast invasive ductal carcinoma),MDA-MB-453 (breast adenocarcinoma)	0.0	1.5316897570443317		1.329
+chr16	30874900	C	G	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	4.976924394424905	0.0	2.121	
+chr16	56345317	C	T	AP2C_HUMAN	MDA-MB-453 (breast adenocarcinoma),SK-BR-3 (breast adenocarcinoma)	1.3802562041596156	0.0	1.212	-1.07
+chr16	84475762	C	G	GRHL2_HUMAN,ESR1_HUMAN,GATA3_HUMAN,AP2C_HUMAN,FOXA1_HUMAN,SIN3A_HUMAN,P66B_HUMAN,CTBP1_HUMAN,CHD1_HUMAN	MCF7 (Invasive ductal breast carcinoma),SK-BR-3 (breast adenocarcinoma)	0.0	1.6472923560033328		1.046
+chr16	88763732	T	C	ESR1_HUMAN,GATA3_HUMAN,AP2C_HUMAN,FOXA1_HUMAN,CREB1_HUMAN,HDAC2_HUMAN,MNT_HUMAN,NR2C1_HUMAN,NCOR1_HUMAN,AHR_HUMAN,ERR1_HUMAN,NCOA3_HUMAN,NFIB_HUMAN,ZXDC_HUMAN,TEAD4_HUMAN	MCF7 (Invasive ductal breast carcinoma),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),SK-BR-3 (breast adenocarcinoma)	0.0	72.9456384001271	1.089	1.484
+chr16	89320526	G	A	AP2C_HUMAN,JUND_HUMAN,BHE40_HUMAN,IKZF1_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),SK-BR-3 (breast adenocarcinoma)	0.0	2.3114478839599677		1.8419999999999999
+chr17	31655119	A	G	ESR1_HUMAN,AP2C_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),SK-BR-3 (breast adenocarcinoma),breast tumor tissue	2.362484959793175	0.0	0.7020000000000001	0.991
+chr17	50397715	G	A	SKI_HUMAN,AP2C_HUMAN	cranial neural crest cells,GM12878 (female B-cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),SK-BR-3 (breast adenocarcinoma),RWPE2,foreskin keratinocyte	1.3035709459242926	0.0	1.399	-1.182
+chr17	63446864	G	A	AP2C_HUMAN,HDAC1_HUMAN	K562 (myelogenous leukemia),SK-BR-3 (breast adenocarcinoma)	2.37707030590325	0.0	1.63	
+chr17	72684287	T	G	ESR1_HUMAN,AP2C_HUMAN,FOXA1_HUMAN	VCaP (prostate carcinoma),T47D (invasive ductal carcinoma),SK-BR-3 (breast adenocarcinoma)	1.4336532115396794	0.0	0.652	0.258
+chr17	80005998	G	A	CTCF_HUMAN,AP2C_HUMAN,FOXA1_HUMAN,GLIS1_HUMAN,PRD10_HUMAN	HEK293T (embryonic kidney),HeLa S3 (cervical adenocarcinoma),K562 (myelogenous leukemia),SK-BR-3 (breast adenocarcinoma),foreskin keratinocyte	3.027512712689841	0.0	0.452	0.45799999999999996
+chr17	82963278	G	A	CTCF_HUMAN,AP2C_HUMAN,SPI1_HUMAN	periferal blood macrophages,SK-BR-3 (breast adenocarcinoma),foreskin keratinocyte	3.38762014062624	0.04038808263716824	0.588	0.034
+chr19	3710533	C	T	ESR1_HUMAN,AP2C_HUMAN,ANDR_HUMAN,STAT1_HUMAN	CD14+ monocytes,CWR22 (prostate carcinoma),SK-BR-3 (breast adenocarcinoma),breast tumor tissue	0.0	2.8092396790542495	-1.46	1.956
+chr19	35163164	C	T	AP2C_HUMAN,REQU_HUMAN	MCF7 (Invasive ductal breast carcinoma),SK-BR-3 (breast adenocarcinoma)	1.3307261439745508	0.0	1.27	
+chr19	40444526	A	C	CTCF_HUMAN,AP2C_HUMAN,EGR1_HUMAN,SMCA4_HUMAN,NRF1_HUMAN	K562 (myelogenous leukemia),SK-BR-3 (breast adenocarcinoma),tibial nerve,foreskin keratinocyte	0.0	3.1171933327701593	0.083	0.565
+chr19	51092366	T	A	AP2C_HUMAN,CTBP1_HUMAN,SP7_HUMAN,OSR2_HUMAN,NFIB_HUMAN,ZN189_HUMAN	MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney),SK-BR-3 (breast adenocarcinoma)	0.0	1.5316897570443317		1.449
+chr2	8540110	C	A	AP2C_HUMAN,FOXA1_HUMAN,STAT1_HUMAN	VCaP (prostate carcinoma),CD14+ monocytes	1.8954314741391947	0.05169293215033696	0.852	0.214
+chr2	9149080	G	C	AP2C_HUMAN	BT-474 (breast invasive ductal carcinoma)	0.0	1.4058447557387683		1.3869999999999998
+chr2	15730612	A	G	EP300_HUMAN,AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma),tibial nerve	0.0	2.3214750790983656	0.988	0.9059999999999999
+chr2	43179111	G	T	CEBPB_HUMAN,AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma),macrophages	2.2085865882661726	0.0	1.226	
+chr2	46164472	T	C	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	2.039546216524511	0.0	1.4480000000000002	
+chr2	110106409	A	G	EP300_HUMAN,AP2C_HUMAN,JUN_HUMAN,JUNB_HUMAN	A549 (lung carcinoma)	0.0	1.6188654970098824	0.16	0.775
+chr2	201451761	A	G	AP2A_HUMAN,AP2C_HUMAN	BT-474 (breast invasive ductal carcinoma),cranial neural crest cells,adrenal gland	0.0	3.3270922915684182		1.952
+chr2	236875967	G	C	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	1.9401569908620475	0.0	1.4169999999999998	
+chr20	3045885	A	C	AP2C_HUMAN,ZFX_HUMAN	LNCaP C4-2B (prostate carcinoma)	1.5609302265119145	0.0	1.198	-1.121
+chr20	18005414	C	T	AP2A_HUMAN,AP2C_HUMAN,ANDR_HUMAN,FOXK2_HUMAN	GM12878 (female B-cells),LHSAR (prostate epithelial cells),SK-BR-3 (breast adenocarcinoma)	1.4141459691289062	0.0	0.9890000000000001	0.14
+chr20	23350083	A	G	CTCF_HUMAN,AP2C_HUMAN,JUN_HUMAN,SP2_HUMAN	A549 (lung carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),foreskin keratinocyte	0.0	1.8071064656752986	0.301	0.728
+chr20	24991109	A	G	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	0.13858947462900342	1.492237959695941	0.035	1.601
+chr20	25237982	G	C	AP2C_HUMAN,JUN_HUMAN	HepG2 (hepatoblastoma),SK-BR-3 (breast adenocarcinoma),HAEC (human aortic endothelial cells),foreskin keratinocyte	0.0	1.3431757879781308	-2.6210000000000004	1.399
+chr20	48578608	A	G	AP2C_HUMAN	MCF7 (Invasive ductal breast carcinoma),SK-BR-3 (breast adenocarcinoma)	1.4360130222020389	0.0	1.335	
+chr20	48657599	G	A	ESR1_HUMAN,AP2C_HUMAN	MCF7 (Invasive ductal breast carcinoma),SK-BR-3 (breast adenocarcinoma)	0.0	14.960654401121863	-0.747	1.24
+chr20	48697907	A	G	ESR1_HUMAN,RXRA_HUMAN,GATA3_HUMAN,AP2C_HUMAN,FOXA1_HUMAN,PKNX1_HUMAN,RARA_HUMAN,RFX5_HUMAN,ERR1_HUMAN,NFIB_HUMAN,TF65_HUMAN	MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),MDA-MB-453 (breast adenocarcinoma),SK-BR-3 (breast adenocarcinoma),liver	0.0	41.62519011920341	0.244	1.569
+chr20	50165997	G	A	CTCF_HUMAN,AP2C_HUMAN,ANDR_HUMAN,ZN189_HUMAN,KDM5C_HUMAN	HEK293T (embryonic kidney),Caki-1 (renal carcinoma),HEK293 (embryonic kidney),SK-BR-3 (breast adenocarcinoma),foreskin keratinocyte	4.378857623748086	0.10893851859900604	0.735	0.22399999999999998
+chr20	54067899	G	A	AP2C_HUMAN,FOXA1_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma),LHSAR (prostate epithelial cells),SK-BR-3 (breast adenocarcinoma),SUM159PT (pleiomorphic breast carcinoma)	2.4110456603491124	0.0	1.2329999999999999	
+chr20	57048134	C	T	ESR1_HUMAN,AP2C_HUMAN,ERR1_HUMAN	K562 (myelogenous leukemia),SK-BR-3 (breast adenocarcinoma),breast tumor tissue	1.4770377931265262	0.0	1.274	-1.073
+chr20	62366004	G	A	AP2C_HUMAN	K562 (myelogenous leukemia),SK-BR-3 (breast adenocarcinoma)	0.0	1.3979684593608317		1.604
+chr20	63498213	C	A	AP2C_HUMAN	K562 (myelogenous leukemia),SK-BR-3 (breast adenocarcinoma)	2.8928596366507473	0.0	1.801	
+chr3	10445792	T	A	AP2C_HUMAN	A375 (malignant melanoma)	0.0	2.3114478839599677	-1.584	1.6369999999999998
+chr3	39152322	A	T	AP2C_HUMAN	GM12878 (female B-cells),SK-BR-3 (breast adenocarcinoma)	1.3802562041596156	0.19537014114301535	1.295	-0.045
+chr3	124383292	C	A	AP2C_HUMAN	BT-474 (breast invasive ductal carcinoma)	1.3802562041596156	0.0	1.186	-1.131
+chr3	141940670	T	A	CTCF_HUMAN,AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma),foreskin keratinocyte	0.20511613106491758	2.7898418384698176	0.128	1.135
+chr3	143001506	G	A	CTCF_HUMAN,AP2A_HUMAN,AP2C_HUMAN,COT2_HUMAN,ELF4_HUMAN,COT1_HUMAN,NR2F6_HUMAN,STAT1_HUMAN,BC11B_HUMAN,PRDM9_HUMAN,FLI1_HUMAN	HEK293T (embryonic kidney),MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,cranial neural crest cells,HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),thymus-derived CD34+ cells	1.3600147830545848	0.07896802657070755	0.40399999999999997	0.28
+chr3	150317628	T	C	EP300_HUMAN,AP2C_HUMAN,FOXA1_HUMAN,PRGR_HUMAN,GCR_HUMAN,JUN_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),SK-BR-3 (breast adenocarcinoma)	0.0	5.646614345703047	-2.398	1.768
+chr3	194270665	T	C	ESR1_HUMAN,AP2C_HUMAN	T47D (invasive ductal carcinoma),SK-BR-3 (breast adenocarcinoma)	2.2015754599945185	0.16527180550537696	0.726	0.049
+chr3	195031012	A	G	GATA2_HUMAN,AP2A_HUMAN,AP2C_HUMAN,JUN_HUMAN	BT-474 (breast invasive ductal carcinoma),cranial neural crest cells,HUVEC (umbilical vein endothelial cells)	1.5576151599801085	0.0	0.816	-0.565
+chr3	196082245	A	C	AP2C_HUMAN,TYY1_HUMAN,MAX_HUMAN,GABPA_HUMAN,SP2_HUMAN,GLIS2_HUMAN,KMT2A_HUMAN,SNAI2_HUMAN	HEK293T (embryonic kidney),VCaP (prostate carcinoma),BT-474 (breast invasive ductal carcinoma),keratinocytes,HEK293 (embryonic kidney),hMADS-3 (adipose-derived stem cells),liver,fetal bone marrow-derived mononuclear cells,thymus-derived CD34- cells	2.37707030590325	0.0	1.535	-1.964
+chr3	196082268	G	A	AP2C_HUMAN,ZFX_HUMAN,GABPA_HUMAN,CLOCK_HUMAN	MM1.S (plasma cell myeloma),heart left ventricle	1.5609302265119145	0.0	1.063	-0.8059999999999999
+chr4	993916	A	G	ESR1_HUMAN,AP2C_HUMAN	HepG2 (hepatoblastoma),K562 (myelogenous leukemia),breast tumor tissue	0.22131719243694672	4.045030865553916	0.366	1.6769999999999998
+chr4	37999551	A	G	AP2C_HUMAN	BT-474 (breast invasive ductal carcinoma)	1.3802562041596156	0.0	1.186	-1.131
+chr4	76252146	T	C	AP2C_HUMAN	BT-474 (breast invasive ductal carcinoma)	0.0	1.492237959695941	-1.2329999999999999	1.34
+chr4	76898034	C	G	AP2C_HUMAN	BT-474 (breast invasive ductal carcinoma)	0.0	3.3211831357729937	-2.258	1.85
+chr5	757336	T	C	AP2C_HUMAN,ZNF24_HUMAN,RING2_HUMAN	BT-474 (breast invasive ductal carcinoma),HepG2 (hepatoblastoma)	1.5328720023493774	0.0	1.236	
+chr5	1565256	C	T	AP2C_HUMAN	BT-474 (breast invasive ductal carcinoma)	2.098715391208725	0.0	1.426	
+chr5	138331823	T	C	AP2C_HUMAN,FOXA1_HUMAN,ZFX_HUMAN,LMBL2_HUMAN,PRDM9_HUMAN	HEK293T (embryonic kidney),MCF7 (Invasive ductal breast carcinoma),K562 (myelogenous leukemia),ZR-75-1 (invasive ductal carcinoma)	1.6174285595884097	0.0	1.145	-0.888
+chr5	170752344	C	G	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	0.0	2.204942305726666	-2.4419999999999997	1.6780000000000002
+chr5	177005946	C	G	GATA1_HUMAN,AP2C_HUMAN,FOXK2_HUMAN,ATF7_HUMAN,HDAC1_HUMAN	CD34+ hematopoietic stem cells-derived proerythroblasts,GM12878 (female B-cells),K562 (myelogenous leukemia),lymphoblastoid cells,foreskin keratinocyte	6.307235910580494	0.08470599763919516	1.6280000000000001	-0.114
+chr5	177339546	G	A	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	1.3091404648854272	0.0	1.2229999999999999	-1.119
+chr5	178280203	C	T	RAD21_HUMAN,AP2A_HUMAN,AP2C_HUMAN	A549 (lung carcinoma),BT-474 (breast invasive ductal carcinoma),cranial neural crest cells	2.6317853862210008	0.07743189827175119	0.701	0.069
+chr5	178642707	A	G	AP2C_HUMAN,P53_HUMAN	PC3 (prostate carcinoma)	1.5328720023493774	0.0	1.12	-0.594
+chr6	7618429	G	A	CTCF_HUMAN,AP2C_HUMAN	foreskin keratinocyte	3.312543276134315	0.0	0.8220000000000001	0.156
+chr6	16683923	A	G	ESR1_HUMAN,GATA3_HUMAN,AP2C_HUMAN,IKZF1_HUMAN,STAT1_HUMAN	MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,SK-BR-3 (breast adenocarcinoma)	0.0	9.182086975559459	0.025	0.764
+chr6	28924062	G	A	AP2C_HUMAN,CREB1_HUMAN,HDAC1_HUMAN	HepG2 (hepatoblastoma),Jurkat (T-cells),K562 (myelogenous leukemia),SK-BR-3 (breast adenocarcinoma)	1.821007844562228	0.0	1.3840000000000001	
+chr6	30907887	G	T	ESR1_HUMAN,AP2C_HUMAN	HepG2 (hepatoblastoma),SK-BR-3 (breast adenocarcinoma),breast tumor tissue	1.4031385075112082	0.0	1.288	-2.6210000000000004
+chr6	33599845	T	C	AP2C_HUMAN,BCL6_HUMAN,PKNX1_HUMAN	VCaP (prostate carcinoma),MCF7 (Invasive ductal breast carcinoma),ICN12 (primary pre-B acute lymphomablastic leukemia),SK-BR-3 (breast adenocarcinoma)	1.3185091307075114	0.0	1.354	-0.993
+chr6	33988388	A	G	RAD21_HUMAN,ESR1_HUMAN,GATA3_HUMAN,AP2C_HUMAN,FOXA1_HUMAN	T47D (invasive ductal carcinoma),HepG2 (hepatoblastoma),SK-BR-3 (breast adenocarcinoma),breast tumor tissue	0.057625187926904096	1.506849410976484	-0.591	1.062
+chr6	39923625	C	T	GRHL2_HUMAN,ESR1_HUMAN,AP2C_HUMAN,ELF1_HUMAN,NFIB_HUMAN	MCF7 (Invasive ductal breast carcinoma),CWR22 (prostate carcinoma),SK-BR-3 (breast adenocarcinoma)	4.1949885833948075	0.0	0.907	0.122
+chr6	157986020	A	G	ESR1_HUMAN,AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma),breast tumor tissue	2.526082433308885	0.0	1.641	
+chr7	254542	C	G	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	0.0	1.3431757879781308		1.354
+chr7	5089157	T	C	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	1.7524480279352224	0.0	1.453	
+chr7	6613879	C	T	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	1.3802562041596156	0.0	1.3030000000000002	
+chr7	36109275	T	C	AP2C_HUMAN	BT-474 (breast invasive ductal carcinoma)	3.2710977317903627	0.0	1.6869999999999998	-1.8969999999999998
+chr7	36109351	T	C	AP2C_HUMAN	BT-474 (breast invasive ductal carcinoma)	1.4519788222328884	0.0	1.165	-0.907
+chr7	73743151	C	A	ESR1_HUMAN,AP2C_HUMAN,COT2_HUMAN,BHE40_HUMAN,IKZF1_HUMAN,IKZF2_HUMAN,MTA2_HUMAN,RAD51_HUMAN,MEF2B_HUMAN	MCF7 (Invasive ductal breast carcinoma),BT-474 (breast invasive ductal carcinoma),GM12878 (female B-cells),liver,breast tumor tissue	8.886498101383642	0.0	0.705	0.252
+chr7	80564074	T	C	ESR1_HUMAN,AP2C_HUMAN,FOXA1_HUMAN,RUNX2_HUMAN	T47D (invasive ductal carcinoma),BT-474 (breast invasive ductal carcinoma)	2.7814791269381907	0.0	0.894	0.53
+chr7	100022850	G	T	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	1.9401569908620475	0.0	1.5519999999999998	
+chr8	21616577	G	A	AP2C_HUMAN	A375 (malignant melanoma)	0.0	1.8992945169906923		1.689
+chr8	101438671	G	A	AP2C_HUMAN,ANDR_HUMAN	LNCaP (prostate carcinoma),VCaP (prostate carcinoma),LHSAR (prostate epithelial cells),SK-BR-3 (breast adenocarcinoma)	3.0332882742991365	0.10359346097805522	1.851	0.001
+chr8	101603661	T	C	AP2C_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma)	1.3307261439745508	0.10517541790752072	0.887	0.027999999999999997
+chr8	101603766	C	G	AP2C_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma)	2.010200104119125	0.0	1.115	-0.08
+chr8	102487918	G	C	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma),ZR-75-1 (invasive ductal carcinoma)	2.523019214077913	0.0	1.594	
+chr8	124856993	G	C	GRHL2_HUMAN,ESR1_HUMAN,AP2C_HUMAN,FOXA1_HUMAN,PRGR_HUMAN,GCR_HUMAN,ZFX_HUMAN,MNT_HUMAN,AHR_HUMAN,MAZ_HUMAN,ZN143_HUMAN,NFIB_HUMAN,RUNX2_HUMAN	MCF7 (Invasive ductal breast carcinoma),SK-BR-3 (breast adenocarcinoma),breast tumor tissue	0.0	1.5040235308825172	0.23399999999999999	1.176
+chr8	124857078	C	T	ESR1_HUMAN,GATA3_HUMAN,AP2C_HUMAN,MNT_HUMAN	MCF7 (Invasive ductal breast carcinoma),SK-BR-3 (breast adenocarcinoma)	27.423548656656113	0.0	1.389	-0.091
+chr8	125452146	T	C	ESR1_HUMAN,AP2C_HUMAN,PRGR_HUMAN	SK-BR-3 (breast adenocarcinoma),breast tumor tissue	2.270265061737155	0.0	0.992	0.16899999999999998
+chr8	142676182	A	T	ESR1_HUMAN,AP2C_HUMAN,ANDR_HUMAN,FOXA1_HUMAN,FLI1_HUMAN	T47D (invasive ductal carcinoma),MDA-MB-453 (breast adenocarcinoma),SK-BR-3 (breast adenocarcinoma),ZR-75-1 (invasive ductal carcinoma),HAEC (human aortic endothelial cells),A-673 clone Asp114 (Ewing sarcoma),breast tumor tissue	5.133971447308015	0.0	1.5	0.305
+chr9	83980583	G	A	CTCF_HUMAN,AP2C_HUMAN,TAF1_HUMAN,STAT1_HUMAN,PO2F2_HUMAN	CD14+ monocytes,SK-BR-3 (breast adenocarcinoma),tibial nerve	4.603208991001593	0.0	0.794	0.258
+chr9	89593312	A	G	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	1.7323021400402474	0.0	1.355	-1.206
+chr9	89686264	T	A	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	0.0	1.6133583450058342	-1.311	1.406
+chr9	89759797	C	G	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma),ZR-75-1 (invasive ductal carcinoma)	1.6390989929763724	0.0	1.304	-1.2570000000000001
+chr9	113578046	A	G	AP2C_HUMAN	GM12878 (female B-cells),SK-BR-3 (breast adenocarcinoma)	1.4360130222020389	0.0	1.227	-1.17
+chr9	121281589	C	T	AP2C_HUMAN	BT-474 (breast invasive ductal carcinoma),SK-BR-3 (breast adenocarcinoma)	2.8928596366507473	0.0	1.3230000000000002	-1.145
+chr9	125241708	G	A	AP2C_HUMAN	BT-474 (breast invasive ductal carcinoma)	1.3802562041596156	0.0	1.246	-1.504
+chr9	126690518	A	G	AP2C_HUMAN	BT-474 (breast invasive ductal carcinoma),foreskin keratinocyte	0.0	2.405182485750183	-2.197	1.607
+chr9	134413918	T	C	AP2C_HUMAN	SK-BR-3 (breast adenocarcinoma)	1.3802562041596156	0.0	1.186	-1.131
+chr9	136546393	G	A	AP2C_HUMAN,FOXK2_HUMAN	BT-474 (breast invasive ductal carcinoma),GM12878 (female B-cells)	1.5328720023493774	0.0	1.2670000000000001	-1.224
+chr9	136950052	T	C	ESR1_HUMAN,AP2C_HUMAN,PRGR_HUMAN	T47D (invasive ductal carcinoma),SK-BR-3 (breast adenocarcinoma),breast tumor tissue	0.0	1.8444049341950564	-0.21899999999999997	1.057

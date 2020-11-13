@@ -1,0 +1,10 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	NFYA_HUMAN_FDR_Ref	NFYA_HUMAN_FDR_Alt	NFYA_HUMAN_Effect_Size_Ref	NFYA_HUMAN_Effect_Size_Alt
+chr1	156193927	T	C	TAL1_HUMAN,TYY1_HUMAN,GABPA_HUMAN,SP1_HUMAN,NRF1_HUMAN,NFYB_HUMAN,NFYA_HUMAN	22RV1 (prostate carcinoma),VCaP (prostate carcinoma),K562 (myelogenous leukemia)	1.4319603100410079	0.0	0.9520000000000001	
+chr19	4471800	T	C	ELF4_HUMAN,FOXK2_HUMAN,STAT1_HUMAN,ZN335_HUMAN,NFYB_HUMAN,NFYA_HUMAN	CD14+ monocytes,HEK293 (embryonic kidney),K562 (myelogenous leukemia),liver	1.9616519192839519	0.0	1.5659999999999998	
+chr19	4472105	C	G	NCOR1_HUMAN,OVOL3_HUMAN,ENL_HUMAN,ZN366_HUMAN,NFYB_HUMAN,NFYA_HUMAN	HEK293 (embryonic kidney),K562 (myelogenous leukemia)	1.3453975162107816	0.18585256480114185	1.061	-0.141
+chr19	6737633	G	A	KLF8_HUMAN,NFYA_HUMAN	HEK293 (embryonic kidney),LoVo (colorectal adenocarcinoma)	0.0	1.787616987263036		1.7280000000000002
+chr19	41327643	C	G	TAL1_HUMAN,SKI_HUMAN,RUNX1_HUMAN,STAT1_HUMAN,ERG_HUMAN,SPI1_HUMAN,NFYA_HUMAN	CD14+ monocytes,HL-60 (acute myeloid leukemia),monocyte-derived macrophages,primary endothelial colony-forming cells,ME-1 (acute myeloid leukemia ),periferal blood macrophages,TSU-1621-MT (adult acute myeloid leukemia)	2.2736228987175933	0.0	0.888	-0.354
+chr6	32178222	C	G	SP1_HUMAN,CREB1_HUMAN,STAT1_HUMAN,SP2_HUMAN,NFYA_HUMAN	CD14+ monocytes,H1 (embryonic stem cells),LoVo (colorectal adenocarcinoma)	1.451044911857948	0.024386144888597045	0.903	0.055
+chr7	67302637	C	T	CTCF_HUMAN,VEZF1_HUMAN,NFYB_HUMAN,NFYA_HUMAN	GM12878 (female B-cells),K562 (myelogenous leukemia)	1.417473576959529	0.0	0.536	0.444
+chr8	25458711	G	T	NFYA_HUMAN	HEK293 (embryonic kidney),K562 (myelogenous leukemia),LoVo (colorectal adenocarcinoma)	2.1203856789818265	0.0	1.308	
+chr8	25458715	C	A	NFYA_HUMAN	HEK293 (embryonic kidney),K562 (myelogenous leukemia)	1.705364073434414	0.0	1.18	

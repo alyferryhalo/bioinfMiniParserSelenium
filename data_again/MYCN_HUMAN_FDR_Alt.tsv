@@ -1,0 +1,57 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	MYCN_HUMAN_FDR_Ref	MYCN_HUMAN_FDR_Alt	MYCN_HUMAN_Effect_Size_Ref	MYCN_HUMAN_Effect_Size_Alt
+chr1	1000814	A	G	BHE40_HUMAN,MYCN_HUMAN	IMR90 (lung fibroblasts),Tet21N (neuroblastoma)	1.9649473399892203	0.0	1.423	-1.7919999999999998
+chr1	1000830	C	A	MYCN_HUMAN	K562 (myelogenous leukemia),Tet21N (neuroblastoma)	0.0	2.52436605594674		1.505
+chr1	38991022	C	G	MAX_HUMAN,MYCN_HUMAN,SNAI2_HUMAN	keratinocytes,H1 (embryonic stem cells),NCI-H2171 (small cell lung carcinoma),HEK293 (embryonic kidney),Tet21N (neuroblastoma)	0.0	4.688720842273548	-1.131	1.4709999999999999
+chr1	63523233	G	A	ZFX_HUMAN,MAX_HUMAN,GABPA_HUMAN,MNT_HUMAN,E2F1_HUMAN,SIN3B_HUMAN,LMBL2_HUMAN,ZBT26_HUMAN,TFE3_HUMAN,TEAD3_HUMAN,MXI1_HUMAN,GLIS1_HUMAN,MYC_HUMAN,MYCN_HUMAN,KDM5B_HUMAN	HEK293T (embryonic kidney),LNCaP (prostate carcinoma),VCaP (prostate carcinoma),MCF7 (Invasive ductal breast carcinoma),H1 (embryonic stem cells),NCI-H2171 (small cell lung carcinoma),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),Ishikawa (endometrial adenocarcinoma),SK-N-SH (neuroblastoma),Tet21N (neuroblastoma),liver,MDA231-LM2-4175 (breast adenocarcinoma),neural cell	0.0	1.7100983371689946	0.506	0.529
+chr1	222465593	A	G	RAD21_HUMAN,CTCF_HUMAN,SMC3_HUMAN,ZFX_HUMAN,JUN_HUMAN,MAX_HUMAN,CLOCK_HUMAN,STAT1_HUMAN,MYC_HUMAN,MYCN_HUMAN	A549 (lung carcinoma),MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,GM12878 (female B-cells),HeLa Kyoto (cervical adenocarcinoma),lymphoblastoid cells,P493-6 (B-cell lymphoma),pancreas	7.265255427053121	0.0	0.951	0.153
+chr10	99906644	G	A	EP300_HUMAN,CTCF_HUMAN,MYCN_HUMAN	A549 (lung carcinoma),Tet21N (neuroblastoma),epithelial cell of prostate	0.0	2.2308545022084774	-0.848	0.956
+chr11	47408353	G	A	RAD21_HUMAN,SMC3_HUMAN,JUN_HUMAN,MAX_HUMAN,GABPA_HUMAN,MNT_HUMAN,PKNX1_HUMAN,FOXK2_HUMAN,ZBT11_HUMAN,RING2_HUMAN,ZN316_HUMAN,MYC_HUMAN,MYCN_HUMAN	786-O (renal carcinoma),A549 (lung carcinoma),HCT-116 (colon carcinoma),K562 (myelogenous leukemia),spleen,NGP (neuroblastoma),neutrophils,foreskin keratinocyte	0.05953300467836431	3.712334272660892	-0.151	0.797
+chr12	109291519	C	T	MYCN_HUMAN	NGP (neuroblastoma)	2.3082032171426423	0.0	1.78	
+chr12	121668990	C	T	MYCN_HUMAN	NGP (neuroblastoma)	0.0	1.4786061688341539		1.479
+chr12	121794022	G	A	MYCN_HUMAN	NGP (neuroblastoma)	0.0	3.147175134996788		1.9040000000000001
+chr12	122126552	C	T	MYCN_HUMAN	NGP (neuroblastoma)	1.5966461912479253	0.0	1.558	
+chr12	122126553	A	G	MYCN_HUMAN	NGP (neuroblastoma)	1.5966461912479253	0.0	1.558	
+chr12	122929802	T	C	MYCN_HUMAN	NGP (neuroblastoma)	0.0	1.6624075396309543		1.536
+chr12	122967436	A	G	MYCN_HUMAN	NGP (neuroblastoma)	0.0	1.758105875254567		1.564
+chr12	122974911	C	G	MYCN_HUMAN	NGP (neuroblastoma)	0.0	1.543906603912302	-2.7880000000000003	1.5659999999999998
+chr12	123000641	A	G	MYCN_HUMAN	NGP (neuroblastoma)	0.0	1.8282309233488465		1.59
+chr12	124940075	G	A	CTCF_HUMAN,MAX_HUMAN,MNT_HUMAN,MGAP_HUMAN,SMCA4_HUMAN,BHE40_HUMAN,FOXK2_HUMAN,LMBL2_HUMAN,TFE3_HUMAN,GLIS1_HUMAN,ZN600_HUMAN,FEZF1_HUMAN,ZN407_HUMAN,HDAC1_HUMAN,MYCN_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),Tet21N (neuroblastoma),foreskin keratinocyte	0.0	1.4323412343679789	0.027000000000000003	0.8440000000000001
+chr16	4476291	A	G	JUN_HUMAN,MAX_HUMAN,MYC_HUMAN,MYCN_HUMAN	HEK293T (embryonic kidney),NCI-H2171 (small cell lung carcinoma),HEK293 (embryonic kidney),Ishikawa (endometrial adenocarcinoma),NB4 (acute promyelocytic leukemia ),Tet21N (neuroblastoma),neutrophils	1.384575186903315	0.14054147046996554	0.644	0.049
+chr16	25258297	T	C	CTCF_HUMAN,MAX_HUMAN,GABPA_HUMAN,EGR1_HUMAN,NFE2_HUMAN,CREB1_HUMAN,HDAC2_HUMAN,ZNF24_HUMAN,GMEB1_HUMAN,CHD2_HUMAN,ZN639_HUMAN,ZN449_HUMAN,HDAC1_HUMAN,MYCN_HUMAN	A549 (lung carcinoma),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),fetal proerythroblasts,Tet21N (neuroblastoma),pancreas,upper lobe of left lung	0.0	7.122256691851325	0.24600000000000002	0.912
+chr16	88737574	C	G	RAD21_HUMAN,CTCF_HUMAN,ZIC2_HUMAN,KLF9_HUMAN,LMBL2_HUMAN,ZBT26_HUMAN,STAT1_HUMAN,ZFHX2_HUMAN,MAZ_HUMAN,PATZ1_HUMAN,TBX21_HUMAN,MYCN_HUMAN	786-O (renal carcinoma),AG04449 (fibroblasts),AG09319 (fibroblasts),AG10803 (fibroblasts),LNCaP (prostate carcinoma),bronchial epithelial cells,LNCaP C4-2B (prostate carcinoma),CD14+ monocytes,A673 (Ewing sarcoma),CD34+ stem cells-derived erythroblasts,GM13977 (female B-cells),GM19240 (B-cells),human cardiac myocytes,HCT-116 (colon carcinoma),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),HUES64 (embryonic stem cells),HUVEC (umbilical vein endothelial cells),lymphoblastoid cells,spleen,SH-SY5Y (neuroblastoma),SK-N-SH (neuroblastoma),OCI-LY7 (diffuse large B-cell lymphoma),RWPE1 (prostate epithelial cells),Tet21N (neuroblastoma),SUM159PT (pleiomorphic breast carcinoma),liver,Th1-cells,erythroid cells,pancreas,IPSC-derived bipolar neuron,heart left ventricle,Peyer's patch,bipolar neuron,esophagus squamous epithelium,ovary,right lobe of liver,medulloblastoma,uterus,epithelial cell of prostate,esophagus muscularis mucosa,thyroid gland,adrenal gland,GM23338,NB69 (neuroblastoma),HCT-116-RAD21-mAC	0.0	5.873373144286186	-0.513	1.236
+chr16	89917962	T	C	JUN_HUMAN,MAX_HUMAN,BCL3_HUMAN,KLF9_HUMAN,USF2_HUMAN,FOXK2_HUMAN,SP2_HUMAN,MYCN_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),GM12878 (female B-cells),HCT-116 (colon carcinoma),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),Ishikawa (endometrial adenocarcinoma),periferal blood macrophages,Tet21N (neuroblastoma)	0.0	3.6736254760391733	-0.29600000000000004	0.8290000000000001
+chr17	80036614	C	A	ESR1_HUMAN,MAX_HUMAN,MYC_HUMAN,MYCN_HUMAN	A549 (lung carcinoma),SK-N-SH (neuroblastoma),Tet21N (neuroblastoma),breast tumor tissue	2.13625248739549	0.0	0.99	
+chr17	82458501	C	G	SP1_HUMAN,BHE40_HUMAN,ZBT11_HUMAN,KLF11_HUMAN,MYCN_HUMAN,KMT2A_HUMAN	CD14+ monocytes,GM12878 (female B-cells),HEK293 (embryonic kidney),hMADS-3 (adipose-derived stem cells),Tet21N (neuroblastoma),liver,fetal bone marrow-derived mononuclear cells	2.070299137286091	0.0	0.9209999999999999	-0.114
+chr17	83051719	C	T	VEZF1_HUMAN,SP1_HUMAN,NRF1_HUMAN,MYCN_HUMAN	K562 (myelogenous leukemia),Tet21N (neuroblastoma),thymus-derived CD34- cells	1.411340990681663	0.0	1.508	-2.124
+chr17	83051746	C	T	ESR1_HUMAN,ANDR_HUMAN,MAX_HUMAN,STAT1_HUMAN,MYCN_HUMAN,USF1_HUMAN	CD14+ monocytes,MDA-MB-453 (breast adenocarcinoma),SK-N-SH (neuroblastoma),Tet21N (neuroblastoma),SUM159PT (pleiomorphic breast carcinoma),breast tumor tissue	2.015529417039205	0.0	1.0	
+chr17	83051760	T	G	ESR1_HUMAN,MAX_HUMAN,MYCN_HUMAN	MDA-MB-453 (breast adenocarcinoma),SK-N-SH (neuroblastoma),Tet21N (neuroblastoma),SUM159PT (pleiomorphic breast carcinoma),breast tumor tissue	1.6242660702145062	0.0	0.907	
+chr18	400739	C	A	CEBPB_HUMAN,NFE2_HUMAN,MYCN_HUMAN	K562 (myelogenous leukemia),Tet21N (neuroblastoma)	1.8515846129669968	0.0	1.281	-1.141
+chr18	400749	G	A	MYCN_HUMAN	Tet21N (neuroblastoma)	0.013369680483806672	2.52436605594674	-0.8909999999999999	1.5619999999999998
+chr18	400766	T	C	NFE2_HUMAN,MYCN_HUMAN	K562 (myelogenous leukemia),Tet21N (neuroblastoma)	0.0	1.8337285694963172	-1.0959999999999999	1.318
+chr19	3068244	G	A	MYCN_HUMAN	Kelly (neuroblastoma)	2.812720438086676	0.4905226737593843	1.858	0.794
+chr19	16584426	G	A	MYCN_HUMAN	Tet21N (neuroblastoma)	1.5966461912479253	0.0	0.958	0.12
+chr19	33374012	C	G	CEBPG_HUMAN,MYCN_HUMAN	K562 (myelogenous leukemia)	0.0	2.468450897246974		1.153
+chr2	16042240	T	G	MYCN_HUMAN	NGP (neuroblastoma)	0.0	4.438446446401598	-2.565	1.974
+chr2	16344416	G	A	MYCN_HUMAN	NB-1643 (neuroblastoma)	0.0	2.8318863975920743		1.959
+chr2	16483477	C	T	MYCN_HUMAN	NGP (neuroblastoma)	0.04970675878485122	2.52436605594674	-0.33899999999999997	1.626
+chr20	1118444	C	A	MYCN_HUMAN	Tet21N (neuroblastoma)	0.0	1.355832873775598	-0.33899999999999997	0.813
+chr3	134485999	C	G	EP300_HUMAN,ZFX_HUMAN,EGR1_HUMAN,MYCN_HUMAN,KMT2A_HUMAN,USF1_HUMAN	HCT-116 (colon carcinoma),SK-N-SH (neuroblastoma),Tet21N (neuroblastoma),fetal bone marrow-derived mononuclear cells,tibial nerve	0.0	9.598213358945397		1.9280000000000002
+chr4	37826496	C	G	MYCN_HUMAN	Tet21N (neuroblastoma)	0.0	2.040539707211055	-0.868	0.987
+chr5	77775879	G	T	ANDR_HUMAN,BHE40_HUMAN,MYCN_HUMAN	GM12878 (female B-cells),MDA-MB-453 (breast adenocarcinoma),Tet21N (neuroblastoma)	0.23153181987639224	1.6804286466280904	0.172	1.099
+chr5	82278173	C	T	MAX_HUMAN,MNT_HUMAN,LMBL2_HUMAN,DMAP1_HUMAN,MYC_HUMAN,MYCN_HUMAN	MCF7 (Invasive ductal breast carcinoma),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),Tet21N (neuroblastoma)	6.311295596955172	0.0	1.02	-0.442
+chr5	151771983	A	G	CLOCK_HUMAN,STAT1_HUMAN,MYCN_HUMAN	HEK293T (embryonic kidney),MCF7 (Invasive ductal breast carcinoma),periferal blood macrophages,Tet21N (neuroblastoma)	0.0	2.7259817245820566		1.8630000000000002
+chr6	31123168	C	T	NFIC_HUMAN,MAX_HUMAN,EGR1_HUMAN,MYCN_HUMAN,USF1_HUMAN	Ishikawa (endometrial adenocarcinoma),K562 (myelogenous leukemia),SK-N-SH (neuroblastoma),Tet21N (neuroblastoma)	6.040488440737842	0.0	0.991	-0.556
+chr6	96898025	A	G	STAT1_HUMAN,MYCN_HUMAN	A549 (lung carcinoma),CD14+ monocytes,thymus-derived CD34- cells	0.0	1.7453335756996131	-2.258	1.3869999999999998
+chr7	768365	T	C	MAX_HUMAN,GABPA_HUMAN,MITF_HUMAN,MYCN_HUMAN,FLI1_HUMAN,USF1_HUMAN	501Mel-Cl8 (melanoma),SK-N-SH (neuroblastoma),Tet21N (neuroblastoma),A-673 clone Asp114 (Ewing sarcoma)	4.271013156094251	0.0	1.298	-0.32799999999999996
+chr7	993283	G	A	MYCN_HUMAN	epidermal keratinocytes,erythroid cells,foreskin keratinocyte	0.0	2.040539707211055	-0.636	1.121
+chr7	4642073	A	G	STAT1_HUMAN,MYC_HUMAN,MYCN_HUMAN	LNCaP (prostate carcinoma),CD14+ monocytes,HepG2 (hepatoblastoma),MDA-MB-453 (breast adenocarcinoma),Tet21N (neuroblastoma)	1.927747247572159	0.0	1.3659999999999999	
+chr7	4642090	G	A	USF2_HUMAN,MYCN_HUMAN	A549 (lung carcinoma),Tet21N (neuroblastoma)	0.0	1.7468107601893332	-1.475	1.5319999999999998
+chr7	6009560	C	T	JUN_HUMAN,MYCN_HUMAN	A549 (lung carcinoma)	1.5281098911819604	0.21641474250711068	0.599	-0.021
+chr7	44607164	G	A	FOXK2_HUMAN,MYCN_HUMAN	GM12878 (female B-cells)	0.0	2.2977341064713803	-0.171	1.607
+chr7	76048186	C	T	GABPA_HUMAN,CREB1_HUMAN,MYCN_HUMAN	HepG2 (hepatoblastoma),K562 (myelogenous leukemia)	0.0	1.4125679820703978	0.18600000000000003	0.603
+chr7	150368470	G	C	MYCN_HUMAN	MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney),Tet21N (neuroblastoma)	2.3022541013002806	0.0	1.0959999999999999	0.299
+chr8	57210416	C	G	ESR1_HUMAN,MYCN_HUMAN	breast tumor tissue	3.8449543058133284	0.0	1.902	
+chr8	70669324	G	T	MAX_HUMAN,ELF1_HUMAN,BHE40_HUMAN,IKZF2_HUMAN,MYCN_HUMAN,HIF1A_HUMAN,KDM5B_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),GM12878 (female B-cells),NCI-H128 (small cell lung carcinoma),H1 (embryonic stem cells),HepG2 (hepatoblastoma),Tet21N (neuroblastoma)	0.0	5.333904892111957	0.025	1.203
+chr9	110256475	T	C	ZFX_HUMAN,STAT1_HUMAN,MYCN_HUMAN	MCF7 (Invasive ductal breast carcinoma),LNCaP C4-2B (prostate carcinoma),CD14+ monocytes,Tet21N (neuroblastoma)	1.9123891481976238	0.0	0.612	-0.306
+chr9	129910683	T	C	MAX_HUMAN,MYCN_HUMAN	HCT-116 (colon carcinoma),SK-N-SH (neuroblastoma),Tet21N (neuroblastoma)	0.0	3.244544716576128	-0.446	1.047
+chrX	21940733	A	G	MYCN_HUMAN	Tet21N (neuroblastoma)	0.0	1.4864813569033248	-1.255	1.294

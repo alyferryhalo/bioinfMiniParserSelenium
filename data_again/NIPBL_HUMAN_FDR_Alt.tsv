@@ -1,0 +1,4 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	NIPBL_HUMAN_FDR_Ref	NIPBL_HUMAN_FDR_Alt	NIPBL_HUMAN_Effect_Size_Ref	NIPBL_HUMAN_Effect_Size_Alt
+chr15	67150217	G	A	GATA2_HUMAN,P53_HUMAN,NIPBL_HUMAN	MCF7 (Invasive ductal breast carcinoma),endometrial stromal cells,HCT-116 (colon carcinoma),HT29 (colon adenocarcinoma),HCT-116-RAD21-mAC	1.3415561675399232	0.0	1.237	
+chr5	115930298	C	T	FOS_HUMAN,NIPBL_HUMAN	MCF7 (Invasive ductal breast carcinoma),HCT-116 (colon carcinoma),K562 (myelogenous leukemia),HCT-116-RAD21-mAC	2.2014337230044427	0.0	1.7719999999999998	
+chr8	26383130	A	G	CTCF_HUMAN,ATF1_HUMAN,HDAC2_HUMAN,ZN341_HUMAN,NIPBL_HUMAN	HEK293 (embryonic kidney),K562 (myelogenous leukemia),HCT-116-RAD21-mAC	0.0	1.4011300724880398	0.368	0.45899999999999996

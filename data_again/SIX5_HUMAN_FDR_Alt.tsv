@@ -1,0 +1,11 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	SIX5_HUMAN_FDR_Ref	SIX5_HUMAN_FDR_Alt	SIX5_HUMAN_Effect_Size_Ref	SIX5_HUMAN_Effect_Size_Alt
+chr10	102743702	T	A	MNT_HUMAN,TFAP4_HUMAN,ARNT_HUMAN,SIX5_HUMAN	A549 (lung carcinoma),VCaP (prostate carcinoma),GM12878 (female B-cells),HCT-116 (colon carcinoma)	1.3540016873487424	0.0	0.8540000000000001	-0.53
+chr14	80941821	A	G	SIX5_HUMAN	A549 (lung carcinoma),MDA-MB-453 (breast adenocarcinoma)	1.5038235129058113	0.0	1.315	
+chr19	3185555	G	A	ZBT40_HUMAN,GABPA_HUMAN,ELF1_HUMAN,PKNX1_HUMAN,HCFC1_HUMAN,SPI1_HUMAN,SIX5_HUMAN	VCaP (prostate carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HL-60 (acute myeloid leukemia),periferal blood macrophages,liver	3.929225249910057	0.0	0.376	-1.038
+chr19	3185565	C	T	ZBT40_HUMAN,GABPA_HUMAN,ELF1_HUMAN,PKNX1_HUMAN,HCFC1_HUMAN,FOXK2_HUMAN,THA11_HUMAN,ZN143_HUMAN,SPI1_HUMAN,SIX5_HUMAN	VCaP (prostate carcinoma),GM12878 (female B-cells),HL-60 (acute myeloid leukemia),HUES64 (embryonic stem cells),monocyte-derived dendritic cells,CD34+ hematopoietic stem progenitor cells,liver,Th2-cells	2.9099908764673184	0.0	0.312	-0.903
+chr19	44356687	C	G	SIX5_HUMAN	H1 (embryonic stem cells),neural cell	1.3629150753957684	0.0	1.085	
+chr19	53520981	T	C	KAISO_HUMAN,SP1_HUMAN,CREB1_HUMAN,HCFC1_HUMAN,E2F1_HUMAN,FOXK2_HUMAN,STAT1_HUMAN,ZN143_HUMAN,TF65_HUMAN,MTA1_HUMAN,SIX5_HUMAN	LNCaP (prostate carcinoma),CD14+ monocytes,GM12878 (female B-cells),HepG2 (hepatoblastoma),monocyte-derived macrophages,K562 (myelogenous leukemia),liver,Th1-cells,fetal bone marrow-derived mononuclear cells	1.9957835682837959	0.0	1.077	-0.45
+chr19	55304538	C	T	ZN143_HUMAN,SIX5_HUMAN	A549 (lung carcinoma),MCF7 (Invasive ductal breast carcinoma)	0.0	2.166873572715699		2.387
+chr6	10147178	C	A	ZBT40_HUMAN,HCFC1_HUMAN,ZEB2_HUMAN,AFF1_HUMAN,SIX5_HUMAN	MCF7 (Invasive ductal breast carcinoma),H1 (embryonic stem cells),K562 (myelogenous leukemia)	1.758086721876712	0.008731478755863784	1.395	-0.382
+chr7	151058086	T	G	CREB1_HUMAN,HCFC1_HUMAN,NRF1_HUMAN,ZN143_HUMAN,SIX5_HUMAN	HepG2 (hepatoblastoma),K562 (myelogenous leukemia)	2.167502118974663	0.0	0.608	-0.18100000000000002
+chr7	151058118	G	C	COT1_HUMAN,ZN143_HUMAN,SIX5_HUMAN	K562 (myelogenous leukemia)	1.3327284559323107	0.0	0.93	-0.228

@@ -1,0 +1,4 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	XBP1_HUMAN_FDR_Ref	XBP1_HUMAN_FDR_Alt	XBP1_HUMAN_Effect_Size_Ref	XBP1_HUMAN_Effect_Size_Alt
+chr7	1160276	A	G	EP300_HUMAN,EGR1_HUMAN,BC11B_HUMAN,HDAC1_HUMAN,XBP1_HUMAN	A549 (lung carcinoma),K562 (myelogenous leukemia),MDA-MB-231 (breast adenocarcinoma),monocyte-derived dendritic cells,thymus-derived CD34- cells,upper lobe of left lung,foreskin keratinocyte	1.3449959735277792	0.0	1.2209999999999999	0.013999999999999999
+chr7	54759137	G	C	RFOX2_HUMAN,XBP1_HUMAN	K562 (myelogenous leukemia)	1.3755743766181312	0.0	1.4980000000000002	-1.964
+chr7	149028608	C	T	ESR1_HUMAN,MAX_HUMAN,GABPA_HUMAN,CREB1_HUMAN,XBP1_HUMAN	LNCaP (prostate carcinoma),HCT-116 (colon carcinoma),breast tumor tissue	2.0893289754046505	0.0	1.0590000000000002	

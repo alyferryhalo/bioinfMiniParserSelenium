@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	ZN621_HUMAN_FDR_Ref	ZN621_HUMAN_FDR_Alt	ZN621_HUMAN_Effect_Size_Ref	ZN621_HUMAN_Effect_Size_Alt
+chr12	580934	C	T	ZN621_HUMAN	MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney)	1.3269658400843098	0.0	1.771	

@@ -1,0 +1,380 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	HIF1A_HUMAN_FDR_Ref	HIF1A_HUMAN_FDR_Alt	HIF1A_HUMAN_Effect_Size_Ref	HIF1A_HUMAN_Effect_Size_Alt
+chr1	114511320	T	G	STAT1_HUMAN,NRF1_HUMAN,RB_HUMAN,HIF1A_HUMAN	MCF7 (Invasive ductal breast carcinoma),CD14+ monocytes,GM12878 (female B-cells),HCC1954 (ductal breast carcinoma),K562 (myelogenous leukemia),SUM159PT (pleiomorphic breast carcinoma)	3.259827034896379	0.0	1.351	
+chr1	146037054	T	A	CLOCK_HUMAN,ZN335_HUMAN,HIF1A_HUMAN	A549 (lung carcinoma),MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney)	0.0	1.5470344418803006	-1.247	1.4869999999999999
+chr1	156212919	T	C	PKNX1_HUMAN,FOXK2_HUMAN,KLF11_HUMAN,NRF1_HUMAN,HDAC1_HUMAN,HIF1A_HUMAN	GM12878 (female B-cells),hMADS-3 (adipose-derived stem cells),K562 (myelogenous leukemia)	2.2339003160072353	0.0	0.174	
+chr1	161073945	A	C	RAD21_HUMAN,CTCF_HUMAN,MNT_HUMAN,TEAD3_HUMAN,SNAI2_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),keratinocytes,HepG2 (hepatoblastoma),normal epidermal keratinocytes,foreskin keratinocyte	0.0	2.3242752538456553	-1.409	1.35
+chr1	161259010	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma),HEK293 (embryonic kidney)	0.0	1.5089100696092146	-2.079	1.585
+chr1	161726992	G	C	HDAC1_HUMAN,HIF1A_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),K562 (myelogenous leukemia)	0.004040441892982433	1.4062167195784587	-0.5479999999999999	1.103
+chr1	161727208	C	G	HIF1A_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),K562 (myelogenous leukemia)	2.9816249820796186	0.0	1.672	
+chr1	197621060	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	2.2061739220934826		1.527
+chr1	202812036	G	A	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	2.5141193612076096	0.0	1.7269999999999999	
+chr1	203327675	G	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.3128692057670313	-1.2690000000000001	1.3159999999999998
+chr1	205749506	T	G	HIF1A_HUMAN,KDM5B_HUMAN	T47D (invasive ductal carcinoma)	1.6729364427064344	0.0	1.557	
+chr1	212284975	G	T	BHE40_HUMAN,HIF1A_HUMAN	GM12878 (female B-cells),HepG2 (hepatoblastoma)	0.0	9.013918862313739		0.986
+chr1	215475165	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.7301427924295116	0.0	1.393	-1.276
+chr10	436738	T	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.1899127224908197	0.0	1.421	-1.629
+chr10	491074	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.3162206066545223	-1.2770000000000001	1.127
+chr10	3047123	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	2.835458286096926	-1.774	1.5919999999999999
+chr10	3047171	A	G	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.8621231119720862	-1.4380000000000002	1.29
+chr10	3126947	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	2.9294274515557874	-2.148	1.661
+chr10	4704321	C	A	HIF1A_HUMAN,SPI1_HUMAN	T47D (invasive ductal carcinoma),HT29 (colon adenocarcinoma),periferal blood macrophages	0.0	1.3952387215241056	-1.204	1.305
+chr10	12603138	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.8881060357541217	0.0	1.389	-1.625
+chr10	16425663	C	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.3684962897886	-1.27	1.12
+chr10	37650924	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.5278184464128999	0.0	1.226	-1.422
+chr10	42475941	T	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.4829519772105697	0.0	1.071	-1.288
+chr10	45727276	C	G	ESR1_HUMAN,NFIC_HUMAN,AP2A_HUMAN,MAX_HUMAN,NFE2_HUMAN,KDM5A_HUMAN,ELF1_HUMAN,USF2_HUMAN,STAT1_HUMAN,HIF1A_HUMAN,KDM5B_HUMAN,USF1_HUMAN	T47D (invasive ductal carcinoma),CD14+ monocytes,cranial neural crest cells,GM12878 (female B-cells),H1 (embryonic stem cells),HeLa S3 (cervical adenocarcinoma),IMR90 (lung fibroblasts),K562 (myelogenous leukemia),NB4 (acute promyelocytic leukemia ),fetal proerythroblasts,breast tumor tissue	1.895709586755349	0.0	1.508	-2.175
+chr10	49762383	G	A	REST_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN,USF1_HUMAN	T47D (invasive ductal carcinoma),HCT-116 (colon carcinoma)	0.0	4.901311126602316	0.175	0.97
+chr10	51035549	T	C	GRHL2_HUMAN,SMCE1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma)	4.560661511167197	0.0	1.916	
+chr10	58069074	T	C	ESR1_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	5.120994783594619	0.0	2.016	
+chr10	58086358	A	G	ESR1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.051970157542147	0.0	1.423	-1.306
+chr10	58087000	T	C	ESR1_HUMAN,ANDR_HUMAN,FOXA1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),MDA-MB-453 (breast adenocarcinoma)	3.388970963900737	0.0	1.588	-0.498
+chr10	68901300	G	T	AP2A_HUMAN,OTX2_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),HUES64 (embryonic stem cells)	1.587010287591833	0.0	1.325	-0.958
+chr10	77859644	A	G	ESR1_HUMAN,GATA3_HUMAN,FOXA1_HUMAN,PRGR_HUMAN,HIF1A_HUMAN	LNCaP (prostate carcinoma),T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma)	3.9418080006787193	0.0	1.0590000000000002	-0.336
+chr10	77859765	T	C	FOXA1_HUMAN,HIF1A_HUMAN	LNCaP (prostate carcinoma),T47D (invasive ductal carcinoma)	6.508478840277033	0.0	1.16	-0.023
+chr10	77894141	C	T	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	3.7523426653621756	0.0	1.716	-1.9509999999999998
+chr10	79094319	C	T	ESR1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),K562 (myelogenous leukemia),MDA-MB-453 (breast adenocarcinoma)	2.697438545704275	0.0	1.149	0.599
+chr10	80444824	G	A	RAD21_HUMAN,CTCF_HUMAN,FOXK2_HUMAN,STAT1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),CD14+ monocytes,GM12878 (female B-cells),H1 (embryonic stem cells),HCT-116 (colon carcinoma),Jurkat (T-cells),MCF10A (breast epithelial cells),spleen,esophagus squamous epithelium,testis,gastroesophageal sphincter,stomach,transverse colon,epithelial cell of prostate,sigmoid colon,HCT-116-RAD21-mAC	6.708683965790839	0.0	1.358	-0.408
+chr10	86100824	C	A	CTCF_HUMAN,HIF1A_HUMAN	VCaP (prostate carcinoma),T47D (invasive ductal carcinoma)	1.474717776071858	0.0	1.121	0.20199999999999999
+chr10	86400240	G	A	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	0.0	5.196062283697063		1.804
+chr10	86959004	T	G	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	1.7301427924295116	0.0	1.318	-1.526
+chr10	100346448	G	C	EP300_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.415848466576467	-0.528	1.035
+chr10	100346541	G	C	EP300_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),R3/R4 erythroid cells	0.0	3.0501248863577324	-0.9009999999999999	1.172
+chr10	101566890	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma),GM12878 (female B-cells)	4.266353575501093	0.0	1.859	-2.464
+chr11	24560156	A	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.7301427924295116	0.0	1.237	-1.163
+chr11	33039223	T	C	JUN_HUMAN,TYY1_HUMAN,NFRKB_HUMAN,PKNX1_HUMAN,LMBL2_HUMAN,HIF1A_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),T47D (invasive ductal carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),Ishikawa (endometrial adenocarcinoma),lymphoblastoid cells,liver	2.0935287929024065	0.0	1.196	-0.879
+chr11	33039858	G	C	ZFX_HUMAN,JUN_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),T47D (invasive ductal carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney)	0.0	1.3927940028835952	-0.102	0.804
+chr11	47143555	G	A	AP2C_HUMAN,FOXA1_HUMAN,PRGR_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),MDA-MB-453 (breast adenocarcinoma),SK-BR-3 (breast adenocarcinoma)	2.7144598839695293	0.0	1.646	
+chr11	47243643	G	C	ESR1_HUMAN,FOXA1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),breast tumor tissue	6.77512700952943	0.0	0.67	0.027000000000000003
+chr11	57712260	G	C	GABPA_HUMAN,CREB1_HUMAN,MYB_HUMAN,THA11_HUMAN,KLF11_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),HepG2 (hepatoblastoma),hMADS-3 (adipose-derived stem cells),Jurkat (T-cells),liver	11.649831100331586	0.0	1.423	-0.3
+chr11	61815236	T	C	CTCF_HUMAN,NRF1_HUMAN,SRBP1_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma)	0.4576869176186428	2.015909226765913	0.513	1.306
+chr11	62426628	C	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.3866324110562762	0.0	1.1320000000000001	-0.987
+chr11	62542315	T	C	FOXA1_HUMAN,SNAI2_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),keratinocytes,GM12878 (female B-cells)	0.0	1.9679219645381134	-0.133	0.6829999999999999
+chr11	62672097	G	A	HDAC2_HUMAN,MNT_HUMAN,NR2C1_HUMAN,SMCA4_HUMAN,GABP1_HUMAN,HDAC1_HUMAN,HIF1A_HUMAN	CD14+ monocytes,GM12878 (female B-cells),K562 (myelogenous leukemia)	0.0	1.43393223603882	-0.736	1.268
+chr11	62787587	G	A	RFOX2_HUMAN,JUN_HUMAN,BCL3_HUMAN,CTBP1_HUMAN,ATF3_HUMAN,FOXK2_HUMAN,LMBL2_HUMAN,ZEB2_HUMAN,SCRT2_HUMAN,HIF1A_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),T47D (invasive ductal carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),K562 (myelogenous leukemia),SEM (childhood B acute lymphoblastic leukemia),Peyer's patch,foreskin keratinocyte	1.9428045079671648	0.0	1.284	-0.5770000000000001
+chr11	62787614	C	T	RFOX2_HUMAN,JUN_HUMAN,BCL3_HUMAN,CTBP1_HUMAN,FOXK2_HUMAN,SCRT2_HUMAN,HIF1A_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),T47D (invasive ductal carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),K562 (myelogenous leukemia),foreskin keratinocyte	1.3038557680589424	0.0	1.06	-0.64
+chr11	66052190	C	A	JUN_HUMAN,GABPA_HUMAN,CREB1_HUMAN,NRF1_HUMAN,ZN143_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN,KDM5B_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),LNCaP (prostate carcinoma),VCaP (prostate carcinoma),T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),HepG2 (hepatoblastoma),MDA-MB-453 (breast adenocarcinoma),acute leukemia	1.3604628826037153	0.198081261151725	0.604	-0.047
+chr11	66312931	C	T	GATA1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),CD34+ hematopoietic stem cells-derived proerythroblasts	6.886676117445202	0.0	1.7	-0.7340000000000001
+chr11	71144233	T	C	NRF1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),K562 (myelogenous leukemia)	3.894870509920031	0.0	1.4469999999999998	-0.6709999999999999
+chr11	76807556	G	C	STAT1_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),CD14+ monocytes	2.9046945482591755	0.0	1.653	
+chr11	77035642	C	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	2.544195838458815	-1.369	1.244
+chr11	77036581	A	T	ANDR_HUMAN,FOXA1_HUMAN,FOXA2_HUMAN,TEAD1_HUMAN,NR2F6_HUMAN,FOXA3_HUMAN,SMAD4_HUMAN,TEAD3_HUMAN,FOXP1_HUMAN,RING2_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	VCaP (prostate carcinoma),T47D (invasive ductal carcinoma),HepG2 (hepatoblastoma)	3.6262033516058496	0.0	0.6659999999999999	0.08
+chr11	77046154	C	T	RAD21_HUMAN,CTCF_HUMAN,SMC3_HUMAN,PRDM9_HUMAN,SNAI2_HUMAN,HIF1A_HUMAN	22RV1 (prostate carcinoma),HEK293T (embryonic kidney),786-O (renal carcinoma),A549 (lung carcinoma),T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),keratinocytes,H1 (embryonic stem cells),mammary epithelial cells,epidermal keratinocytes,K562 (myelogenous leukemia),SK-N-SH (neuroblastoma),liver,erythroid progenitors,hepatocytes,pancreas,epithelial cell of prostate	0.28940242277247147	3.593795308529944	0.584	0.52
+chr11	82682672	A	G	CTCF_HUMAN,HIF1A_HUMAN,KDM5B_HUMAN	T47D (invasive ductal carcinoma),PC9 (lung adenocarcinoma)	0.0	3.0502587749070496	0.17800000000000002	1.214
+chr11	94867474	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	2.33885265420771		1.399
+chr11	95089774	G	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	4.726887996719464	0.0	1.829	-2.1919999999999997
+chr11	96122499	T	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.7301427924295116	0.0	1.215	-1.2329999999999999
+chr11	118148052	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	3.7298234596069166	0.0	1.811	
+chr11	118928048	C	T	CTCF_HUMAN,JUN_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),foreskin keratinocyte	1.593897449003781	0.2803053309108705	0.426	0.29100000000000004
+chr11	118928071	G	C	CTCF_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),foreskin keratinocyte	2.762263055796719	0.8599416643735176	0.462	0.475
+chr11	119206293	C	T	AP2A_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),cranial neural crest cells	1.819064680864447	0.0	1.375	-1.0759999999999998
+chr11	119417909	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma),coronary artery smooth muscle	0.0	2.946001830881558		1.689
+chr11	121258043	A	G	ESR1_HUMAN,FOXA1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	2.237750856066197	1.419	0.892
+chr11	125083222	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma),MDA231-LM2-4175 (breast adenocarcinoma)	1.945558028487424	0.0	1.4169999999999998	
+chr11	125591814	A	G	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),GM12878 (female B-cells)	0.0	2.9294274515557874		1.819
+chr11	125591892	A	G	STAT1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),CD14+ monocytes,GM12878 (female B-cells)	0.0	1.7425875652677543		1.4180000000000001
+chr11	125591893	C	T	STAT1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),CD14+ monocytes,GM12878 (female B-cells)	0.0	1.7425875652677543		1.4180000000000001
+chr11	128583115	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma),HEK293 (embryonic kidney)	3.0042809323253206	0.0	1.744	
+chr11	129723825	C	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.823365744387353		1.4340000000000002
+chr11	133836010	C	T	ERG_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.3124097739594818	0.0	0.772	-0.41700000000000004
+chr11	133927751	A	C	HIF1A_HUMAN	BCBL-1 (B-cell lymphoma),T47D (invasive ductal carcinoma),GM12878 (female B-cells),lymphoblastoid cells	1.4424995822032458	0.0	1.462	-2.037
+chr12	12725415	G	C	AP2A_HUMAN,FOXK2_HUMAN,HIF1A_HUMAN	U2OS (osteosarcoma),MCF7 (Invasive ductal breast carcinoma),HepG2 (hepatoblastoma),breast tumor tissue	1.386878376050488	0.0	1.105	-1.02
+chr12	29381276	C	A	CLOCK_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),K562 (myelogenous leukemia)	0.0	2.2538239011954118		1.743
+chr12	33322651	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.3050788838200846	0.0	1.4909999999999999	-1.749
+chr12	42144728	C	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma),K562 (myelogenous leukemia),MDA-MB-453 (breast adenocarcinoma),periferal blood macrophages	2.415398736624671	0.0	1.525	-1.814
+chr12	52176144	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney)	1.6729364427064344	0.0	1.321	-1.168
+chr12	52203352	G	C	ESR1_HUMAN,FOXA1_HUMAN,CREB1_HUMAN,MNT_HUMAN,CEBPG_HUMAN,MYC_HUMAN,HIF1A_HUMAN,SPI1_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),K562 (myelogenous leukemia)	30.16392619363246	0.0	0.953	0.316
+chr12	52970449	G	A	GLIS1_HUMAN,FEZF1_HUMAN,HIF1A_HUMAN	HEK293 (embryonic kidney)	2.713608312404353	0.0	1.758	
+chr12	52970495	A	C	AP2C_HUMAN,GLIS1_HUMAN,ZXDB_HUMAN,HIF1A_HUMAN	HEK293 (embryonic kidney),SK-BR-3 (breast adenocarcinoma)	1.9401569908620475	0.0	1.4169999999999998	
+chr12	53180847	A	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	2.33885265420771	-1.5759999999999998	1.4280000000000002
+chr12	53299619	C	G	CTCF_HUMAN,GABPA_HUMAN,FOXK2_HUMAN,FEZF1_HUMAN,HIF1A_HUMAN	HEK293T (embryonic kidney),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),K562 (myelogenous leukemia),pancreas	0.02596172280134693	2.5254102699435745	0.076	0.513
+chr12	57591140	C	G	SIN3A_HUMAN,EGR1_HUMAN,REST_HUMAN,ATF1_HUMAN,CTBP1_HUMAN,GMEB1_HUMAN,ATF3_HUMAN,RAD51_HUMAN,SP130_HUMAN,GABP1_HUMAN,RING2_HUMAN,NRF1_HUMAN,MITF_HUMAN,MTG8R_HUMAN,HDAC1_HUMAN,SNAI2_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),keratinocytes,HepG2 (hepatoblastoma),K562 (myelogenous leukemia)	2.3952965654429814	0.0	1.67	-1.959
+chr12	59596288	C	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.8881060357541217	0.0	1.354	
+chr12	92620973	G	A	GATA3_HUMAN,FOXA1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.4031051581460234	0.0	1.4380000000000002	-1.463
+chr12	95178251	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	5.378848111094492	0.0	1.859	
+chr12	103841245	A	C	HIF1A_HUMAN	CWR22 (prostate carcinoma),K562 (myelogenous leukemia),liver	1.9286830538490831	0.0	1.109	-1.329
+chr12	105444283	G	A	FOXA1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma)	5.622054810330514	0.0	1.929	
+chr12	106195880	C	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma),HepG2 (hepatoblastoma)	0.0	3.629967089735366	-2.266	1.7790000000000001
+chr12	106866858	T	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.8420181249487424	0.0	1.611	-1.899
+chr12	108562581	C	T	TF65_HUMAN,KMT2A_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney),fetal bone marrow-derived mononuclear cells,upper lobe of left lung	1.7811869537151823	0.0	1.2670000000000001	-1.224
+chr12	115956819	T	G	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.823365744387353	-1.314	1.155
+chr12	117969200	A	G	ESR1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),breast tumor tissue	2.7374935623577574	0.0	1.653	
+chr12	120291911	T	C	FOXA1_HUMAN,GCR_HUMAN,ATF1_HUMAN,CREB1_HUMAN,MNT_HUMAN,CLOCK_HUMAN,ZBT8A_HUMAN,FOXK2_HUMAN,BCLF1_HUMAN,GATA4_HUMAN,RING2_HUMAN,NRF1_HUMAN,CEBPD_HUMAN,HIF1A_HUMAN,PML_HUMAN	HEK293T (embryonic kidney),T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia)	1.3675410937210903	0.0	0.47700000000000004	-0.05
+chr12	124519159	G	A	EP300_HUMAN,ANDR_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),MDA-MB-453 (breast adenocarcinoma),tibial nerve	1.7094498652128536	0.0	1.5759999999999998	0.469
+chr12	124838449	G	C	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),HepG2 (hepatoblastoma),MDA-MB-453 (breast adenocarcinoma)	1.4861618093366153	0.0	0.963	-1.1909999999999998
+chr12	124940075	G	A	CTCF_HUMAN,MAX_HUMAN,MNT_HUMAN,MGAP_HUMAN,SMCA4_HUMAN,BHE40_HUMAN,FOXK2_HUMAN,LMBL2_HUMAN,TFE3_HUMAN,GLIS1_HUMAN,ZN600_HUMAN,FEZF1_HUMAN,ZN407_HUMAN,HDAC1_HUMAN,MYCN_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),Tet21N (neuroblastoma),foreskin keratinocyte	0.0	1.4323412343679789	0.027000000000000003	0.8440000000000001
+chr12	125983403	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.659166408194969	0.0	1.2790000000000001	-1.483
+chr12	125983424	C	A	ESR1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),breast tumor tissue	2.2788122576343177	0.0	1.575	
+chr12	125983459	A	C	ESR1_HUMAN,BHE40_HUMAN,IKZF1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),GM12878 (female B-cells),breast tumor tissue	1.7081845585003852	0.0	1.402	-2.735
+chr12	130818832	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.6695343334409725	0.0	1.3319999999999999	-1.101
+chr12	132434067	T	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.4707678153707475	0.0	1.194	
+chr14	50396842	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.6661720675007214	0.0	1.515	-1.723
+chr14	64842144	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.1027985701551417	0.0	1.456	-1.745
+chr14	68669440	C	T	GRHL2_HUMAN,FOXA1_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.3743542631365058	-1.135	0.976
+chr14	76918723	C	T	HIF1A_HUMAN	breast tumor tissue	1.4707678153707475	0.0	1.274	-1.531
+chr14	90079160	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.398821888442188	0.0	1.528	-1.8969999999999998
+chr14	94146159	T	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.138208373881856	0.0	1.442	-1.389
+chr14	94174270	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.148440129773234	0.0	1.426	
+chr14	94174282	T	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.463855613482181	0.0	1.537	-2.043
+chr14	95741453	G	T	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	2.9122439336622357	0.0	1.4769999999999999	-1.6740000000000002
+chr14	98382859	T	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.6729364427064344	0.0	1.041	-1.258
+chr14	99564871	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.3128692057670313	-1.5630000000000002	1.305
+chr14	100376441	T	C	GABPA_HUMAN,CLOCK_HUMAN,RFX1_HUMAN,FOXK2_HUMAN,ZN341_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	HEK293T (embryonic kidney),T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney)	2.166348941203165	0.0	0.605	0.248
+chr14	105182478	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.7647678731632506	0.0	1.355	-1.206
+chr14	105182564	T	C	ESR1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma)	4.847507426252238	0.0	1.26	0.201
+chr15	22257629	C	T	HIF1A_HUMAN,KDM5B_HUMAN	T47D (invasive ductal carcinoma)	2.2759811735153326	0.0	1.5859999999999999	-1.3719999999999999
+chr15	40161106	A	G	CTCF_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),GM12878 (female B-cells)	0.0	2.5668607219573323	-0.268	0.688
+chr15	45347273	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.3825453795324527	0.0	1.3459999999999999	-1.0490000000000002
+chr15	57541330	G	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	2.08512220509757	-1.368	1.611
+chr15	64989853	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.4238898616233526	0.0	1.7180000000000002	
+chr15	65377317	C	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma)	1.4707678153707475	0.0	1.2409999999999999	
+chr15	71654283	G	A	FOXA1_HUMAN,HIF1A_HUMAN	VCaP (prostate carcinoma),T47D (invasive ductal carcinoma)	4.228801669131368	0.0	0.8370000000000001	-0.218
+chr15	74203033	A	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.5841487798095504	-2.145	1.568
+chr15	75639788	G	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),K562 (myelogenous leukemia)	0.0	2.5206172925261634		1.778
+chr15	90104814	C	A	ESR1_HUMAN,GATA3_HUMAN,ELF1_HUMAN,CTBP1_HUMAN,REQU_HUMAN,ERR1_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),SK-BR-3 (breast adenocarcinoma)	1.5958063404304386	0.0	0.856	-0.46399999999999997
+chr15	90249465	G	C	ESR1_HUMAN,NFIC_HUMAN,SP1_HUMAN,KLF9_HUMAN,RFX1_HUMAN,NFYC_HUMAN,FEZF1_HUMAN,ZXDB_HUMAN,SP2_HUMAN,GLIS2_HUMAN,HIF1A_HUMAN	HEK293T (embryonic kidney),T47D (invasive ductal carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),breast tumor tissue	2.281915829870772	0.0	1.5	-0.405
+chr15	96395916	G	A	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),K562 (myelogenous leukemia)	3.39380902445256	0.0	1.874	
+chr15	96395930	C	T	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),K562 (myelogenous leukemia)	2.371985085670609	0.0	1.7009999999999998	
+chr15	96868171	C	T	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	3.0938802812619413	0.0	1.764	
+chr15	99486429	T	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.200247965148119	0.0	1.659	
+chr15	99486430	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.1373408468313104	0.0	1.646	
+chr16	77578	G	C	ESR1_HUMAN,MNT_HUMAN,LMBL2_HUMAN,GABP1_HUMAN,NRF1_HUMAN,HDAC1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),GM12878 (female B-cells),K562 (myelogenous leukemia)	0.0	1.339550278117269	-2.169	1.001
+chr16	636337	G	A	MAX_HUMAN,STAT1_HUMAN,BC11B_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),CD14+ monocytes,P493-6 (B-cell lymphoma),thymus-derived CD34- cells	1.661432963753295	0.0	0.731	-0.436
+chr16	1244821	A	G	ZBT7A_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),226LDM (normal breast luminal cells)	2.103609033906727	0.0	1.151	-1.274
+chr16	1299658	T	G	ESR1_HUMAN,ATF1_HUMAN,CREB1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),HepG2 (hepatoblastoma)	1.315695099255127	0.0	0.434	-0.124
+chr16	1827493	T	C	ZFX_HUMAN,FOXK2_HUMAN,STAT1_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),CD14+ monocytes,GM12878 (female B-cells),MDA-MB-453 (breast adenocarcinoma)	0.0	1.3465968703861575	-0.429	0.87
+chr16	1855762	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.7081437747174546	-1.3980000000000001	1.445
+chr16	1959571	G	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.4707678153707475	0.0	1.4980000000000002	-1.964
+chr16	3158913	T	C	VEZF1_HUMAN,CREB1_HUMAN,KDM1A_HUMAN,MNT_HUMAN,ZSC29_HUMAN,ZN316_HUMAN,HDAC1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),K562 (myelogenous leukemia)	2.32858684228258	0.0	1.774	
+chr16	3500977	C	G	SKI_HUMAN,HIF1A_HUMAN,KDM5B_HUMAN	HEK293T (embryonic kidney),T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney),K562 (myelogenous leukemia)	0.0	1.6936552920093395	-0.767	0.852
+chr16	4958789	G	A	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	0.0	2.835458286096926	-2.576	1.7269999999999999
+chr16	14364852	A	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.5584770204708498	0.0	1.328	-1.227
+chr16	17633362	A	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma),foreskin keratinocyte	0.0	1.8073389395185495		1.66
+chr16	21159796	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	3.46289695880364	0.0	1.882	
+chr16	25067017	G	C	ESR1_HUMAN,ELF1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),GM12878 (female B-cells),breast tumor tissue	2.474037949885852	0.0	1.5830000000000002	-0.20800000000000002
+chr16	30183519	A	G	PRDM9_HUMAN,HIF1A_HUMAN	HEK293T (embryonic kidney),T47D (invasive ductal carcinoma),Th1-cells	0.1675524708531422	1.4499554764008868	-0.40700000000000003	1.597
+chr17	15699586	T	G	KAISO_HUMAN,HCFC1_HUMAN,BRCA1_HUMAN,CHD2_HUMAN,GABP1_HUMAN,ZN143_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),GM12878 (female B-cells),HCT-116 (colon carcinoma),HeLa S3 (cervical adenocarcinoma),HepG2 (hepatoblastoma)	3.2034640515306325	0.0	1.329	-1.253
+chr17	18314850	A	C	STAT1_HUMAN,HIF1A_HUMAN	CD14+ monocytes	1.4516054585935398	0.29907896338220225	1.124	0.501
+chr17	18781174	A	G	ZBT40_HUMAN,GABPA_HUMAN,CREB1_HUMAN,ELF1_HUMAN,BHE40_HUMAN,IKZF1_HUMAN,STAT1_HUMAN,ZN143_HUMAN,HIF1A_HUMAN	LNCaP (prostate carcinoma),T47D (invasive ductal carcinoma),CD14+ monocytes,GM12878 (female B-cells),spleen,liver	11.922439451420741	0.0	0.9359999999999999	
+chr17	31500387	G	A	EGR1_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),K562 (myelogenous leukemia)	0.0	1.832717337402228		1.0759999999999998
+chr17	31549918	C	G	CTCF_HUMAN,JUN_HUMAN,BCL3_HUMAN,ZBT8A_HUMAN,SNAI2_HUMAN,HIF1A_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),keratinocytes,GM12878 (female B-cells),HEK293 (embryonic kidney),macrophages	0.06844935904614333	1.6157000376936164	0.278	0.43799999999999994
+chr17	31655119	A	G	ESR1_HUMAN,AP2C_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),SK-BR-3 (breast adenocarcinoma),breast tumor tissue	2.362484959793175	0.0	0.7020000000000001	0.991
+chr17	35142399	G	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.70323295841839	0.0	1.712	-2.506
+chr17	37490169	T	C	CTCF_HUMAN,GLIS1_HUMAN,HIF1A_HUMAN	VCaP (prostate carcinoma),GM12878 (female B-cells),K562 (myelogenous leukemia)	1.7635059505030066	0.0	0.642	0.23600000000000002
+chr17	38608765	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	5.1588372857228455		2.026
+chr17	45584662	A	G	ZBT40_HUMAN,EGR1_HUMAN,HDAC2_HUMAN,KDM1A_HUMAN,MNT_HUMAN,ZBT8A_HUMAN,ILF3_HUMAN,EP400_HUMAN,ZBT26_HUMAN,MXI1_HUMAN,RB_HUMAN,ARI1B_HUMAN,HDAC1_HUMAN,KMT2A_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN,TFE2_HUMAN	T47D (invasive ductal carcinoma),LNCaP C4-2B (prostate carcinoma),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),ICN12 (primary pre-B acute lymphomablastic leukemia),fetal bone marrow-derived mononuclear cells,neural cell	0.0	1.4477885962793513	-0.703	1.081
+chr17	47100410	A	T	CTCF_HUMAN,ZFX_HUMAN,GABPA_HUMAN,CREB1_HUMAN,ELF1_HUMAN,PKNX1_HUMAN,FOXK2_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HepG2 (hepatoblastoma),prostate gland	1.5350578191958615	0.0	0.537	0.073
+chr17	47530960	A	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.727100915533074	0.0	1.62	
+chr17	48830996	A	T	NR2C1_HUMAN,NRF1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),GM12878 (female B-cells),K562 (myelogenous leukemia),MDA-MB-453 (breast adenocarcinoma)	0.0	1.3563188162808633	-0.01	1.209
+chr17	49995062	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),foreskin keratinocyte	1.6763929001140028	0.0	1.508	-2.175
+chr17	50866574	C	T	AP2A_HUMAN,JUN_HUMAN,FOXK2_HUMAN,STAT1_HUMAN,HIF1A_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),CD14+ monocytes,cranial neural crest cells,HCT-116 (colon carcinoma),breast tumor tissue,tibial artery	0.0	1.7069193643774245	-1.251	1.564
+chr17	62804983	G	T	ESR1_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	28.647160531758992	0.0	1.9609999999999999	0.449
+chr17	62805040	A	G	ESR1_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	6.2971596241051895	0.0	1.544	0.532
+chr17	73288585	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma),K562 (myelogenous leukemia)	3.037617984217667	0.0	1.795	
+chr17	73288920	C	T	EP300_HUMAN,CREB1_HUMAN,HTF4_HUMAN,CREM_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),sigmoid colon,tibial nerve	3.1369414730586085	0.0	0.929	-0.239
+chr17	74514446	A	G	CTCF_HUMAN,REST_HUMAN,ATF1_HUMAN,MNT_HUMAN,ELF1_HUMAN,ATF3_HUMAN,EMSY_HUMAN,ZN318_HUMAN,ATF2_HUMAN,FOXK2_HUMAN,Z354B_HUMAN,ZEB2_HUMAN,ATF7_HUMAN,HDAC1_HUMAN,TIF1A_HUMAN,AFF1_HUMAN,HIF1A_HUMAN,USF1_HUMAN	U2OS (osteosarcoma),Ishikawa (endometrial adenocarcinoma),K562 (myelogenous leukemia),gastrocnemius medialis	3.243072567154414	0.0	1.4969999999999999	-1.361
+chr17	74514468	A	G	CTCF_HUMAN,REST_HUMAN,ATF1_HUMAN,MNT_HUMAN,ATF3_HUMAN,EMSY_HUMAN,ZN318_HUMAN,ATF2_HUMAN,FOXK2_HUMAN,Z354B_HUMAN,ZEB2_HUMAN,ATF7_HUMAN,ETV1_HUMAN,TIF1A_HUMAN,AFF1_HUMAN,HIF1A_HUMAN	U2OS (osteosarcoma),K562 (myelogenous leukemia),gastrocnemius medialis	3.243683425465434	0.0	1.4880000000000002	-1.274
+chr17	74514645	A	G	USF2_HUMAN,HIF1A_HUMAN	U2OS (osteosarcoma),GM12878 (female B-cells)	2.314677965287078	0.0	1.413	-1.587
+chr17	75667216	C	A	RFOX2_HUMAN,CREB1_HUMAN,NR2C1_HUMAN,EMSY_HUMAN,USF2_HUMAN,SRF_HUMAN,CREM_HUMAN,HIF1A_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),H1 (embryonic stem cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),SK-N-SH (neuroblastoma)	1.5984638110849898	0.0	1.4280000000000002	-1.209
+chr17	75667217	T	G	RFOX2_HUMAN,CREB1_HUMAN,NR2C1_HUMAN,EMSY_HUMAN,SRF_HUMAN,CREM_HUMAN,HIF1A_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),CD34+ hematopoietic stem cells-derived proerythroblasts,H1 (embryonic stem cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),SK-N-SH (neuroblastoma),liver	1.5984638110849898	0.0	1.4280000000000002	-1.209
+chr17	75721341	C	G	BC11B_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),thymus-derived CD34- cells,foreskin keratinocyte	0.0	1.8089476494660692	-1.35	1.5090000000000001
+chr17	76688793	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.4948023929179683	-1.216	1.4609999999999999
+chr17	78128765	G	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma),HEK293 (embryonic kidney)	1.7859807320669967	0.0	1.456	-1.244
+chr17	78592602	A	G	RAD21_HUMAN,SMC3_HUMAN,GCR_HUMAN,JUN_HUMAN,COT2_HUMAN,COT1_HUMAN,ETV5_HUMAN,HIF1A_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),cranial neural crest cells,HepG2 (hepatoblastoma),liver,fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	0.0	4.137162615662394	-0.375	0.927
+chr17	79132639	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.536833740608003	0.0	1.4340000000000002	-1.06
+chr17	79892668	A	G	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	2.318699930251796	0.0	1.706	
+chr17	82385140	C	T	EP300_HUMAN,CTCF_HUMAN,ERR1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),LNCaP C4-2B (prostate carcinoma),SK-BR-3 (breast adenocarcinoma),tibial nerve	0.0	1.736556946981028	-0.914	1.117
+chr17	82497278	T	C	CTCF_HUMAN,FOXA1_HUMAN,MAX_HUMAN,NFE2_HUMAN,ATF3_HUMAN,E2F1_HUMAN,USF2_HUMAN,GLIS1_HUMAN,ZN610_HUMAN,SCRT2_HUMAN,HIF1A_HUMAN,USF1_HUMAN	LNCaP (prostate carcinoma),T47D (invasive ductal carcinoma),GM12878 (female B-cells),H1 (embryonic stem cells),HEK293 (embryonic kidney),NB4 (acute promyelocytic leukemia ),SK-N-SH (neuroblastoma),SUM159PT (pleiomorphic breast carcinoma)	4.318341699800587	0.0	0.645	0.11699999999999999
+chr17	82497292	C	G	CTCF_HUMAN,ZIC2_HUMAN,MAX_HUMAN,NFE2_HUMAN,E2F1_HUMAN,USF2_HUMAN,NRF1_HUMAN,GLIS1_HUMAN,ZN610_HUMAN,SCRT2_HUMAN,HIF1A_HUMAN,USF1_HUMAN,E2F6_HUMAN	LNCaP (prostate carcinoma),T47D (invasive ductal carcinoma),GM12878 (female B-cells),H1 (embryonic stem cells),HEK293 (embryonic kidney),NB4 (acute promyelocytic leukemia ),SK-N-SH (neuroblastoma),upper lobe of left lung	3.3824225062423787	0.0	0.5820000000000001	0.187
+chr2	236749511	A	T	HIF1A_HUMAN	U2OS (osteosarcoma)	5.992922001725804	0.0	1.9880000000000002	-2.447
+chr20	298162	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.138208373881856	0.0	1.51	-1.3980000000000001
+chr20	951870	T	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.6246531500639396	0.0	1.431	-1.139
+chr20	2508885	G	A	ESR1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),HEK293 (embryonic kidney),breast tumor tissue	3.1984856967958515	0.0	1.57	-0.12300000000000001
+chr20	3045769	C	T	ESR1_HUMAN,AP2A_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),cranial neural crest cells,breast tumor tissue	2.64660674550439	0.0	1.705	
+chr20	3811890	A	G	JUN_HUMAN,MAX_HUMAN,ZN341_HUMAN,ZNF34_HUMAN,MYC_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),NCI-H2171 (small cell lung carcinoma),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),HT29 (colon adenocarcinoma),breast tumor tissue	1.424313981739225	0.0	1.262	0.21899999999999997
+chr20	16573422	A	G	CTCF_HUMAN,FOXK2_HUMAN,STAT1_HUMAN,HIF1A_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),CD14+ monocytes,GM12878 (female B-cells),HepG2 (hepatoblastoma)	0.1041912856489573	2.1614879272364456	0.302	0.461
+chr20	17822088	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.3275439035294956	0.0	1.626	-2.42
+chr20	33031694	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.506858206827486	0.0	1.535	-2.14
+chr20	33106308	A	G	FOXA1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.3139059995436837	0.0	0.909	
+chr20	34516330	G	C	EGR1_HUMAN,HIF1A_HUMAN,PBX3_HUMAN	T47D (invasive ductal carcinoma),Ishikawa (endometrial adenocarcinoma),SK-N-SH (neuroblastoma)	1.831226161896585	0.0	1.256	-1.275
+chr20	38601843	C	A	CTCF_HUMAN,ZIC2_HUMAN,ZBT26_HUMAN,GLIS1_HUMAN,PRD10_HUMAN,SP2_HUMAN,ZN335_HUMAN,HIF1A_HUMAN	HEK293 (embryonic kidney)	1.8925103230584168	0.0	1.345	0.547
+chr20	45910853	G	C	MAFG_HUMAN,EMSY_HUMAN,IKZF1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),K562 (myelogenous leukemia),macrophages	0.0	3.4231747300794266		1.82
+chr20	46022179	A	G	HIF1A_HUMAN	HEK293 (embryonic kidney)	0.0	1.314044065703581	-1.531	1.305
+chr20	46311311	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.3952387215241056	-1.629	1.3330000000000002
+chr20	47051235	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	4.266353575501093	0.0	1.847	-2.2159999999999997
+chr20	50645619	T	C	AP2A_HUMAN,GABPA_HUMAN,CEBPG_HUMAN,TEAD1_HUMAN,TFE3_HUMAN,TEAD3_HUMAN,ETV5_HUMAN,NRF1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),cranial neural crest cells,HepG2 (hepatoblastoma),breast tumor tissue	1.4373051952028637	0.0	1.074	
+chr20	50645719	G	C	ESR1_HUMAN,FOSL2_HUMAN,JUND_HUMAN,CREB1_HUMAN,SOX13_HUMAN,TEAD1_HUMAN,TEAD3_HUMAN,HIF1A_HUMAN,NR1H3_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),HepG2 (hepatoblastoma),HT29 (colon adenocarcinoma),K562 (myelogenous leukemia),breast tumor tissue	2.4360542737365174	0.0	1.505	-0.247
+chr20	53888101	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	3.2045759625712305	0.0	1.692	-2.197
+chr20	56458579	C	T	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	2.5533122363569447	0.0	1.3090000000000002	-1.518
+chr20	56458591	T	C	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	3.007205466861686	0.0	1.415	-1.624
+chr20	56458657	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.4829519772105697	0.0	1.071	-1.288
+chr20	57220862	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.6187776457225405	-1.26	1.374
+chr20	57222805	T	C	NFXL1_HUMAN,NDF1_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells)	0.0	3.4853808217147066		1.736
+chr20	57222829	A	G	P66B_HUMAN,NFXL1_HUMAN,NDF1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells)	0.0	1.6904287171686236		1.6980000000000002
+chr20	62378340	T	C	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	0.0	4.200508425108729	-1.956	1.774
+chr20	62378381	C	T	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	0.0	5.6705933368365935		2.029
+chr20	62573158	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.4707678153707475	0.0	1.274	-1.599
+chr20	62970953	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma),HepG2 (hepatoblastoma)	5.2938615853802045	0.0	1.9969999999999999	-2.603
+chr20	62970966	A	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	4.435820214093088	0.0	1.8869999999999998	-2.315
+chr20	62972297	C	T	CTCF_HUMAN,BHE40_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),GM12878 (female B-cells),lower leg skin	3.5043319850908836	0.0	1.0	-0.077
+chr20	63156469	T	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma),HepG2 (hepatoblastoma),ICN12 (primary pre-B acute lymphomablastic leukemia)	0.0	2.3317761223786304	-1.555	1.406
+chr20	63400682	C	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.408954241461859	0.0	1.492	
+chr20	63958024	G	A	EGR1_HUMAN,CREB1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),K562 (myelogenous leukemia)	3.090158011005221	0.0	1.328	-0.815
+chr21	8993058	T	C	ZFX_HUMAN,HDAC1_HUMAN,HIF1A_HUMAN	MCF7 (Invasive ductal breast carcinoma),HCT-116 (colon carcinoma),K562 (myelogenous leukemia)	0.0	8.055565827683143	-1.158	1.55
+chr21	10413734	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma),K562 (myelogenous leukemia)	1.751811173164188	0.0	1.508	-1.138
+chr21	13980284	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.6460707458198387	0.0	1.5930000000000002	
+chr21	33202713	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.6352674608911226	0.0	1.399	-1.182
+chr21	36060612	C	G	COT1_HUMAN,NRF1_HUMAN,PRD10_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),cranial neural crest cells	0.0	2.6502634198218096	0.006	1.308
+chr21	37073157	T	G	ESR1_HUMAN,STAT1_HUMAN,NRF1_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),CD14+ monocytes,GM12878 (female B-cells),breast tumor tissue	2.6806425372828055	0.0	1.4869999999999999	
+chr21	37271113	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.0820779921398063	0.0	1.4480000000000002	
+chr21	37533508	G	C	CTCF_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),HEK293 (embryonic kidney),MDA-MB-453 (breast adenocarcinoma),thyroid gland	0.0	3.382331083159336	0.36700000000000005	0.682
+chr21	39445430	C	T	ESR1_HUMAN,CTCF_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),K562 (myelogenous leukemia)	0.0	1.3839757663816148	0.273	0.795
+chr21	39445504	G	A	CTCF_HUMAN,MGAP_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),K562 (myelogenous leukemia)	0.0	3.798355661892599	-0.024	0.59
+chr21	40338952	A	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.3589086916119375	0.0	1.202	
+chr21	41878606	C	T	BHE40_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),GM12878 (female B-cells),NCI-H2171 (small cell lung carcinoma)	0.0	3.3062038407606464	-1.284	0.7090000000000001
+chr21	42450251	T	G	JUND_HUMAN,CREB1_HUMAN,HTF4_HUMAN,FOXK2_HUMAN,STAT1_HUMAN,HIF1A_HUMAN	HEK293T (embryonic kidney),LNCaP (prostate carcinoma),T47D (invasive ductal carcinoma),CD14+ monocytes,coronary artery smooth muscle,HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),monocyte-derived dendritic cells,liver	3.6680743285737187	0.0	1.111	-0.652
+chr21	42731454	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.3128692057670313	-1.2690000000000001	1.3159999999999998
+chr21	42893183	A	G	AP2A_HUMAN,SMC3_HUMAN,ANDR_HUMAN,STAT1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),CD14+ monocytes,cranial neural crest cells,GM12878 (female B-cells)	1.9719879688702004	0.0	1.508	-2.124
+chr21	42955838	T	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.3589086916119375	0.0	1.202	
+chr3	4887260	T	C	FOXA1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.01801467305331921	2.0531520444374167	-0.217	0.57
+chr3	12664356	A	G	CTCF_HUMAN,ZFX_HUMAN,JUN_HUMAN,FOXK2_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),T47D (invasive ductal carcinoma),HEK293 (embryonic kidney),upper lobe of left lung,foreskin keratinocyte	2.885664529423976	0.023126353823837258	0.765	0.221
+chr3	13475881	A	G	PRGR_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma)	3.359432607852242	0.28895456360469135	1.177	0.27699999999999997
+chr3	13636347	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	2.08512220509757		1.8419999999999999
+chr3	14301224	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.6426957311984243	0.0	1.396	
+chr3	14781451	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.9122439336622357	0.0	1.78	
+chr3	41417711	G	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	2.0785479176201482		1.64
+chr3	65170889	C	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.8346101412248499	0.0	1.395	-1.764
+chr3	112774535	C	T	ANDR_HUMAN,JUN_HUMAN,HIF1A_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),LHSAR (prostate epithelial cells)	3.297012770825781	0.0	0.946	-0.18600000000000003
+chr3	113148632	C	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.530496585747035	0.0	1.561	-1.99
+chr3	122929976	G	A	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.6505250307990487		1.6880000000000002
+chr3	160918061	T	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.4861618093366153	0.0	1.858	
+chr3	169764547	T	C	SIN3A_HUMAN,ZFX_HUMAN,ELK1_HUMAN,CHD1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),MCF-7 C4-12 (invasive breast ductal carcinoma),Peyer's patch	0.0	1.8903138498892047	-0.44299999999999995	1.395
+chr3	177420964	C	T	ESR1_HUMAN,FOXA1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma)	7.742757045936184	0.0	1.3530000000000002	-0.126
+chr3	180602193	G	T	FOXA1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.08632636952040461	2.0995683813525026	-0.557	0.9329999999999999
+chr3	180889457	T	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.314044065703581		1.4480000000000002
+chr3	183884463	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma),HEK293 (embryonic kidney)	1.3998805898023958	0.0	1.714	
+chr3	192917559	C	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma),GM12878 (female B-cells)	1.3075576762841263	0.0	1.3130000000000002	
+chr3	193241004	G	A	HIF1A_HUMAN,HIF3A_HUMAN	U2OS (osteosarcoma),T47D (invasive ductal carcinoma)	1.8737971836680785	0.8558272414393686	1.3880000000000001	1.8519999999999999
+chr3	193970377	T	C	CTCF_HUMAN,HIF1A_HUMAN	AG09319 (fibroblasts),AG10803 (fibroblasts),LNCaP (prostate carcinoma),T47D (invasive ductal carcinoma),lymphoblastoid cells,fibroblast of pulmonary artery	4.662987194829096	0.0	0.779	0.446
+chr3	193970383	A	G	HIF1A_HUMAN	LNCaP (prostate carcinoma),T47D (invasive ductal carcinoma),lymphoblastoid cells,fibroblast of pulmonary artery	0.0	1.4174883956773232		1.452
+chr3	194075934	G	A	HIF1A_HUMAN	VCaP (prostate carcinoma),T47D (invasive ductal carcinoma),breast tumor tissue,breast tumour metastasis	1.3337027900670648	0.0	1.341	
+chr3	194672484	A	C	SNAI2_HUMAN,HIF1A_HUMAN,SPI1_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),keratinocytes,monocyte-derived macrophages,periferal blood macrophages	4.53632498825164	0.0	1.7	
+chr3	194730733	C	T	FOXA1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.317501468230647	0.10945330282319907	0.935	-0.10099999999999999
+chr3	196788002	G	C	FOXA1_HUMAN,FOXA2_HUMAN,HIF1A_HUMAN	VCaP (prostate carcinoma),T47D (invasive ductal carcinoma),HepG2 (hepatoblastoma)	8.100727935175593	0.0	1.054	-0.252
+chr5	757583	G	A	HTF4_HUMAN,TBX3_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),HepG2 (hepatoblastoma)	0.0	1.5860698261660833		1.329
+chr5	784861	T	C	CTCF_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),pancreas	2.0253118584391276	0.0	0.961	-0.382
+chr5	1799751	A	G	ESR1_HUMAN,USF2_HUMAN,HIF1A_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),HepG2 (hepatoblastoma),breast tumor tissue,neural cell	0.0	1.9666933606915031		1.401
+chr5	1883793	C	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.3865114220407444		1.296
+chr5	4258370	T	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.6013671720915044	0.0	1.6909999999999998	-2.485
+chr5	7869122	T	C	ESR1_HUMAN,ZBT26_HUMAN,GLIS1_HUMAN,ZN629_HUMAN,ZXDB_HUMAN,ZBT20_HUMAN,SP2_HUMAN,GLIS2_HUMAN,ZEB2_HUMAN,HIF1A_HUMAN	HEK293T (embryonic kidney),T47D (invasive ductal carcinoma),HEK293 (embryonic kidney),breast tumor tissue	4.907721250690179	0.0	2.019	
+chr5	27523625	C	T	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	1.612149136739669	0.0	1.536	-2.043
+chr5	32331308	C	T	FOXA1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0592328397860615	3.0349228592842823	0.084	0.685
+chr5	32331350	A	G	GRHL2_HUMAN,ESR1_HUMAN,FOXA1_HUMAN,SMCE1_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),ZR-75-1 (invasive ductal carcinoma),breast tumor tissue	7.293044824225407	0.0	1.2329999999999999	0.051
+chr5	32935627	G	A	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	2.454507668042679	0.0	1.59	-1.466
+chr5	54517633	G	C	ZBT7A_HUMAN,EGR1_HUMAN,KMT2A_HUMAN,HIF1A_HUMAN	MCF7 (Invasive ductal breast carcinoma),HCT-116 (colon carcinoma),K562 (myelogenous leukemia),SUM159PT (pleiomorphic breast carcinoma),fetal bone marrow-derived mononuclear cells,foreskin keratinocyte	0.0	4.1678573275603075	-0.8859999999999999	1.209
+chr5	177447940	A	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma),K562 (myelogenous leukemia)	1.5584770204708498	0.0	1.354	
+chr5	178080916	G	A	ESR1_HUMAN,FOXA1_HUMAN,ZNF24_HUMAN,RCOR1_HUMAN,TF65_HUMAN,HIF1A_HUMAN	MCF7 (Invasive ductal breast carcinoma)	3.8437720531836654	0.0	1.061	-0.305
+chr6	12011431	A	T	CREB1_HUMAN,STAT1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),CD14+ monocytes,HepG2 (hepatoblastoma)	1.3898076283846237	0.0	0.66	-0.161
+chr6	12011454	C	G	STAT1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),CD14+ monocytes,GM12878 (female B-cells)	0.0	2.3599856395795347		1.7480000000000002
+chr6	12353926	C	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.6426957311984243	0.0	1.361	-1.254
+chr6	12442799	G	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	3.321388496692658	0.0	1.804	
+chr6	14211216	T	G	AP2A_HUMAN,BC11B_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),cranial neural crest cells,HepG2 (hepatoblastoma),thymus-derived CD34- cells	1.819064680864447	0.0	1.338	-1.122
+chr6	14211256	C	A	BC11B_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),HepG2 (hepatoblastoma),liver,thymus-derived CD34+ cells,thymus-derived CD34- cells	3.26080750989673	0.0	1.6119999999999999	-1.166
+chr6	20183114	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.6246531500639396	0.0	1.431	-1.139
+chr6	26022016	A	G	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),GM12878 (female B-cells)	2.749937666003035	0.0	1.665	-1.5430000000000001
+chr6	26027205	G	A	CTCF_HUMAN,BMI1_HUMAN,E4F1_HUMAN,HIF1A_HUMAN	VCaP (prostate carcinoma),T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HepG2 (hepatoblastoma),K562 (myelogenous leukemia)	0.058881860723310885	1.349917437594704	0.258	0.6509999999999999
+chr6	26055162	G	A	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	2.8896703858680737	0.0	1.806	
+chr6	28354343	C	G	MAFK_HUMAN,HIF1A_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),Ishikawa (endometrial adenocarcinoma)	7.113892428074615	0.0	1.82	-1.696
+chr6	28399846	C	G	CTCF_HUMAN,GABPA_HUMAN,CEBPA_HUMAN,ETV4_HUMAN,HIF1A_HUMAN	HepG2 (hepatoblastoma),OVCAR8 (high grade ovarian serous adenocarcinoma),foreskin keratinocyte	3.105231956865132	0.662203676261973	0.523	0.293
+chr6	33030094	C	T	TRI22_HUMAN,BHE40_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),GM12878 (female B-cells)	0.0	1.3457331683039415	-0.486	1.112
+chr6	33030100	T	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma),GM12878 (female B-cells)	0.0	1.7081437747174546		1.401
+chr6	33817056	G	C	ESR1_HUMAN,NCOA3_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma)	66.00206216333288	0.0	1.3719999999999999	-0.16
+chr6	34555120	C	G	KDM1A_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),K562 (myelogenous leukemia)	0.0	1.335032898969161	-2.485	1.37
+chr6	34555156	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.6133474518573616	-2.079	1.62
+chr6	36594244	G	C	CTCF_HUMAN,JUN_HUMAN,BCL3_HUMAN,HIF1A_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),HCT-116 (colon carcinoma),right lobe of liver	2.296758306998684	0.0	0.585	0.483
+chr6	46170878	G	T	SNAI2_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),keratinocytes	5.304589455119797	0.0	1.92	-2.526
+chr6	46653360	T	A	BHE40_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),GM12878 (female B-cells),HepG2 (hepatoblastoma)	0.0	1.4646939105143228	-1.003	1.168
+chr6	47147214	C	T	ESR1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma)	10.504890132634927	0.0	1.084	-0.005
+chr6	56844289	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.5584770204708498	0.0	1.278	
+chr6	68635170	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.4486897038792679	0.0	1.375	-2.708
+chr6	73521136	C	T	ESR1_HUMAN,ANDR_HUMAN,ELF1_HUMAN,NR2C1_HUMAN,HTF4_HUMAN,ZSC29_HUMAN,ZN687_HUMAN,FOXK2_HUMAN,WT1_HUMAN,TIF1A_HUMAN,HIF1A_HUMAN	LNCaP C4-2 (prostate carcinoma),GM12878 (female B-cells),K562 (myelogenous leukemia),macrophages,HAEC (human aortic endothelial cells),breast tumor tissue,gastroesophageal sphincter,upper lobe of left lung	0.0	2.2867076252657417	0.065	1.72
+chr7	267268	C	T	SNAI2_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),keratinocytes,A673 (Ewing sarcoma),PANC1 (pancreatic ductal adenocarcinoma),heart left ventricle,gastrocnemius medialis,prostate gland	3.0702512542122853	0.0	1.2890000000000001	-1.078
+chr7	726583	A	G	GABPA_HUMAN,ZBT11_HUMAN,ZN341_HUMAN,SP2_HUMAN,PATZ1_HUMAN,HIF1A_HUMAN,KDM5B_HUMAN	T47D (invasive ductal carcinoma),HEK293 (embryonic kidney),HUVEC (umbilical vein endothelial cells),Jurkat (T-cells),SUM185PE (ductal breast carcinoma)	7.228369178282735	0.0	1.6340000000000001	-1.2990000000000002
+chr7	732388	G	A	RAD21_HUMAN,CTCF_HUMAN,HNF4A_HUMAN,ZN600_HUMAN,HIF1A_HUMAN,KDM5B_HUMAN	T47D (invasive ductal carcinoma),HEK293 (embryonic kidney),MCF10A (breast epithelial cells),R3/R4 erythroid cells,liver,erythroid progenitors,pancreas,IPSC-derived bipolar neuron,heart left ventricle,gastrocnemius medialis,Peyer's patch,bipolar neuron,right lobe of liver,gastroesophageal sphincter,uterus,epithelial cell of prostate,esophagus muscularis mucosa,sigmoid colon,adrenal gland,upper lobe of left lung,GM23338,SK-N-AS (neuroblastoma),NB69 (neuroblastoma)	0.0	3.2464297419783157	-0.506	1.036
+chr7	1413126	A	G	CTCF_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),spleen,erythroid cells	5.588953502939968	0.0	0.6609999999999999	0.17600000000000002
+chr7	1413188	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma),foreskin keratinocyte	1.7428653457221646	0.0	1.3659999999999999	-1.735
+chr7	4960457	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	2.726993874558493	-1.969	1.6230000000000002
+chr7	5297236	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.2349720723777637	0.0	1.48	-1.986
+chr7	5781089	A	G	HIF1A_HUMAN	GM12878 (female B-cells),K562 (myelogenous leukemia)	1.4707678153707475	0.0	1.194	
+chr7	7182321	A	T	HIF1A_HUMAN	HeLa S3 (cervical adenocarcinoma)	1.6426957311984243	0.0	1.307	-1.528
+chr7	8390028	G	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma),K562 (myelogenous leukemia)	0.0	2.862495091756565	-1.5330000000000001	1.383
+chr7	9404762	G	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.2758625741176495	0.0	1.459	
+chr7	12297923	C	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	3.3285269911738555	0.0	1.696	
+chr7	13990494	A	G	FOXK2_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),GM12878 (female B-cells)	2.7185240605278964	0.0	1.421	
+chr7	13990498	C	T	STAT1_HUMAN,HIF1A_HUMAN,SPI1_HUMAN	T47D (invasive ductal carcinoma),CD14+ monocytes,HEK293 (embryonic kidney),periferal blood macrophages	1.472481189039812	0.0	1.2009999999999998	
+chr7	16847773	T	A	ESR1_HUMAN,HIF1A_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),breast tumor tissue	2.4224395263524983	0.0	1.109	-0.402
+chr7	21543901	C	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	7.390083507874612	0.0	2.231	
+chr7	21544049	A	G	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	5.404618566239313	0.0	1.9980000000000002	
+chr7	26864711	C	G	IKZF1_HUMAN,IKZF2_HUMAN,NRF1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),GM12878 (female B-cells)	5.158472386174031	0.0	0.67	-1.208
+chr7	28854355	G	A	STAT1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),erythroid progenitors	1.9441050461765976	0.0	0.716	-2.045
+chr7	44036751	T	C	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	3.7687228199280836	0.0	1.74	-1.9980000000000002
+chr7	45978547	C	T	MNT_HUMAN,FOXK2_HUMAN,BMI1_HUMAN,HIF1A_HUMAN	MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells)	0.0	2.08675198190845		1.847
+chr7	47485791	C	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.3430415918546104	-1.3419999999999999	1.196
+chr7	51461205	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.4742677970301896	0.0	1.227	-1.17
+chr7	55181370	G	A	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),HepG2 (hepatoblastoma),MDA-MB-453 (breast adenocarcinoma)	0.0	4.089851979818836	-1.73	1.581
+chr7	55186343	T	C	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),HepG2 (hepatoblastoma)	0.0	2.835458286096926	-1.774	1.5919999999999999
+chr7	68061465	A	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.4707678153707475	0.0	1.274	-1.5630000000000002
+chr7	73734972	G	A	RAD21_HUMAN,CTCF_HUMAN,SMC3_HUMAN,ZFX_HUMAN,GABPA_HUMAN,HIF1A_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),GM12878 (female B-cells),HepG2 (hepatoblastoma),monocyte-derived dendritic cells,hepatocytes,PC9 (lung adenocarcinoma),esophagus squamous epithelium,adrenal gland,prostate gland,tibial nerve	0.8484166960017636	1.616862953820299	0.264	0.69
+chr7	73827945	G	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma),NCI-H2171 (small cell lung carcinoma)	1.7788693815819443	0.0	1.185	-1.392
+chr7	73838813	C	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.035942421221656	0.0	1.39	
+chr7	73855607	C	T	RAD21_HUMAN,SMC3_HUMAN,CREB1_HUMAN,TAF9B_HUMAN,HIF1A_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),K562 (myelogenous leukemia),erythroid cells	2.379818530682718	0.5402384033405108	0.659	0.16
+chr7	78040010	G	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.3998805898023958	0.0	1.235	-1.455
+chr7	81401149	T	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.5032181952961643	-1.319	1.319
+chr8	36779291	G	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.9651836319357932	0.0	1.4240000000000002	-1.8519999999999999
+chr8	39308008	T	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.6352674608911226	0.0	1.33	-1.618
+chr8	60281269	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma),K562 (myelogenous leukemia)	1.7428653457221646	0.0	1.3659999999999999	-1.735
+chr8	60652212	C	A	SMC3_HUMAN,JUN_HUMAN,BCL3_HUMAN,MGAP_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	HEK293T (embryonic kidney),A549 (lung carcinoma),T47D (invasive ductal carcinoma),K562 (myelogenous leukemia),ME-1 (acute myeloid leukemia ),neural cell	0.0	1.4769537015844365	-0.693	0.8079999999999999
+chr8	69650493	C	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.6069940063793693	0.0	1.564	-2.169
+chr8	70669324	G	T	MAX_HUMAN,ELF1_HUMAN,BHE40_HUMAN,IKZF2_HUMAN,MYCN_HUMAN,HIF1A_HUMAN,KDM5B_HUMAN	A549 (lung carcinoma),T47D (invasive ductal carcinoma),GM12878 (female B-cells),NCI-H128 (small cell lung carcinoma),H1 (embryonic stem cells),HepG2 (hepatoblastoma),Tet21N (neuroblastoma)	0.0	5.333904892111957	0.025	1.203
+chr8	73208131	T	C	ESR1_HUMAN,FOXA1_HUMAN,PRGR_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),breast tumor tissue	1.4836927776187758	0.007283979248133931	0.961	-0.204
+chr8	80301187	C	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.254752134218225	0.0	1.474	-1.413
+chr8	80301435	G	T	ZN398_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),HEK293 (embryonic kidney)	0.0	3.6589271110070607	-1.723	1.6
+chr8	89882782	A	G	CTCF_HUMAN,FOXA1_HUMAN,HIF1A_HUMAN	22RV1 (prostate carcinoma),T47D (invasive ductal carcinoma),liver,pancreas	0.0	6.359393984994746	0.021	0.965
+chr8	100804418	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.035942421221656	0.0	1.39	
+chr8	106657862	T	G	FOXK2_HUMAN,ZEB2_HUMAN,HDAC1_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),HepG2 (hepatoblastoma),K562 (myelogenous leukemia)	0.046804071023460514	1.4446097887602696	-0.28600000000000003	1.081
+chr8	106657913	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma),GM12878 (female B-cells)	0.0	4.379772707823088	-2.015	1.814
+chr8	107879197	T	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.3866324110562762	0.0	1.23	-1.012
+chr8	113775812	G	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.2349720723777637	0.0	1.48	-1.986
+chr8	115879134	T	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.8881060357541217	0.0	1.354	
+chr8	124371471	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma),K562 (myelogenous leukemia)	7.121146791357248	0.0	2.147	
+chr8	124566752	T	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	2.00777991518714		1.4380000000000002
+chr8	127891853	G	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma),K562 (myelogenous leukemia)	1.8881060357541217	0.0	1.354	
+chr8	129999249	C	T	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.526815313155743	0.0	1.524	
+chr8	142600396	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.6985769548644396	0.0	1.122	-1.338
+chr8	142727249	T	C	CTCF_HUMAN,SIN3A_HUMAN,MAX_HUMAN,BHE40_HUMAN,HIF1A_HUMAN	786-O (renal carcinoma),T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HCT-116 (colon carcinoma),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),foreskin keratinocyte	1.4507236661289664	0.0	0.654	0.611
+chr8	143379999	A	G	HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	3.7687228199280836	0.0	1.767	-2.092
+chr8	143430917	G	C	ESR1_HUMAN,KDM1A_HUMAN,HIF1A_HUMAN	VCaP (prostate carcinoma),T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),K562 (myelogenous leukemia),pancreas	1.533276100900977	0.0	1.102	-0.156
+chr8	143573145	A	C	ZFX_HUMAN,SP1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),HCT-116 (colon carcinoma),K562 (myelogenous leukemia)	0.0	1.6628316772285512	-0.69	0.9570000000000001
+chr8	143617922	G	C	IKZF1_HUMAN,STAT1_HUMAN,ZN143_HUMAN,HIF1A_HUMAN	A549 (lung carcinoma),GM12878 (female B-cells),HepG2 (hepatoblastoma),breast tumor tissue,neural cell	1.5053169872308345	0.0	0.7120000000000001	-0.297
+chr8	143685001	G	A	ZN341_HUMAN,MAZ_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),HEK293 (embryonic kidney)	1.504697343507022	0.0	1.198	-1.121
+chr8	143733493	C	G	ESR1_HUMAN,CTCF_HUMAN,ZBT7A_HUMAN,MAX_HUMAN,GABPA_HUMAN,NRF1_HUMAN,HIF1A_HUMAN,CTCFL_HUMAN	786-O (renal carcinoma),A549 (lung carcinoma),T47D (invasive ductal carcinoma),K562 (myelogenous leukemia),breast tumor tissue,foreskin keratinocyte	2.365437690766002	0.0	1.581	-2.375
+chr8	143878518	T	C	ANDR_HUMAN,SNAI2_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),keratinocytes,MDA-MB-453 (breast adenocarcinoma)	0.23204234133674992	1.5776114734870217	0.138	1.219
+chr9	107349097	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	3.0042809323253206	0.0	1.744	
+chr9	110256692	G	A	FOXK2_HUMAN,NRF1_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	HEK293T (embryonic kidney),T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HepG2 (hepatoblastoma)	0.0	1.3660930310533805	-1.003	1.168
+chr9	110256702	A	C	FOXK2_HUMAN,NRF1_HUMAN,HIF1A_HUMAN	HEK293T (embryonic kidney),T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HepG2 (hepatoblastoma),mammary epithelial cells	0.0	1.776262196732092	-1.139	1.306
+chr9	110256722	T	A	FOXK2_HUMAN,NRF1_HUMAN,HIF1A_HUMAN,KDM5B_HUMAN	HEK293T (embryonic kidney),T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HepG2 (hepatoblastoma),mammary epithelial cells	0.0	2.3962776164565014	-1.296	1.456
+chr9	111630966	T	C	ESR1_HUMAN,SMC3_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),GM12878 (female B-cells),breast tumor tissue	1.507760717775857	0.0	1.27	
+chr9	112066052	C	T	EP300_HUMAN,NFIC_HUMAN,CEBPB_HUMAN,GATA3_HUMAN,GCR_HUMAN,JUND_HUMAN,SP1_HUMAN,HTF4_HUMAN,GATA4_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN,PBX3_HUMAN	BEAS-2B (bronchial epithelium),T47D (invasive ductal carcinoma),HCT-116 (colon carcinoma),HeLa S3 (cervical adenocarcinoma),HUES64 (embryonic stem cells),SK-N-SH (neuroblastoma),upper lobe of left lung	0.0	3.1855591146425883	-0.221	1.078
+chr9	120793537	C	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.8346101412248499	0.0	1.571	-2.187
+chr9	122190740	A	G	ESR1_HUMAN,FOXA1_HUMAN,ZFX_HUMAN,FOS_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),breast tumor tissue	2.114902163299321	0.0	1.5290000000000001	
+chr9	127578974	A	G	EP300_HUMAN,ETV5_HUMAN,STAT1_HUMAN,TF65_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),CD14+ monocytes,HepG2 (hepatoblastoma),periferal blood macrophages,tibial nerve	1.8757611030747725	0.0	0.977	-0.361
+chr9	127579080	A	G	JUN_HUMAN,IKZF1_HUMAN,TF65_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HepG2 (hepatoblastoma),HUVEC (umbilical vein endothelial cells),periferal blood macrophages	0.016993866656237127	1.311643968411094	-0.162	0.95
+chr9	128215075	A	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.4707678153707475	0.0	1.4980000000000002	-2.005
+chr9	133059798	C	G	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	1.5603860835314693	0.0	1.527	-2.01
+chr9	134342933	T	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	2.454507668042679	0.0	1.59	-1.466
+chr9	134370270	C	T	ZFX_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),liver,breast tumor tissue	0.0	2.5015535874743433	-0.183	0.9570000000000001
+chr9	134370273	T	C	ZFX_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),liver,breast tumor tissue	0.0	2.3828402057728684	-0.133	0.922
+chr9	134858629	G	T	CTCF_HUMAN,FOXA1_HUMAN,HIF1A_HUMAN,HIF3A_HUMAN	T47D (invasive ductal carcinoma)	3.0999863939814674	0.0	0.551	0.08199999999999999
+chr9	135241843	T	C	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	1.5914545321873068	-1.2919999999999998	1.453
+chr9	136485868	C	T	ESR1_HUMAN,HIF1A_HUMAN	T47D (invasive ductal carcinoma),breast tumor tissue	1.351819155479684	0.0	1.2229999999999999	-0.059000000000000004
+chr9	137605194	T	C	ANDR_HUMAN,FOXA1_HUMAN,MYC_HUMAN,HIF1A_HUMAN,KDM5B_HUMAN	T47D (invasive ductal carcinoma),MDA-MB-453 (breast adenocarcinoma)	5.203912746776028	0.0	1.8030000000000002	
+chr9	137611771	G	A	HIF1A_HUMAN	T47D (invasive ductal carcinoma)	0.0	6.960293480593951		2.267

@@ -1,0 +1,3 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	PO2F1_HUMAN_FDR_Ref	PO2F1_HUMAN_FDR_Alt	PO2F1_HUMAN_Effect_Size_Ref	PO2F1_HUMAN_Effect_Size_Alt
+chr11	64317826	C	T	ZBT11_HUMAN,ERG_HUMAN,SNAI2_HUMAN,PO2F1_HUMAN	VCaP (prostate carcinoma),keratinocytes,K562 (myelogenous leukemia),fetal bone marrow-derived mononuclear cells	0.0	1.3985745508551433	-1.228	1.281
+chr13	110715303	A	G	CTCF_HUMAN,STAT1_HUMAN,BC11B_HUMAN,PO2F1_HUMAN,MAF_HUMAN	VCaP (prostate carcinoma),CD14+ monocytes,GM12878 (female B-cells),Th1-cells,thymus-derived CD34- cells,D341 Med (medulloblastoma)	0.011622617732255971	1.3115841530691204	0.247	0.358

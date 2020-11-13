@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	ZSA5D_HUMAN_FDR_Ref	ZSA5D_HUMAN_FDR_Alt	ZSA5D_HUMAN_Effect_Size_Ref	ZSA5D_HUMAN_Effect_Size_Alt
+chr1	225754984	G	A	ZN384_HUMAN,ZSA5D_HUMAN	HEK293T (embryonic kidney),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),BeWo (gestational choriocarcinoma)	0.0	1.3854314867717878		1.642

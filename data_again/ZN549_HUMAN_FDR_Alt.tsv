@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	ZN549_HUMAN_FDR_Ref	ZN549_HUMAN_FDR_Alt	ZN549_HUMAN_Effect_Size_Ref	ZN549_HUMAN_Effect_Size_Alt
+chr17	1111657	G	A	GLIS1_HUMAN,ZN549_HUMAN	A549 (lung carcinoma),HEK293 (embryonic kidney)	0.0	1.6883009154441952		1.5730000000000002

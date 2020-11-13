@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	ZFP28_HUMAN_FDR_Ref	ZFP28_HUMAN_FDR_Alt	ZFP28_HUMAN_Effect_Size_Ref	ZFP28_HUMAN_Effect_Size_Alt
+chr19	11313027	C	G	ZFP28_HUMAN	HEK293 (embryonic kidney)	1.5169459932087912	0.0	1.2590000000000001	-1.158

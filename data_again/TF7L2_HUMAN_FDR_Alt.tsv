@@ -1,0 +1,11 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	TF7L2_HUMAN_FDR_Ref	TF7L2_HUMAN_FDR_Alt	TF7L2_HUMAN_Effect_Size_Ref	TF7L2_HUMAN_Effect_Size_Alt
+chr1	219791171	G	C	TF7L2_HUMAN	HCT-116 (colon carcinoma)	1.5952835375142074	0.0	1.225	
+chr1	219791256	C	T	TF7L2_HUMAN	HCT-116 (colon carcinoma)	1.9256779547426839	0.0	0.966	-0.249
+chr11	85815647	C	T	TF7L2_HUMAN	HCT-116 (colon carcinoma)	0.0	1.8656174292899645	-0.452	0.946
+chr12	8037284	G	T	FOXK2_HUMAN,TF7L2_HUMAN	hematopoietic stem cells and progenitors,monocyte-derived macrophages	1.8791470641372676	0.0	1.215	-1.2329999999999999
+chr14	73851942	G	C	CLOCK_HUMAN,TF7L2_HUMAN	HEK293T (embryonic kidney),MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney),MDA-MB-453 (breast adenocarcinoma),liver	0.0	2.7259817245820566	-1.275	1.354
+chr15	62060644	C	T	CTCF_HUMAN,MNT_HUMAN,IKZF1_HUMAN,FOXK2_HUMAN,TF7L2_HUMAN,DACH1_HUMAN,HDAC1_HUMAN	A549 (lung carcinoma),LNCaP (prostate carcinoma),MCF7 (Invasive ductal breast carcinoma),LNCaP C4-2B (prostate carcinoma),GM12878 (female B-cells),K562 (myelogenous leukemia),MDA-MB-453 (breast adenocarcinoma),periferal blood macrophages	0.0	1.7763963943912175	0.35700000000000004	0.5770000000000001
+chr17	65560843	C	T	ZBT26_HUMAN,TF7L2_HUMAN,TF7L1_HUMAN	HCT-116 (colon carcinoma),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),MDA-MB-453 (breast adenocarcinoma)	3.1922697925034975	0.0	1.729	-2.0540000000000003
+chr4	182809170	G	A	TF7L2_HUMAN,TF65_HUMAN	hematopoietic stem cells and progenitors,monocyte-derived macrophages	1.9256779547426839	0.0	1.41	-1.274
+chr6	33323095	G	A	GABPA_HUMAN,CREB1_HUMAN,MNT_HUMAN,PKNX1_HUMAN,FOXK2_HUMAN,ZN639_HUMAN,TF7L2_HUMAN,ERG_HUMAN	VCaP (prostate carcinoma),HepG2 (hepatoblastoma),K562 (myelogenous leukemia)	2.8616363510845724	0.0	0.963	1.149
+chr8	101437276	T	G	CTCF_HUMAN,AP2A_HUMAN,TF7L2_HUMAN	MDA-MB-453 (breast adenocarcinoma)	0.0	1.322909318916697		0.743

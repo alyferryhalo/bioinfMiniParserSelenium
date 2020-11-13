@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	ZN614_HUMAN_FDR_Ref	ZN614_HUMAN_FDR_Alt	ZN614_HUMAN_Effect_Size_Ref	ZN614_HUMAN_Effect_Size_Alt
+chr17	55762205	G	A	SOX13_HUMAN,RXRB_HUMAN,PPARG_HUMAN,ZN614_HUMAN	HepG2 (hepatoblastoma)	1.9477167484413183	0.0	1.557	-1.256

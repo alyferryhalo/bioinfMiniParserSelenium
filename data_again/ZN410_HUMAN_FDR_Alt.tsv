@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	ZN410_HUMAN_FDR_Ref	ZN410_HUMAN_FDR_Alt	ZN410_HUMAN_Effect_Size_Ref	ZN410_HUMAN_Effect_Size_Alt
+chr16	85522897	T	G	MGAP_HUMAN,PRD10_HUMAN,HDAC1_HUMAN,ZN410_HUMAN	MCF7 (Invasive ductal breast carcinoma),K562 (myelogenous leukemia)	0.0	1.3310668748287107		1.479

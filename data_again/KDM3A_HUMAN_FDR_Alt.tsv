@@ -1,0 +1,3 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	KDM3A_HUMAN_FDR_Ref	KDM3A_HUMAN_FDR_Alt	KDM3A_HUMAN_Effect_Size_Ref	KDM3A_HUMAN_Effect_Size_Alt
+chr14	24271557	C	T	SKI_HUMAN,MAX_HUMAN,GABPA_HUMAN,CREB1_HUMAN,FOXK2_HUMAN,KDM3A_HUMAN,NRF1_HUMAN,TF65_HUMAN	CD34+ stem cells-derived erythroblasts,GM12878 (female B-cells),HepG2 (hepatoblastoma),monocyte-derived macrophages	0.0	2.469186396953249	-1.465	1.3019999999999998
+chr16	46390789	A	G	KDM3A_HUMAN	HepG2 (hepatoblastoma)	2.6641977041061002	0.0	1.867	

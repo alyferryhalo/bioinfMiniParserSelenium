@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	ZSCA2_HUMAN_FDR_Ref	ZSCA2_HUMAN_FDR_Alt	ZSCA2_HUMAN_Effect_Size_Ref	ZSCA2_HUMAN_Effect_Size_Alt
+chr1	205750404	G	A	JUN_HUMAN,SP1_HUMAN,CREB1_HUMAN,FOXK2_HUMAN,ZSCA2_HUMAN	A549 (lung carcinoma),LNCaP (prostate carcinoma),MCF7 (Invasive ductal breast carcinoma),GM12878 (female B-cells),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),liver	3.8681952585262924	0.0	1.11	-0.5670000000000001

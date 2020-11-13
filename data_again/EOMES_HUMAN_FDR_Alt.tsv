@@ -1,0 +1,3 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	EOMES_HUMAN_FDR_Ref	EOMES_HUMAN_FDR_Alt	EOMES_HUMAN_Effect_Size_Ref	EOMES_HUMAN_Effect_Size_Alt
+chr1	162378087	G	C	EOMES_HUMAN	H9 (embryonic stem cells)	0.0	1.4232798173405794	-1.255	1.294
+chr5	129481356	C	G	EOMES_HUMAN	H9 (embryonic stem cells)	3.1467844034099492	0.0	1.555	

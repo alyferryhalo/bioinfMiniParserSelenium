@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	SMAD3_HUMAN_FDR_Ref	SMAD3_HUMAN_FDR_Alt	SMAD3_HUMAN_Effect_Size_Ref	SMAD3_HUMAN_Effect_Size_Alt
+chr6	44034636	C	T	SMAD3_HUMAN	NCI-H441 (squamous cell lung carcinoma )	2.3752454650858836	0.10981507376567966	1.531	-0.376

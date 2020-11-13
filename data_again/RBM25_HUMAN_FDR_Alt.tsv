@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	RBM25_HUMAN_FDR_Ref	RBM25_HUMAN_FDR_Alt	RBM25_HUMAN_Effect_Size_Ref	RBM25_HUMAN_Effect_Size_Alt
+chr16	84116773	A	G	RBM25_HUMAN,CTCF_HUMAN,JUN_HUMAN,REST_HUMAN,CREB1_HUMAN,MNT_HUMAN,EMSY_HUMAN,NRF1_HUMAN,ATF7_HUMAN	A549 (lung carcinoma),HCC1954 (ductal breast carcinoma),HEK293 (embryonic kidney),K562 (myelogenous leukemia),foreskin keratinocyte	0.0	1.6845717036298289		1.564

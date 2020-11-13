@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	ZNF23_HUMAN_FDR_Ref	ZNF23_HUMAN_FDR_Alt	ZNF23_HUMAN_Effect_Size_Ref	ZNF23_HUMAN_Effect_Size_Alt
+chr16	84874374	A	G	KDM1A_HUMAN,ZNF23_HUMAN	MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney),K562 (myelogenous leukemia)	0.23599069151927612	1.4812643069141473	-0.332	1.395

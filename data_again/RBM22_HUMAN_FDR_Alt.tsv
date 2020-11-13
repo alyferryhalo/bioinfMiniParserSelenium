@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	RBM22_HUMAN_FDR_Ref	RBM22_HUMAN_FDR_Alt	RBM22_HUMAN_Effect_Size_Ref	RBM22_HUMAN_Effect_Size_Alt
+chr14	23647260	C	G	RBM22_HUMAN,FOXK2_HUMAN	HepG2 (hepatoblastoma)	1.943460892070435	0.0	1.619	-2.225

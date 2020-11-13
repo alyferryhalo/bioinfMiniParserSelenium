@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	PCH2_HUMAN_FDR_Ref	PCH2_HUMAN_FDR_Alt	PCH2_HUMAN_Effect_Size_Ref	PCH2_HUMAN_Effect_Size_Alt
+chr6	170160414	G	T	GABPA_HUMAN,GABP1_HUMAN,PCH2_HUMAN	K562 (myelogenous leukemia)	0.0	2.524554490984142	-0.851	0.8859999999999999

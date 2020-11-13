@@ -1,0 +1,30 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	CXXC1_HUMAN_FDR_Ref	CXXC1_HUMAN_FDR_Alt	CXXC1_HUMAN_Effect_Size_Ref	CXXC1_HUMAN_Effect_Size_Alt
+chr10	5666348	G	A	ESR1_HUMAN,EGR1_HUMAN,CXXC1_HUMAN	K562 (myelogenous leukemia),SEM (childhood B acute lymphoblastic leukemia)	0.0	1.3917180731829535	-1.042	1.455
+chr10	5666471	C	G	ESR1_HUMAN,KMT2A_HUMAN,CXXC1_HUMAN	K562 (myelogenous leukemia),SEM (childhood B acute lymphoblastic leukemia)	1.4170176093552793	0.0	1.395	-1.969
+chr11	107017882	G	A	PRDM9_HUMAN,KMT2A_HUMAN,CXXC1_HUMAN	HEK293T (embryonic kidney),SEM (childhood B acute lymphoblastic leukemia)	1.3101379697925293	0.0	1.2109999999999999	-0.244
+chr12	94149730	C	T	EZH2_HUMAN,CXXC1_HUMAN	GM12878 (female B-cells)	1.4269924301843426	0.0	0.705	-0.5660000000000001
+chr12	108562657	C	T	TYY1_HUMAN,CREB1_HUMAN,KAT8_HUMAN,NRF1_HUMAN,CXXC1_HUMAN	HEK293T (embryonic kidney),786-O (renal carcinoma),MCF7 (Invasive ductal breast carcinoma),H1 (embryonic stem cells),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),mammary epithelial cells,SEM (childhood B acute lymphoblastic leukemia)	3.0738893905522735	0.0	1.001	0.466
+chr12	109573424	G	T	ZFX_HUMAN,CREB1_HUMAN,CXXC1_HUMAN	MCF7 (Invasive ductal breast carcinoma),LNCaP C4-2B (prostate carcinoma),GM12878 (female B-cells),HepG2 (hepatoblastoma),SEM (childhood B acute lymphoblastic leukemia)	0.5357746201824378	2.958261488119976	1.246	1.258
+chr12	109573425	C	T	CREB1_HUMAN,CXXC1_HUMAN	MCF7 (Invasive ductal breast carcinoma),LNCaP C4-2B (prostate carcinoma),GM12878 (female B-cells),HepG2 (hepatoblastoma),SEM (childhood B acute lymphoblastic leukemia)	0.0	4.292131996371554	0.317	0.857
+chr12	120194926	C	T	MNT_HUMAN,ZXDB_HUMAN,CXXC1_HUMAN	MCF7 (Invasive ductal breast carcinoma),HEK293 (embryonic kidney)	1.7813559940232677	0.0	0.955	-1.14
+chr15	99566441	T	G	CXXC1_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	1.8949112246504964	0.0	1.444	-1.3780000000000001
+chr18	12307971	G	T	CTCF_HUMAN,ZN143_HUMAN,CXXC1_HUMAN	GM12878 (female B-cells),SEM (childhood B acute lymphoblastic leukemia)	7.435267262815311	0.0	0.637	0.034
+chr18	79068854	G	C	KMT2A_HUMAN,CXXC1_HUMAN	HEK293 (embryonic kidney),SEM (childhood B acute lymphoblastic leukemia)	0.0	3.0907613128249167	-1.515	1.393
+chr19	46746039	G	C	JUN_HUMAN,VEZF1_HUMAN,TYY1_HUMAN,CXXC1_HUMAN	A549 (lung carcinoma),HEK293 (embryonic kidney),K562 (myelogenous leukemia),SEM (childhood B acute lymphoblastic leukemia)	1.4331912834544784	0.0	0.51	0.11900000000000001
+chr2	27629251	A	C	MNT_HUMAN,EMSY_HUMAN,EP400_HUMAN,FOXK2_HUMAN,PHF20_HUMAN,HDAC1_HUMAN,CXXC1_HUMAN	GM12878 (female B-cells),HEK293 (embryonic kidney),HepG2 (hepatoblastoma),K562 (myelogenous leukemia),SEM (childhood B acute lymphoblastic leukemia)	1.8426457566400347	0.0	1.062	-0.17
+chr2	32947069	C	G	SNAI2_HUMAN,CXXC1_HUMAN	keratinocytes	1.5182639044419504	0.0	1.265	-1.034
+chr3	69013777	G	C	CTCF_HUMAN,CXXC1_HUMAN	SEM (childhood B acute lymphoblastic leukemia),pancreas,Peyer's patch,ovary,upper lobe of left lung,foreskin keratinocyte	17.53058492885524	0.0	0.569	0.17
+chr4	148445018	G	A	CTCF_HUMAN,CXXC1_HUMAN	SEM (childhood B acute lymphoblastic leukemia),heart left ventricle	1.3034874668553034	0.46721564629405654	0.753	0.424
+chr5	77629916	A	G	CXXC1_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	1.5609981914940059	0.0	1.159	
+chr6	31271800	A	C	RAD21_HUMAN,CTCF_HUMAN,SMC3_HUMAN,ZFX_HUMAN,CXXC1_HUMAN	22RV1 (prostate carcinoma),HCT-116 (colon carcinoma),SEM (childhood B acute lymphoblastic leukemia),gastroesophageal sphincter,neural cell,upper lobe of left lung	3.3002331507056715	0.0	1.534	-1.466
+chr6	31271808	C	T	CTCF_HUMAN,CXXC1_HUMAN	SEM (childhood B acute lymphoblastic leukemia),gastroesophageal sphincter	2.1693686339187077	0.0	0.639	-0.18
+chr6	31271816	T	C	RAD21_HUMAN,CTCF_HUMAN,CXXC1_HUMAN	22RV1 (prostate carcinoma),SEM (childhood B acute lymphoblastic leukemia),neural cell,foreskin keratinocyte	2.140848141943397	0.0	1.3119999999999998	-1.126
+chr6	31271837	G	A	CXXC1_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	2.158390147917122	0.0	1.456	
+chr6	31271999	A	C	CTCF_HUMAN,E2F1_HUMAN,CXXC1_HUMAN	K562 (myelogenous leukemia),SEM (childhood B acute lymphoblastic leukemia),tibial nerve,neural cell	2.555862182985407	0.0	0.703	-0.092
+chr6	31357011	T	C	ZN687_HUMAN,CXXC1_HUMAN	GM12878 (female B-cells),SEM (childhood B acute lymphoblastic leukemia)	1.3826907608976644	0.0	1.395	-1.764
+chr6	31357013	A	G	CXXC1_HUMAN	GM12878 (female B-cells),SEM (childhood B acute lymphoblastic leukemia)	2.553758064171114	0.0	1.5619999999999998	-1.495
+chr6	31357114	C	T	CXXC1_HUMAN	SEM (childhood B acute lymphoblastic leukemia)	2.852976378730184	0.0	1.615	
+chr6	31357115	G	C	SMCA5_HUMAN,BHE40_HUMAN,IKZF1_HUMAN,BACH1_HUMAN,ARNT_HUMAN,CXXC1_HUMAN	GM12878 (female B-cells),SEM (childhood B acute lymphoblastic leukemia)	2.9262494892058886	0.0	1.7269999999999999	
+chr8	94895889	G	T	CXXC1_HUMAN	HEK293T (embryonic kidney)	1.7389752150787159	0.0	1.244	-1.085
+chr8	144103543	C	T	ESR1_HUMAN,CXXC1_HUMAN	MCF7 (Invasive ductal breast carcinoma),SEM (childhood B acute lymphoblastic leukemia),breast tumor tissue	0.0	2.350829417458769		1.4969999999999999
+chr9	136727950	C	G	IKZF1_HUMAN,KMT2A_HUMAN,CXXC1_HUMAN	GM12878 (female B-cells),SEM (childhood B acute lymphoblastic leukemia)	3.5326636612371214	0.0	1.625	-1.835

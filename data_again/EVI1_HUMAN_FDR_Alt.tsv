@@ -1,0 +1,6 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	EVI1_HUMAN_FDR_Ref	EVI1_HUMAN_FDR_Alt	EVI1_HUMAN_Effect_Size_Ref	EVI1_HUMAN_Effect_Size_Alt
+chr1	26378326	T	A	SPI1_HUMAN,EVI1_HUMAN	K562 (myelogenous leukemia),periferal blood macrophages,SKH1 (chronic myelogenous leukemia, BCR-ABL1 positive)	2.9574184389412466	0.0	1.3319999999999999	0.426
+chr1	206563245	G	A	GATA2_HUMAN,FOXK2_HUMAN,EVI1_HUMAN	GM12878 (female B-cells),SKH1 (chronic myelogenous leukemia, BCR-ABL1 positive)	0.0	3.158691855255274	-0.696	1.375
+chr11	130359634	G	C	EVI1_HUMAN	SKH1 (chronic myelogenous leukemia, BCR-ABL1 positive)	0.05970138006250877	2.1986689067795147	-0.495	1.213
+chr3	69092159	C	G	GATA2_HUMAN,EVI1_HUMAN	SKH1 (chronic myelogenous leukemia, BCR-ABL1 positive)	0.0	1.477600936310382	-0.525	0.9309999999999999
+chr8	102807453	G	A	SPI1_HUMAN,EVI1_HUMAN	monocyte-derived macrophages,SKH1 (chronic myelogenous leukemia, BCR-ABL1 positive)	2.215885875429355	0.0	1.406	

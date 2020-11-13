@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	AGO1_HUMAN_FDR_Ref	AGO1_HUMAN_FDR_Alt	AGO1_HUMAN_Effect_Size_Ref	AGO1_HUMAN_Effect_Size_Alt
+chr19	1456820	A	G	AGO1_HUMAN	K562 (myelogenous leukemia)	2.262914906079574	0.0	1.538	

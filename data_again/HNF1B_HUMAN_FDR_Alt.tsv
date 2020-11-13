@@ -1,0 +1,2 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	HNF1B_HUMAN_FDR_Ref	HNF1B_HUMAN_FDR_Alt	HNF1B_HUMAN_Effect_Size_Ref	HNF1B_HUMAN_Effect_Size_Alt
+chr6	12343729	T	G	HNF1B_HUMAN	pancreatic ductal adenocarcinoma	1.5445127445921671	0.0	1.347	-1.216

@@ -1,0 +1,3 @@
+Chromosome	Position	Ref	Alt	ASB in transcription factors	ASB in cell types	GRHL3_HUMAN_FDR_Ref	GRHL3_HUMAN_FDR_Alt	GRHL3_HUMAN_Effect_Size_Ref	GRHL3_HUMAN_Effect_Size_Alt
+chr16	89093750	G	C	GRHL3_HUMAN	HepG2 (hepatoblastoma),neonatal keratinocytes	0.0	1.4035199628057613		1.567
+chr19	1912935	T	C	GRHL3_HUMAN	neonatal keratinocytes	0.0	1.4035199628057613		1.567
